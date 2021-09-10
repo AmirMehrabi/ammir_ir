@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>آموری</title>
-    <link href="https://my-jigsaw-blog.com/blog" />
-    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/blog/feed.atom" />
-    <updated>2021-09-10T17:53:38+00:00</updated>
-    <id>https://my-jigsaw-blog.com/blog/feed.atom</id>
+    <link href="https://ammir.ir/blog" />
+    <link type="application/atom+xml" rel="self" href="https://ammir.ir/blog/feed.atom" />
+    <updated>2021-09-10T18:06:10+00:00</updated>
+    <id>https://ammir.ir/blog/feed.atom</id>
     <author>
         <name>آموری مهرابیان</name>
     </author>
                 <entry>
-    <id>https://my-jigsaw-blog.com/blog/this-is-what-a-feminist-looks-like</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/this-is-what-a-feminist-looks-like" />
+    <id>https://ammir.ir/blog/this-is-what-a-feminist-looks-like</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/this-is-what-a-feminist-looks-like" />
     <title>این چهرهٔ یک فمینیست است</title>
     <published>2019-07-01T00:00:00+00:00</published>
     <updated>2019-07-01T00:00:00+00:00</updated>
@@ -47,8 +47,8 @@
     ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/net-neutrality</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/net-neutrality" />
+    <id>https://ammir.ir/blog/net-neutrality</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/net-neutrality" />
     <title>بی‌طرفی شبکه</title>
     <published>2019-06-04T00:00:00+00:00</published>
     <updated>2019-06-04T00:00:00+00:00</updated>
@@ -75,8 +75,8 @@
     ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/guerilla-open-access-manifesto</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/guerilla-open-access-manifesto" />
+    <id>https://ammir.ir/blog/guerilla-open-access-manifesto</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/guerilla-open-access-manifesto" />
     <title>اعلامیه‌ی دسترسی آزاد چریکی</title>
     <published>2019-03-09T00:00:00+00:00</published>
     <updated>2019-03-09T00:00:00+00:00</updated>
@@ -113,8 +113,8 @@
     ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/customizing-your-site</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/customizing-your-site" />
+    <id>https://ammir.ir/blog/customizing-your-site</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/customizing-your-site" />
     <title>Customizing Your Site</title>
     <published>2018-12-24T00:00:00+00:00</published>
     <updated>2018-12-24T00:00:00+00:00</updated>
@@ -219,8 +219,8 @@
     ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/custom-404-page</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/custom-404-page" />
+    <id>https://ammir.ir/blog/custom-404-page</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/custom-404-page" />
     <title>Custom 404 Pages</title>
     <published>2018-12-23T00:00:00+00:00</published>
     <updated>2018-12-23T00:00:00+00:00</updated>
@@ -262,8 +262,8 @@ Depending on where your site is hosted, you may need to......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/the-boss</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/the-boss" />
+    <id>https://ammir.ir/blog/the-boss</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/the-boss" />
     <title>رئیس</title>
     <published>2018-12-22T00:00:00+00:00</published>
     <updated>2018-12-22T00:00:00+00:00</updated>
