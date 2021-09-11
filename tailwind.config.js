@@ -26,7 +26,7 @@ module.exports = {
       },
       fontFamily: {
         sans: [
-          'estedad', 'Nunito Sans'
+          'estedad'
         ],
         mono: [
           'monospace',
