@@ -20,10 +20,13 @@
                     <!-- Insert analytics code here -->
         
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=78fd9637b290e82ce93b">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=471fcc890f6cf95da595">
     </head>
 
     <body class="rtl flex flex-col justify-between min-h-screen bg-orange-100 text-gray-800 leading-normal font-sans">
+        <nav id="header" class="fixed w-full z-10 top-0">
+            <div id="progress" class="h-1 z-20 top-0" style="background:linear-gradient(to left, #2c5282 var(--scroll), transparent 0);"></div>
+        </nav>
         <header class="flex items-center  bg-orange-100 h-12 py-4" role="banner">
             <div class="container flex items-center max-w-5xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
@@ -97,20 +100,35 @@
     </ul>
 </nav>
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
-                        <img src="/assets/img/post-cover-image-1.png" alt="رئیس cover image" class="mb-2">
-    
-    <h1 class="leading-none mb-2">رئیس</h1>
-
-    <p class="text-gray-700 text-xl md:mt-0">آموری مهرابیان  •  شنبه، 01 دی 1397</p>
-
-                        <a
-                href="/blog/categories/feature"
-                title="View posts in feature"
-                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
-            >feature</a>
+        <main role="main" class="flex-auto w-full container max-w-5xl mx-auto py-16 px-6">
             
-    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+<div class="flex flex-col sm:flex-row ">
+    <div class="w-full sm:w-1/3 md:w-1/4 text-gray-700 text-center px-4 py-2 m-2">
+        
+
+        <div class="text-blue-800 text-xl sm:text-2xl md:text-3xl font-bold text-center sm:text-left">رئیس</div>
+
+        <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">آموری مهرابیان</div>
+        <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">شنبه، 01 دی 1397</div>
+
+
+        <div class="text-blue-700 text-center sm:text-left hover:underline">
+                        
+            <a href="https://ammir.ir/blog/guerilla-open-access-manifesto" title="Older Post: اعلامیه‌ی دسترسی آزاد چریکی" >بعدی:  اعلامیه‌ی دسترسی آزاد چریکی</a>
+
+                    
+        </div>
+
+    </div>
+    <div class=" font-sans w-full sm:w-2/3 md:w-3/4 text-black font-light text-lg text-right px-4 py-2 m-2 leading-relaxed">
+        
+                    <img src="/assets/img/post-cover-image-1.png" alt="رئیس cover image" class="mb-2">
+                                            <a
+                    href="/blog/categories/feature"
+                    title="View posts in feature"
+                    class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+                >feature</a>
+                    
         <p>مرد مسلح سیگاری روشن می‌کند. ناامیدانه نگاهش به غروب آفتاب است که به کوچه‌ی خلوت می‌تابد. او تک و تنهاست در مکانی شبح‌وار، احضار شده تا دستورالعملش را از تبهکاری حرفه‌ای که فقط با نام «رئیس» شناخته می‌شود دریافت کند، اما رئیس اینجا نیست. هیچکس نیست. شبح‌وار است. احساس انگشت‌نما بودن می‌کند. رئیس به خاطر بی‌رحمیش شناخته شده و معروف است. وقتی که دستور یک قتل را می‌دهد، شخصی می‌میرد. مرد مسلح می‌خواهد کسی شاهد اتفاقاتی باشد که در شرف رخ دادن هستند اما پرنده هم در کوچه سر نمی‌زند.</p>
 
 <p>نگاهی سرسری به ساعتش می‌اندازد، ساعتی که هدیه از طرف رئیس است. با صفحه‌ای از طلا رو به رو می‌شود، بدون شماره. احتمالا یک جک: زمان همان پول است. یا شاید، پول همان زمان است؛ بستگی به این دارد که بیشتر به کدام نیاز داری. رئیس مضمون‌گوی بسیار خوبیست. عقربه‌های ساعت مثل تار مو نازک هستند، مثل لبه‌های تیغ ریش تراش دیدنشان سخت است، مخصوصا در این نور تقریبا محو. هست و نیست، درست مثل خود زمان. که شاید اصلا قابل اندازه گیری نیست -- شاید این همان چیزیست که ساعت بدون عقربه دارد می‌گوید. چگونه می‌توان منجلابی که در آن فرو رفته‌ای را اندازه بگیری؟ نمی‌داند چه چیزی باعث این است که ساعت به کارکردن ادامه دهد. باطری داخلش شاید. وقتی باطری تمام شد؟ بهش فکر نکن.</p>
@@ -140,18 +158,43 @@
 <p>«چرا اینطوری ... چرا ...» زمزمه می‌کند و به آرامی در بغل مرد جان می‌دهد.</p>
 
 <p>قلب مرد دوباره سفت و سخت می‌شود. خشم گوشه‌های چشمانش را فرا گرفته. او دیگر هیچ چیز لعنتی‌یی را درک نمی‌کند.</p>
+
     </div>
+</div>
+    
 
-    <nav class="flex justify-between text-sm md:text-base">
-        <div>
-                    </div>
 
-        <div>
-                            <a href="https://ammir.ir/blog/guerilla-open-access-manifesto" title="Newer Post: اعلامیه‌ی دسترسی آزاد چریکی">
-                    اعلامیه‌ی دسترسی آزاد چریکی &RightArrow;
-                </a>
-                    </div>
-    </nav>
+    <script>
+        /* Progress bar */
+        //Source: https://alligator.io/js/progress-bar-javascript-css-variables/
+        var h = document.documentElement,
+            b = document.body,
+            st = 'scrollTop',
+            sh = 'scrollHeight',
+            progress = document.querySelector('#progress'),
+            scroll;
+        var scrollpos = window.scrollY;
+        var header = document.getElementById("header");
+        var navcontent = document.getElementById("nav-content");
+
+        document.addEventListener('scroll', function() {
+
+            /*Refresh scroll % width*/
+            scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
+            progress.style.setProperty('--scroll', scroll + '%');
+
+            /*Apply classes for slide in bar*/
+            scrollpos = window.scrollY;
+
+
+        });
+
+
+        //Javascript to toggle the menu
+        // document.getElementById('nav-toggle').onclick = function() {
+        //     document.getElementById("nav-content").classList.toggle("hidden");
+        // }
+    </script>
         </main>
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
