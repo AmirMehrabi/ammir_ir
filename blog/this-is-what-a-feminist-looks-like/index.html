@@ -20,10 +20,13 @@
                     <!-- Insert analytics code here -->
         
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=78fd9637b290e82ce93b">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=471fcc890f6cf95da595">
     </head>
 
     <body class="rtl flex flex-col justify-between min-h-screen bg-orange-100 text-gray-800 leading-normal font-sans">
+        <nav id="header" class="fixed w-full z-10 top-0">
+            <div id="progress" class="h-1 z-20 top-0" style="background:linear-gradient(to left, #2c5282 var(--scroll), transparent 0);"></div>
+        </nav>
         <header class="flex items-center  bg-orange-100 h-12 py-4" role="banner">
             <div class="container flex items-center max-w-5xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
@@ -97,15 +100,27 @@
     </ul>
 </nav>
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
-                        <img src="/assets/img/obama.jpg" alt="این چهرهٔ یک فمینیست است cover image" class="mb-2">
-    
-    <h1 class="leading-none mb-2">این چهرهٔ یک فمینیست است</h1>
+        <main role="main" class="flex-auto w-full container max-w-5xl mx-auto py-16 px-6">
+            
+<div class="flex flex-col sm:flex-row ">
+    <div class="w-full sm:w-1/3 md:w-1/4 text-gray-700 text-center px-4 py-2 m-2">
+        
 
-    <p class="text-gray-700 text-xl md:mt-0">آموری مهرابیان  •  دوشنبه، 10 تیر 1398</p>
+        <div class="text-blue-800 text-xl sm:text-2xl md:text-3xl font-bold text-center sm:text-left">این چهرهٔ یک فمینیست است</div>
 
-    
-    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+        <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">آموری مهرابیان</div>
+        <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">دوشنبه، 10 تیر 1398</div>
+
+
+        <div class="text-blue-700 text-center sm:text-left hover:underline">
+                                    
+        </div>
+
+    </div>
+    <div class=" font-sans w-full sm:w-2/3 md:w-3/4 text-black font-light text-lg text-right px-4 py-2 m-2 leading-relaxed">
+        
+                    <img src="/assets/img/obama.jpg" alt="این چهرهٔ یک فمینیست است cover image" class="mb-2">
+                
         <p>رئیس جمهور بودن جنبه‌های دشوار بسیار زیادی دارد. البته مزایایی نیز وجود دارد. آشنایی با افراد خارق‌العاده از سرتاسر کشور. مستقر بودن در دفتری که از طریقش می‌توان در سرنوشت یک ملت تاثیرگذار بود. یکم نیروی هوایی.
 اما شاید بزرگترین هدیه غیرمنتظرهٔ این شغل زندگی در بالاخانهٔ محل کار است. برای سال‌های متمادی زندگی من در رفت و آمدهای طولانی صرف شد. از خانه‌ام در شیکاگو تا اسپرینگفیلد ایلینویز که محل کارم به عنوان سناتور ایالتی در آن‌جا واقع بود، و سپس به واشنگتن دی سی به عنوان سناتور ایالات متحده آمریکا. طی کردن این مسافت‌های طولانی به این معنی بود که می‌بایست برای اینکه آن همسر و پدری باشم که می‌خواهم، بیشتر از پیش تلاش کنم.
 در هفت سال و نیم گذشته این مسافت طولانی به ۴۵ ثانیه تقلیل یافته. ۴۵ ثانیه‌ای که برای پیمودن سالن پذیرایی تا دفتر بیضی ریاست جمهوری نیاز است. در نتیجه، قادر بودم زمان بسیار بیشتری در کنار دخترانم بگذرانم و شاهد رشد و تبدیل شدنشان به زنانی جوان و باهوش، بامزه، مهربان و فوق‌العاده باشم.
@@ -131,18 +146,43 @@
 فمینیسم قرن بیست و یکم در همین مورد است: ایده این است که زمانی که همه با هم برابر باشیم، آزادتر خواهیم بود.
 -باراک اوباما، چهل و چهارمین رئیس جمهور ایالات متحدهٔ آمریکا.
 -برگردان از امیرمسعود مهرابیان</p>
+
     </div>
+</div>
+    
 
-    <nav class="flex justify-between text-sm md:text-base">
-        <div>
-                            <a href="https://ammir.ir/blog/net-neutrality" title="Older Post: بی‌طرفی شبکه">
-                    &LeftArrow; بی‌طرفی شبکه
-                </a>
-                    </div>
 
-        <div>
-                    </div>
-    </nav>
+    <script>
+        /* Progress bar */
+        //Source: https://alligator.io/js/progress-bar-javascript-css-variables/
+        var h = document.documentElement,
+            b = document.body,
+            st = 'scrollTop',
+            sh = 'scrollHeight',
+            progress = document.querySelector('#progress'),
+            scroll;
+        var scrollpos = window.scrollY;
+        var header = document.getElementById("header");
+        var navcontent = document.getElementById("nav-content");
+
+        document.addEventListener('scroll', function() {
+
+            /*Refresh scroll % width*/
+            scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
+            progress.style.setProperty('--scroll', scroll + '%');
+
+            /*Apply classes for slide in bar*/
+            scrollpos = window.scrollY;
+
+
+        });
+
+
+        //Javascript to toggle the menu
+        // document.getElementById('nav-toggle').onclick = function() {
+        //     document.getElementById("nav-content").classList.toggle("hidden");
+        // }
+    </script>
         </main>
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
