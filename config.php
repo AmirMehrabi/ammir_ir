@@ -30,7 +30,7 @@ return [
     'getDate' => function ($page) {
         return jdate($page->date);
     },
-    'getExcerpt' => function ($page, $length = 255) {
+    'getExcerpt' => function ($page, $length = 1000) {
         if ($page->excerpt) {
             return $page->excerpt;
         }

@@ -5,7 +5,7 @@ title: اعلامیه‌ی دسترسی آزاد چریکی
 date: 2019-03-09
 description: اعلامیه‌ی دسترسی آزاد چریکی
 # cover_image: /assets/img/post-cover-image-2.png
-featured: true
+featured: false
 # categories: [configuration]
 ---
 
