@@ -17,5 +17,5 @@
         href="{{ $post->getUrl() }}"
         title="Read more - {{ $post->title }}"
         class="uppercase font-semibold tracking-wide mb-2"
-    >بیشتر بخوانید</a>
+    >ادامه</a>
 </div>

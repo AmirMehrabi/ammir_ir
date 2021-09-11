@@ -1,11 +1,11 @@
 ---
-title: About
-description: A little bit about the site
+title: درباره
+description: کمی دربارهٔ آموری مهرابیان
 ---
 @extends('_layouts.master')
 
 @section('body')
-    <h1>About</h1>
+    <h1>درباره</h1>
 
     <img src="/assets/img/about.png"
         alt="About image"

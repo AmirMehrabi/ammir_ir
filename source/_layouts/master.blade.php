@@ -26,6 +26,9 @@
     </head>
 
     <body class="rtl flex flex-col justify-between min-h-screen bg-orange-100 text-gray-800 leading-normal font-sans">
+        <nav id="header" class="fixed w-full z-10 top-0">
+            <div id="progress" class="h-1 z-20 top-0" style="background:linear-gradient(to left, #2c5282 var(--scroll), transparent 0);"></div>
+        </nav>
         <header class="flex items-center  bg-orange-100 h-12 py-4" role="banner">
             <div class="container flex items-center max-w-5xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
@@ -48,7 +51,7 @@
 
         @include('_nav.menu-responsive')
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
+        <main role="main" class="flex-auto w-full container max-w-5xl mx-auto py-16 px-6">
             @yield('body')
         </main>
 
