@@ -3,12 +3,289 @@
     <title>آموری</title>
     <link href="https://ammir.ir/blog" />
     <link type="application/atom+xml" rel="self" href="https://ammir.ir/blog/feed.atom" />
-    <updated>2021-09-14T07:42:16+00:00</updated>
+    <updated>2021-09-14T13:34:21+00:00</updated>
     <id>https://ammir.ir/blog/feed.atom</id>
     <author>
         <name>آموری مهرابیان</name>
     </author>
                 <entry>
+    <id>https://ammir.ir/blog/homelessness_and_covid</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/homelessness_and_covid" />
+    <title></title>
+    <published>2020-11-30T00:00:00+00:00</published>
+    <updated>2020-11-30T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">The number of kids who are left out of school is increasing. Why? Because more people are loosing their income source, their homes, and that has a real effect on the kids.
+
+Right now, with covid-19, we’re about to witness thousands, if not millions of people lose their jobs or get evicted from their homes like never before. An eviction can often lead to homelessness which in itself can affect education of a child for years to come.
+
+Especially with the younger ones, because they are more dependent on other people to get them to school or provide them with proper tools for online education.
+
+The risk of missing out on school means a loss of education that could haunt kids throughout their lifetimes. So the cycle of poverty will continue and grow into adulthood. As bad as it is now, it’s only gonna get worse if the government don’t come up with a plan to assist damaged families.
+
+As always, it won’t. We’re completely on our own. Now if that ain’t a hostage situation, I don’t know what is....</summary>
+    <content type="html"><![CDATA[
+        <p>The number of kids who are left out of school is increasing. Why? Because more people are loosing their income source, their homes, and that has a real effect on the kids.</p>
+
+<p>Right now, with covid-19, we’re about to witness thousands, if not millions of people lose their jobs or get evicted from their homes like never before. An eviction can often lead to homelessness which in itself can affect education of a child for years to come.</p>
+
+<p>Especially with the younger ones, because they are more dependent on other people to get them to school or provide them with proper tools for online education.</p>
+
+<p>The risk of missing out on school means a loss of education that could haunt kids throughout their lifetimes. So the cycle of poverty will continue and grow into adulthood. As bad as it is now, it’s only gonna get worse if the government don’t come up with a plan to assist damaged families.</p>
+
+<p>As always, it won’t. We’re completely on our own. Now if that ain’t a hostage situation, I don’t know what is.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/more_bark_than_bite</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/more_bark_than_bite" />
+    <title></title>
+    <published>2020-11-27T00:00:00+00:00</published>
+    <updated>2020-11-27T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">In the coming couple of days, we’re gonna witness more bark than bite....</summary>
+    <content type="html"><![CDATA[
+        <p>In the coming couple of days, we’re gonna witness more bark than bite.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/calm</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/calm" />
+    <title>It doesn&#039;t have to be crazy at work</title>
+    <published>2020-11-19T00:00:00+00:00</published>
+    <updated>2020-11-19T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I’m translating a book called It Doesn’t Have To be Crazy at Work written by Jason Fried. I’m planning to publish the translation online, so I was looking for a Static Site Generator and came across Jigsaw by accident. The fact that it’s powered by Laravel got me so excited that I jumped straight to action.
+
+Jigsaw doesn’t provide you with a starter skeleton. Instead, you must build your template from zero all by yourself. But with a default directory structure similar to Laravel, it’s easy to get started for PHP developers. So easy that I’m thinking to migrate this blog to Jigsaw after almost 6 years of ups and downs with the almighty WordPress.
+
+Jigsaw, I think this is the beginning of a beautiful friendship....</summary>
+    <content type="html"><![CDATA[
+        <p>I’m translating a book called <a href="https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780">It Doesn’t Have To be Crazy at Work</a> written by <a href="https://www.ted.com/speakers/jason_fried">Jason Fried</a>. I’m planning to publish the translation online, so I was looking for a Static Site Generator and came across Jigsaw by accident. The fact that it’s powered by Laravel got me so excited that I jumped straight to action.</p>
+
+<p>Jigsaw doesn’t provide you with a starter skeleton. Instead, you must build your template from zero all by yourself. But with a default directory structure similar to Laravel, it’s easy to get started for PHP developers. So easy that I’m thinking to migrate this blog to Jigsaw after almost 6 years of ups and downs with the almighty WordPress.</p>
+
+<p>Jigsaw, I think this is the beginning of a beautiful friendship.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/old_and_grumpy</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/old_and_grumpy" />
+    <title></title>
+    <published>2020-10-26T00:00:00+00:00</published>
+    <updated>2020-10-26T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">When I grow old, I’m gonna be grumpy and bitter....</summary>
+    <content type="html"><![CDATA[
+        <p>When I grow old, I’m gonna be grumpy and bitter.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/parkinsons_disease</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/parkinsons_disease" />
+    <title></title>
+    <published>2020-10-24T00:00:00+00:00</published>
+    <updated>2020-10-24T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">So I met a dude who’d been diagnosed with Parkinson’s and was pretty much independent. There was a sticker on his back that said:
+If this dude’s a-rockin’, don’t come a-knockin’....</summary>
+    <content type="html"><![CDATA[
+        <p>So I met a dude who’d been diagnosed with Parkinson’s and was pretty much independent. There was a sticker on his back that said:
+If this dude’s a-rockin’, don’t come a-knockin’.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/right_ppl_to_hang_out_with</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/right_ppl_to_hang_out_with" />
+    <title></title>
+    <published>2020-10-13T00:00:00+00:00</published>
+    <updated>2020-10-13T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">When you’re spending time with the “right” bunch of people, it ain’t matter if you don’t talk much. As long as somebody is filling the air, you could just listen and still enjoy your time....</summary>
+    <content type="html"><![CDATA[
+        <p>When you’re spending time with the “right” bunch of people, it ain’t matter if you don’t talk much. As long as somebody is filling the air, you could just listen and still enjoy your time.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/nobody_should_be_hungry</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/nobody_should_be_hungry" />
+    <title></title>
+    <published>2020-10-09T00:00:00+00:00</published>
+    <updated>2020-10-09T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I would say for a country with almost 10 percent of the world’s total oil reserves nobody should be hungry, nobody should be denied of good education or a good medicare, nobody should be worried about their old age. You know, basics of life....</summary>
+    <content type="html"><![CDATA[
+        <p>I would say for a country with almost 10 percent of the world’s total oil reserves nobody should be hungry, nobody should be denied of good education or a good medicare, nobody should be worried about their old age. You know, basics of life.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/nigga_moment</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/nigga_moment" />
+    <title>Nigga moment</title>
+    <published>2020-09-29T00:00:00+00:00</published>
+    <updated>2020-09-29T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I recently came close to having a “nigga moment”. According to Huey Freeman, a nigga moment is where ignorance overwhelms the mind of an otherwise logical negro male, causing him to act in an illogical, self-destructive manner.
+
+I am ashamed. Not because of the mentioned accident, no. I wouldn’t mind a good fist-fight every now and then. But because at the moment, I couldn’t even listen to my partner who was trying to stop me from my own stupidity. I let her down.
+
+PS: My brother had a nigga moment the other day, leaving him with a broken nose. Conclusion? Nigga moments are bad for your health....</summary>
+    <content type="html"><![CDATA[
+        <p>I recently came close to having a “nigga moment”. According to Huey Freeman, a nigga moment is where ignorance overwhelms the mind of an otherwise logical negro male, causing him to act in an illogical, self-destructive manner.</p>
+
+<p>I am ashamed. Not because of the mentioned accident, no. I wouldn’t mind a good fist-fight every now and then. But because at the moment, I couldn’t even listen to my partner who was trying to stop me from my own stupidity. I let her down.</p>
+
+<p>PS: My brother had a nigga moment the other day, leaving him with a broken nose. Conclusion? Nigga moments are bad for your health.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/traditional_marketing_is_dead</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/traditional_marketing_is_dead" />
+    <title>Traditional marketing is dead</title>
+    <published>2020-08-01T00:00:00+00:00</published>
+    <updated>2020-08-01T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Traditional marketing is dead. The era where you could advertise, call or spam your way into presence is over. Making sale calls won’t get you where you need to be today. The only way to win in this game is to be talked about by people. And no one talks about “the average” one. That’s why it’s important more than anytime, to be REMARKABLE....</summary>
+    <content type="html"><![CDATA[
+        <p>Traditional marketing is dead. The era where you could advertise, call or spam your way into presence is over. Making sale calls won’t get you where you need to be today. The only way to win in this game is to be talked about by people. And no one talks about “the average” one. That’s why it’s important more than anytime, to be REMARKABLE.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/ftp_accounts</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/ftp_accounts" />
+    <title></title>
+    <published>2020-07-27T00:00:00+00:00</published>
+    <updated>2020-07-27T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">FTP Accounts make me nervous, and the boss wants dozens of ’em....</summary>
+    <content type="html"><![CDATA[
+        <p>FTP Accounts make me nervous, and the boss wants dozens of ’em.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/my_death_clock</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/my_death_clock" />
+    <title>ساعت مرگ من</title>
+    <published>2020-06-06T00:00:00+00:00</published>
+    <updated>2020-06-06T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">نکته‌ای که معمولاً دیر متوجهش می‌شویم این است که راهی برای جبران زمان‌های از دست رفته نداریم. در مواجهه با زمان تنها کاری که از دستمان برمی‌آید این است که به خودمان یادآوری کنیم وقت محدود است و انتخاب اینکه ثانیه‌ها و دقایقمان را به انجام چه کاری می‌گذرانیم موجودیت کوچک، گذرا و حقیرمان را تعریف می‌کند.
+
+من تقریباً ۲۵ ساله‌ام. مثل خیلی از هم سن و سال‌ها گاهی اوقات به این فکر می‌کنم که چه مدت از زندگیم باقی مانده. حتی با افزایش طول عمری که آن را مدیون علم پزشکی هستیم، وقت کافی برای انجام تمام کارهای دلخواهم وجود ندارد. اگر قرار باشد اندازهٔ متوسط عمر باقی مردان ایرانی عمر کنم، تقریباً بیش از یک سوم از زمانم را گذرانده‌ام.
+
+کوین کلی، سردبیر اسبق مجلهٔ WIRED زندگیش را به بخش‌های ۶ ماهه تقسیم کرده که در اینجا مفصلاً در مورد این تصمیمش توضیح داده. به طور خلاصه، دلیل انتخاب این نوع زمان بندی برایش این بوده که وقتی ۲۹ سال داشته، در اورشلیم «تکلیف معنوی‌»ای دریافت می‌کند که طبق آن باید طوری زندگی کند که گویی ۶ ماه از عمرش بیشتر باقی نمانده. کوین که حالا ۶۸ سال دارد معتقد است ۶ ماه برای انجام هرکاری کافیست. می‌گوید از لحظهٔ تصمیم‌گیری تا پایان هر پروژه به ۶ ماه زمان نیاز است. پس از خودش سوال می‌پرسد......</summary>
+    <content type="html"><![CDATA[
+        <p>نکته‌ای که معمولاً دیر متوجهش می‌شویم این است که راهی برای جبران زمان‌های از دست رفته نداریم. در مواجهه با زمان تنها کاری که از دستمان برمی‌آید این است که به خودمان یادآوری کنیم وقت محدود است و انتخاب اینکه ثانیه‌ها و دقایقمان را به انجام چه کاری می‌گذرانیم موجودیت کوچک، گذرا و حقیرمان را تعریف می‌کند.</p>
+
+<p>من تقریباً ۲۵ ساله‌ام. مثل خیلی از هم سن و سال‌ها گاهی اوقات به این فکر می‌کنم که چه مدت از زندگیم باقی مانده. حتی با افزایش طول عمری که آن را مدیون علم پزشکی هستیم، وقت کافی برای انجام تمام کارهای دلخواهم وجود ندارد. اگر قرار باشد اندازهٔ متوسط عمر باقی مردان ایرانی عمر کنم، تقریباً بیش از یک سوم از زمانم را گذرانده‌ام.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Kevin_Kelly_(editor)">کوین کلی</a>، سردبیر اسبق مجلهٔ WIRED زندگیش را به بخش‌های ۶ ماهه تقسیم کرده که <a href="https://www.thisamericanlife.org/1/new-beginnings/act-one-0">در اینجا</a> مفصلاً در مورد این تصمیمش توضیح داده. به طور خلاصه، دلیل انتخاب این نوع زمان بندی برایش این بوده که وقتی ۲۹ سال داشته، در اورشلیم «تکلیف معنوی‌»ای دریافت می‌کند که طبق آن باید طوری زندگی کند که گویی ۶ ماه از عمرش بیشتر باقی نمانده. کوین که حالا ۶۸ سال دارد معتقد است ۶ ماه برای انجام هرکاری کافیست. می‌گوید از لحظهٔ تصمیم‌گیری تا پایان هر پروژه به ۶ ماه زمان نیاز است. پس از خودش سوال می‌پرسد که به چند ۶ ماه در زندگیش نیاز دارد؟ در این سن و سال اگر خوش شانس باشد می‌تواند ۶ ماه‌های باقی‌مانده‌اش را با انگشتان دست بشمارد و این مسئله کمکش می‌کند انتخاب کارهایش را با دقت انجام دهد.</p>
+
+<p>من هم تصمیم گرفتم ایدهٔ روزهای باقیمانده را جدی بگیرم. امیدوارم با دقت به روزهای باقی‌مانده از عمرم هر ۲۴ ساعت ارزشمند را به درستی استفاده کنم و توجه، تمرکز و انرژیم را معطوف اشخاص و پروژه‌هایی کنم که برایم مهم‌ترند. هدف نهایی این است که بتوانم تصمیم بگیرم مهم‌ترین کارهایی که برای انجام دارم، کدامند.</p>
+
+<p>آنچه که می‌خواستم این بود که با هر دفعه بازکردن مرورگر، صفحه‌ای باز شود و روزهای باقی‌مانده‌ام را توی چشمم فرو کند. بعد هم با استفاده از همین وبلاگ به ثبت و ضبط فعالیت‌های روزمره بپردازم. اینطوری پیگیری روزهای هدر رفته هم برایم آسان‌تر می‌شد.</p>
+
+<p>اولین قدم این بود که میانگین امید به زندگی مردمی که در شرایط مشابه من هستند را در بیاورم. برای این کار از <a href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7_%D8%A8%D8%B1_%D9%BE%D8%A7%DB%8C%D9%87_%D8%A7%D9%85%DB%8C%D8%AF_%D8%A8%D9%87_%D8%B2%D9%86%D8%AF%DA%AF%DB%8C">ویکیپدیا</a> کمک گرفتم. سپس باید زمان باقیمانده از عمرم را محاسبه و تاریخ دقیقش را مشخص می‌کردم. بعد از آن هم نوبت نوشستن اسکریپتی برای صفحهٔ اول مرورگر بود که با هردفعه باز کردن مرورگر، این صفحه به صورت پیش‌فرض باز شود. اینطوری با توجه به اینکه تقریباً هرروز با اینترنت سر و کار دارم، حداقل روزی یک بار شمارنده را می‌دیدم.</p>
+
+<p>البته که هیچ تضمینی وجود ندارد که آدم چقدر عمر می‌کند. به همان اندازه که امکان دارد اندازهٔ متوسط عمر باقی مردمان زندگی کنم، این احتمال هم هست که زندگیم هر لحظه در پی یک سری حوادث تصادفی به پایان برسد. یا اینکه تا ۹۰ سالگی عمر کنم که در آن صورت خیلی خوشحال خواهم بود که باید <a href="http://deathclock.ir/">ساعت مرگم</a> را بازنشانی کنم. ولی فعلاً ساعت مرگ، با همان تاریخ تقریبی به کارش ادامه می‌دهد و کمک می‌کند تمرکزم را حفظ کنم. فکر نکنم دانستن تاریخ دقیق مرگم هم چیزی را تغییر دهد. در هر صورت زمان باقی‌مانده بسیار کوتاه است و مرگ بسیار نزدیک. هر لحظه هم نزدیک‌تر می‌شود. متاًسفم، ولی الآن هم کارهای مهم‌تری دارم که باید بهشان بپردازم.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/im_a_web_developer</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/im_a_web_developer" />
+    <title>من یک توسعه‌دهندهٔ وب هستم</title>
+    <published>2019-10-05T00:00:00+00:00</published>
+    <updated>2019-10-05T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">من توسعه دهنده‌ی وب هستم. همیشه هم شغلم را دوست داشتم. اصولاً ساختن چیزهایی که آدم‌های زیادی از آن استفاده کنند و کارشان راه بیفتد برایم حس رضایت ایجاد می‌کند. اولین درآمدی که از این حرفه داشتم مربوط به جلالی سازی گاه‌شمار Fullcalendar JS بود که در سیستم ذخیره‌سازی ابری ownCloud پیاده سازی شده بود. ۱۶ سالم بود و هیچ دانشی از جاوا اسکریپت، نحوه‌ی کارکرد گاه‌شمارها و چگونگی تبدیل گاه‌شمار گریگورین به جلالی نداشتم و تمام کار را با جست و جو و آزمون و خطا انجام دادم. بعد از آن هم در همان شرکت به صورت تمام وقت مشغول به کار شدم. در این سال‌ها با مجموعه‌های مختلفی کار کرده‌ام و از معدود نقاط مشترکی که تمام این محیط‌های کاری برایم داشته‌اند، احساسی بوده از پر و بال بستگی که از محیط می‌گرفتم. بخشی از تقصیر متوجه خودم است چون که نسبتاً آدم عوضی‌ای هستم که همه چیز باید مطابق میلم باشد.
+
+از اول امسال اما، سعی کردم اوضاع را کمی تغییر دهم. از شغل تمام وقتم بیرون آمدم و سعی کردم درآمدم از پروژه‌هایی باشد که در بازار آزاد می‌گیرم. در این مدت استرسم کمتر شده، سردردهای عصبی کمتر سراغم می‌آیند، وقت کار و استراحتم را خودم تنظیم می‌کنم، به تفریحات مورد علاقه‌ام می‌پردازم و حتی بعد از چند سال توانستم یک سفر درست و حسابی......</summary>
+    <content type="html"><![CDATA[
+        <p>من توسعه دهنده‌ی وب هستم. همیشه هم شغلم را دوست داشتم. اصولاً ساختن چیزهایی که آدم‌های زیادی از آن استفاده کنند و کارشان راه بیفتد برایم حس رضایت ایجاد می‌کند. اولین درآمدی که از این حرفه داشتم مربوط به جلالی سازی گاه‌شمار <a href="https://fullcalendar.io/">Fullcalendar JS</a> بود که در سیستم ذخیره‌سازی ابری <a href="https://owncloud.org/">ownCloud</a> پیاده سازی شده بود. ۱۶ سالم بود و هیچ دانشی از جاوا اسکریپت، نحوه‌ی کارکرد گاه‌شمارها و چگونگی تبدیل گاه‌شمار گریگورین به جلالی نداشتم و تمام کار را با جست و جو و آزمون و خطا انجام دادم. بعد از آن هم در همان شرکت به صورت تمام وقت مشغول به کار شدم. در این سال‌ها با مجموعه‌های مختلفی کار کرده‌ام و از معدود نقاط مشترکی که تمام این محیط‌های کاری برایم داشته‌اند، احساسی بوده از پر و بال بستگی که از محیط می‌گرفتم. بخشی از تقصیر متوجه خودم است چون که نسبتاً آدم عوضی‌ای هستم که همه چیز باید مطابق میلم باشد.</p>
+
+<p>از اول امسال اما، سعی کردم اوضاع را کمی تغییر دهم. از شغل تمام وقتم بیرون آمدم و سعی کردم درآمدم از پروژه‌هایی باشد که در بازار آزاد می‌گیرم. در این مدت استرسم کمتر شده، سردردهای عصبی کمتر سراغم می‌آیند، وقت کار و استراحتم را خودم تنظیم می‌کنم، به تفریحات مورد علاقه‌ام می‌پردازم و حتی بعد از چند سال توانستم یک سفر درست و حسابی بروم. در این مدت کمی هم روی پروژه‌های شخصی خودم کار کرده‌ام و مهم‌تر از تمام این‌ها هم این که وقتش را داشته‌ام که وارد یک رابطه‌ی عاطفی بشوم. ماحصل تمام این تغییرات این شده که امروز بیشتر از هر زمان دیگری احساس آرامش می‌کنم.</p>
+
+<p>بله، بنده امروز به معنای واقعی کلمه احساس آرامش می‌کنم.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/peaky_blinders_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/peaky_blinders_quote" />
+    <title></title>
+    <published>2019-09-09T00:00:00+00:00</published>
+    <updated>2019-09-09T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">“Who wants to be in heaven, eh? Who wants to be in heaven when you can be sending men to fucking hell?”
+
+-Arthur Shelby – (Peaky Blinders)...</summary>
+    <content type="html"><![CDATA[
+        <p>“Who wants to be in heaven, eh? Who wants to be in heaven when you can be sending men to fucking hell?”</p>
+
+<p><em>-Arthur Shelby – (<a href="https://www.imdb.com/title/tt2442560/?ref_=ttfc_fc_tt">Peaky Blinders</a>)</em></p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/middle_management_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/middle_management_quote" />
+    <title></title>
+    <published>2019-08-12T00:00:00+00:00</published>
+    <updated>2019-08-12T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Colvin: Now, middle-management means that you have just enough responsibility that you gotta listen when people talk, and not so much that you can tell anybody to go fuck themselves.
+
+
+-The wire (2002)...</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>Colvin: Now, middle-management means that you have just enough responsibility that you gotta listen when people talk, and not so much that you can tell anybody to go fuck themselves.</p>
+</blockquote>
+
+<p>-The wire (2002)</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/firooze_is_leaving</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/firooze_is_leaving" />
+    <title></title>
+    <published>2019-07-29T00:00:00+00:00</published>
+    <updated>2019-07-29T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">فیروزه حرف از رفتن زیاد می‌زد. از همان روزهای اول که شناختمش حرف از بار و بندیل جمع کردن و بادبان کشیدن می‌زد. نگار هم هی می‌گفت تو همیشه در حال رفتنی و هیچ وقت هم نمی‌روی. تکلیفمان را روشن نمی‌کرد که می‌خواهد برود یا نه، و اگر می‌خواهد برود، مقصدش کجاست؟ در تعلیق نگهمان داشته بود. می‌گفت می‌روم تهران، می‌روم شهر پدری، می‌روم این‌جا، می‌روم آن‌جا، گاهی هم می‌گفت همین‌جا می‌مانم. آن اوایل شاکی می‌شدیم که کجا از اینجا بهتر، ولی بعد که دیدیم حرف به گوشش نمی‌رود کم کم عادت کردیم و گفتیم صلاح ملک خویش خسروان دانند. بعد همینطور روزها و ماه‌ها و فصل‌ها از پی هم گذشتند. بهار شد تابستان، تابستان خودش را قل داد تا زمستان و دوباره از نو. تا یک روز آمد و گفت دارد می‌رود. نه می‌توانستیم تعجب کنم و نه نکنیم. سرمان را انداختیم پایین و کمک دادیم راهی شود. موقع رفتن هم گفتیم امید به دیدار مجدد در جایی دیگر و زمانی دیگر. فیروزه می‌رود، و جایش آخرین کتابی که از او هدیه گرفتیم را می‌گذاریم گوشه‌ی دلمان که هیچ شباهتی به فیروزه‌ی خودمان ندارد جز خاطرات خوش....</summary>
+    <content type="html"><![CDATA[
+        <p>فیروزه حرف از رفتن زیاد می‌زد. از همان روزهای اول که شناختمش حرف از بار و بندیل جمع کردن و بادبان کشیدن می‌زد. نگار هم هی می‌گفت تو همیشه در حال رفتنی و هیچ وقت هم نمی‌روی. تکلیفمان را روشن نمی‌کرد که می‌خواهد برود یا نه، و اگر می‌خواهد برود، مقصدش کجاست؟ در تعلیق نگهمان داشته بود. می‌گفت می‌روم تهران، می‌روم شهر پدری، می‌روم این‌جا، می‌روم آن‌جا، گاهی هم می‌گفت همین‌جا می‌مانم. آن اوایل شاکی می‌شدیم که کجا از اینجا بهتر، ولی بعد که دیدیم حرف به گوشش نمی‌رود کم کم عادت کردیم و گفتیم صلاح ملک خویش خسروان دانند. بعد همینطور روزها و ماه‌ها و فصل‌ها از پی هم گذشتند. بهار شد تابستان، تابستان خودش را قل داد تا زمستان و دوباره از نو. تا یک روز آمد و گفت دارد می‌رود. نه می‌توانستیم تعجب کنم و نه نکنیم. سرمان را انداختیم پایین و کمک دادیم راهی شود. موقع رفتن هم گفتیم امید به دیدار مجدد در جایی دیگر و زمانی دیگر. فیروزه می‌رود، و جایش آخرین کتابی که از او هدیه گرفتیم را می‌گذاریم گوشه‌ی دلمان که هیچ شباهتی به فیروزه‌ی خودمان ندارد جز خاطرات خوش.</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/this-is-what-a-feminist-looks-like</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/this-is-what-a-feminist-looks-like" />
     <title>این چهرهٔ یک فمینیست است</title>
@@ -18,7 +295,9 @@
         <name>آموری مهرابیان</name>
     </author>
     <summary type="html">رئیس جمهور بودن جنبه‌های دشوار بسیار زیادی دارد. البته مزایایی نیز وجود دارد. آشنایی با افراد خارق‌العاده از سرتاسر کشور. مستقر بودن در دفتری که از طریقش می‌توان در سرنوشت یک ملت تاثیرگذار بود. یکم نیروی هوایی.
-اما شاید بزرگترین هدیه غیرمنتظرهٔ این شغل زندگی در بالاخانهٔ محل کار است. برای سال‌های متمادی زندگی من در رفت و آمدهای طولانی صرف شد. از خانه‌ام در شیکاگو تا اسپرینگفیلد ایلینویز که محل کارم به عنوان سناتور ایالتی در آن‌جا واقع بود، و سپس به واشنگتن دی سی به عنوان سناتور ایالات متحده آمریکا. طی کردن این مسافت‌های طولانی به این معنی بود......</summary>
+اما شاید بزرگترین هدیه غیرمنتظرهٔ این شغل زندگی در بالاخانهٔ محل کار است. برای سال‌های متمادی زندگی من در رفت و آمدهای طولانی صرف شد. از خانه‌ام در شیکاگو تا اسپرینگفیلد ایلینویز که محل کارم به عنوان سناتور ایالتی در آن‌جا واقع بود، و سپس به واشنگتن دی سی به عنوان سناتور ایالات متحده آمریکا. طی کردن این مسافت‌های طولانی به این معنی بود که می‌بایست برای اینکه آن همسر و پدری باشم که می‌خواهم، بیشتر از پیش تلاش کنم.
+در هفت سال و نیم گذشته این مسافت طولانی به ۴۵ ثانیه تقلیل یافته. ۴۵ ثانیه‌ای که برای پیمودن سالن پذیرایی تا دفتر بیضی ریاست جمهوری نیاز است. در نتیجه، قادر بودم زمان بسیار بیشتری در کنار دخترانم بگذرانم و شاهد رشد و تبدیل شدنشان به زنانی جوان و باهوش، بامزه، مهربان و فوق‌العاده باشم.
+این شاهد بودن همیشه هم آسان نیست – به تماشا نشستن این‌که آماده می‌شوند لانه را ترک کنند. ولی چیزی که باعث می‌شود به آیندهٔ آن‌ها خوش‌بین باشم این است که اکنون زمان خارق‌العاده‌ای برای زن......</summary>
     <content type="html"><![CDATA[
         <p>رئیس جمهور بودن جنبه‌های دشوار بسیار زیادی دارد. البته مزایایی نیز وجود دارد. آشنایی با افراد خارق‌العاده از سرتاسر کشور. مستقر بودن در دفتری که از طریقش می‌توان در سرنوشت یک ملت تاثیرگذار بود. یکم نیروی هوایی.
 اما شاید بزرگترین هدیه غیرمنتظرهٔ این شغل زندگی در بالاخانهٔ محل کار است. برای سال‌های متمادی زندگی من در رفت و آمدهای طولانی صرف شد. از خانه‌ام در شیکاگو تا اسپرینگفیلد ایلینویز که محل کارم به عنوان سناتور ایالتی در آن‌جا واقع بود، و سپس به واشنگتن دی سی به عنوان سناتور ایالات متحده آمریکا. طی کردن این مسافت‌های طولانی به این معنی بود که می‌بایست برای اینکه آن همسر و پدری باشم که می‌خواهم، بیشتر از پیش تلاش کنم.
@@ -48,6 +327,48 @@
     ]]></content>
 </entry>
             <entry>
+    <id>https://ammir.ir/blog/north_country_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/north_country_quote" />
+    <title></title>
+    <published>2019-06-15T00:00:00+00:00</published>
+    <updated>2019-06-15T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">امروز بیست و پنجم خرداد نود و هشت است. آفتاب که زد از اتاق بیرون رفتم که قدمی بزنم. توی هال بابا را دیدم که سر جانمازش نشسته بود و دعا می‌کرد. احتمالاً برای من و آن دو پسر دیگر که خون به دلش کرده‌اند. صحنه‌ی غم‌انگیزی بود. بابا یک مسلمان مقید است؛ آدم درستکاری هم. ولی آدمی که در دهه‌ی ششم زندگی‌اش قرار باشد سر نماز صبح بنشیند و دست به دعا بردارد حتماً احساس رضایت زیادی از زندگی ندارد و این غمگینم می‌کند، آشفته‌ام می‌کند. اینقدر آشفته که بعد از آن خواب به چشمم نیامد، لباس پوشیدم و رفتم تا توی شهر گشتی بزنم. آدم‌هایی را دیدم که سر کوچه و خیابانشان منتظر ایستاده بودند تا احتمالاً سرویس محل کارشان بیاید سوارشان کند و ببردشان. سپورها را دیدم که مشغول جارو کشیدن شهر بودند. متوجه شدم درخت‌های بلوار جمهوری را هر روز بیشتر و بیشتر دارند قطع می‌کنند. سربازی هم سر چهارراه در ماشین گشت‌زنی خوابیده بود.
+
+توی راه به این فکر کردم که چقدر مسیرم تا رسیدن به آن زندگی آرمانی که برای خودم در نظر دارم، و پوچی محض هم اندازه است. یعنی همانقدر که ممکن است در آینده زندگی ایده آلم را بسازم، همانقدر هم ممکن است پوچ پوچ شوم؛ تهی محض. چقدر خودم را نزدیک به هر دو می‌بینم. کمی تلاش بیشتر لازم است تا به اولی برسم، و کمی بدشانسی......</summary>
+    <content type="html"><![CDATA[
+        <p>امروز بیست و پنجم خرداد نود و هشت است. آفتاب که زد از اتاق بیرون رفتم که قدمی بزنم. توی هال بابا را دیدم که سر جانمازش نشسته بود و دعا می‌کرد. احتمالاً برای من و آن دو پسر دیگر که خون به دلش کرده‌اند. صحنه‌ی غم‌انگیزی بود. بابا یک مسلمان مقید است؛ آدم درستکاری هم. ولی آدمی که در دهه‌ی ششم زندگی‌اش قرار باشد سر نماز صبح بنشیند و دست به دعا بردارد حتماً احساس رضایت زیادی از زندگی ندارد و این غمگینم می‌کند، آشفته‌ام می‌کند. اینقدر آشفته که بعد از آن خواب به چشمم نیامد، لباس پوشیدم و رفتم تا توی شهر گشتی بزنم. آدم‌هایی را دیدم که سر کوچه و خیابانشان منتظر ایستاده بودند تا احتمالاً سرویس محل کارشان بیاید سوارشان کند و ببردشان. سپورها را دیدم که مشغول جارو کشیدن شهر بودند. متوجه شدم درخت‌های بلوار جمهوری را هر روز بیشتر و بیشتر دارند قطع می‌کنند. سربازی هم سر چهارراه در ماشین گشت‌زنی خوابیده بود.</p>
+
+<p>توی راه به این فکر کردم که چقدر مسیرم تا رسیدن به آن زندگی آرمانی که برای خودم در نظر دارم، و پوچی محض هم اندازه است. یعنی همانقدر که ممکن است در آینده زندگی ایده آلم را بسازم، همانقدر هم ممکن است پوچ پوچ شوم؛ تهی محض. چقدر خودم را نزدیک به هر دو می‌بینم. کمی تلاش بیشتر لازم است تا به اولی برسم، و کمی بدشانسی خواهد انداختم در دل دومی. احساس ناامنی می‌کنم. دلم نمی‌خواهد یک روزی بیاید و من هم مثل بقیه‌ی کسانی که دور و برم هستند حمال دیگران بشوم. یا دوست ندارم در آینده برای در آوردن یک لقمه نان به منظور پر کردن شکم قرار باشد آفتاب نزده از خواب بلند شوم و شال و کلاه کنم و سر خیابان منتظر سرویس شرکت بمانم تا بعد از کلی معطلی بیاید دنبالم از آنطرف هم تا بوق سگ در حال کار کردن باشم. نه اینکه کار کردن این شکلی بد است، نه. اتفاقا شرافت می‌خواهد و غیرت. ولی خب من آدمی نیستم که زندگی را اینطوری ببینم که به خاطر یک لقمه نان قرار باشد زندگیم را فدا کنم. آدم زندگی نمی‌کند که کار کند، بلکه کار می‌کند تا زندگی کند.</p>
+
+<p>من به طرز خودمحورپنداری، خودم را مرجع تشخیص درست و غلط می‌دانم. و متاسفانه باید بگویم که در حال حاضر، خودم را به هیچ نزدیک‌تر می‌بینم تا رسیدن به تعالی. حالا که متوجه این مسئله هستم اگر می‌خواهم زندگی ایده‌آلم را بسازم، که می‌خواهم، باید با یک برنامه ریزی دقیق و حساب شده شروع کنم به کار روی ایده‌هایی که سال‌ها در سر دارم و هیچوقت جرئتش را نداشتم که شروعشان کنم. که جهان جایی نیست جز عرصه‌ی نمایش ایده‌های آدمیان.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/harry_potter</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/harry_potter" />
+    <title></title>
+    <published>2019-06-07T00:00:00+00:00</published>
+    <updated>2019-06-07T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">اولین فیلم از مجموعه‌ی هری پاتر را دادیم. با ۱۵-۱۶ سال تاخیر. فکر کنم دلیل اینکه اینقدر برای دیدنش صبر کردم این بود که فکر نمی‌کردم داستان یک پسر ده-یازده ساله که به مدرسه‌ی جادوگری می‌رود بتواند برایم جذاب باشد. به گمانم بیش از حد کودکانه می‌آمد. البته که اشتباه می‌کردم. لحظه لحظه‌ی فیلم دوست داشتنی بود.
+
+نره غول مهربان، سگ سه سر، کلاه‌های آوازه‌خوان، جغدهای نامه‌رسان، دیوهایی که بانک اداره می‌کنند، تک شاخ‌ها و کلی چیز دیگر که مجال گفتنشان نیست ولی هوش از سر آدم می‌پرانند. این فیلم عجیب و غریب و جذاب و شخصیت‌های بامزه و شجاع و دلپذیرش را مگر می‌شود دوست نداشت؟ هرموین، دانش‌آموز جوانی که ابتدای این سفر خودشیفته و مغرور است ولی کم کم به یک دوست واقعی تبدیل می‌شود. ران، این پسرک دوست داشتنی که در وفاداری به دوستان مثلش وجود ندارد. و در آخر هری، پسری که از خواب در پستوی خانه شروع می‌کند و تبدیل به قهرمان قصه می‌شود. پسرک با آن‌ها که سزاوارند مهربان است، در زمان مناسب بسیار شجاع و بسیار هم باهوش. چه چیزی برای دوست نداشتن وجود دارد؟
+
+پی‌نوشت: هرچه زودتر باید باقی فیلم‌های مجموعه را هم ببینم....</summary>
+    <content type="html"><![CDATA[
+        <p>اولین فیلم از مجموعه‌ی هری پاتر را دادیم. با ۱۵-۱۶ سال تاخیر. فکر کنم دلیل اینکه اینقدر برای دیدنش صبر کردم این بود که فکر نمی‌کردم داستان یک پسر ده-یازده ساله که به مدرسه‌ی جادوگری می‌رود بتواند برایم جذاب باشد. به گمانم بیش از حد کودکانه می‌آمد. البته که اشتباه می‌کردم. لحظه لحظه‌ی فیلم دوست داشتنی بود.</p>
+
+<p>نره غول مهربان، سگ سه سر، کلاه‌های آوازه‌خوان، جغدهای نامه‌رسان، دیوهایی که بانک اداره می‌کنند، تک شاخ‌ها و کلی چیز دیگر که مجال گفتنشان نیست ولی هوش از سر آدم می‌پرانند. این فیلم عجیب و غریب و جذاب و شخصیت‌های بامزه و شجاع و دلپذیرش را مگر می‌شود دوست نداشت؟ هرموین، دانش‌آموز جوانی که ابتدای این سفر خودشیفته و مغرور است ولی کم کم به یک دوست واقعی تبدیل می‌شود. ران، این پسرک دوست داشتنی که در وفاداری به دوستان مثلش وجود ندارد. و در آخر هری، پسری که از خواب در پستوی خانه شروع می‌کند و تبدیل به قهرمان قصه می‌شود. پسرک با آن‌ها که سزاوارند مهربان است، در زمان مناسب بسیار شجاع و بسیار هم باهوش. چه چیزی برای دوست نداشتن وجود دارد؟</p>
+
+<p>پی‌نوشت: هرچه زودتر باید باقی فیلم‌های مجموعه را هم ببینم.</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/net-neutrality</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/net-neutrality" />
     <title>بی‌طرفی شبکه</title>
@@ -58,7 +379,9 @@
     </author>
     <summary type="html">قدمت سانسورشیپ و فیلترینگ ساختاریافته در ایران به دورهٔ دوم اصلاحات برمی‌گردد. زمانی که دولت اجازه داد شورای عالی انقلاب فرهنگی به جای مجلس به تصویب قوانین مرتبط با اینترنت مانند فیلترینگ بپردازد. سیاست‌های غیرشفاف در بحث فیلترینگ باعث شده که ایران یکی از بدترین کشورهای جهان در بحث نقض حقوق کاربران باشد. همهٔ این‌ها دست به دست هم داده که چیزی به عنوان «بی‌طرفی شبکه» در فضای مجازی ایران مفهومی نداشته باشد.
 
-حالا که بحث فیلترینگ تلگرام داغ شده، تصمیم به نوشتن این یادداشت گرفتم. چرا که بی‌طرفی شبکه مبحث بسیار مهمی است و حالا که قرار است با......</summary>
+حالا که بحث فیلترینگ تلگرام داغ شده، تصمیم به نوشتن این یادداشت گرفتم. چرا که بی‌طرفی شبکه مبحث بسیار مهمی است و حالا که قرار است با فیلترینگ تلگرام بیش از پیش زیر پا گذاشته شود، به نظرم باید به یکی از مطالبه‌هایمان از دولت و حکومت تبدیل شود.
+
+بی‌طرفی شبکه به زبان ساده به این معناست که سرویس‌دهنده‌های اینترنتی موظفند با تمام اطلاعات رد و بدل شده در بستر شبکه، بدون توجه به مسائل سیاسی، عقیدتی، تجاری و یا اینکه توسط چه شخص یا شرکتی ایجاد شده‌اند، یکسان رفتار کنند. این موضوع به کسب و کارهای نوپا، استارت‌آپ‌ها و شرکت‌های کوچک اجازه می‌دهد که با تولید محصول خوب و با کیفیت، به رقابت در فضای مجازی بپردازند و جایگزین برندها شوند. به طور مثال همان‌گونه که فیسبوک جایگزین myspace شد. گوگل......</summary>
     <content type="html"><![CDATA[
         <p>قدمت سانسورشیپ و فیلترینگ ساختاریافته در ایران به دورهٔ دوم اصلاحات برمی‌گردد. زمانی که دولت اجازه داد شورای عالی انقلاب فرهنگی به جای مجلس به تصویب قوانین مرتبط با اینترنت مانند فیلترینگ بپردازد. سیاست‌های غیرشفاف در بحث فیلترینگ باعث شده که ایران یکی از بدترین کشورهای جهان در بحث نقض حقوق کاربران باشد. همهٔ این‌ها دست به دست هم داده که چیزی به عنوان «بی‌طرفی شبکه» در فضای مجازی ایران مفهومی نداشته باشد.</p>
 
@@ -78,6 +401,147 @@
     ]]></content>
 </entry>
             <entry>
+    <id>https://ammir.ir/blog/meimand</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/meimand" />
+    <title></title>
+    <published>2019-05-25T00:00:00+00:00</published>
+    <updated>2019-05-25T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">آمده بودیم میمند. یک روزه آمدیم و برگشتیم. خیلی سال بود که می‌خواستم بیایم، جور نمی‌شد بس که تنبلی می‌کردم. بسیار از این معماری خوشمان آمد. از خانه‌هایی که در دل کوه ساخته بودند. موزه رفتیم، پیاده روی کردیم، نهاری ساده خوردیم و البته گربه‌ها را هم سهیم کردیم و از آرامش لذت بردیم. مردمانش همان مردمان کرمان خودمان هستند؛ کمی قدیمی‌تر و سنتی‌تر. نمی‌دانم گردشگران چرا آن طور رفتار می‌کنند انگار از قاره‌ای دیگر آمده‌اند. بعد هم در راه برگشت سری به دشت ریواس زدیم. دنیایی بود برای خودش که باید ببینید. وصفش این وقت شب کاریست که از پس انجامش بر نمی‌آیم. دشت صاف خدا یک‌هو قرمز می‌شد تا جایی که چشم کار می‌کند و می‌شود مرز بین زمین و آسمان. آسمان هم که کولاک کرد و تا رسیدیم شروع کرد به غریدن و باریدن. اگر می‌گفتند یک لاقبا همینجا رسیدیم به آخر دنیا گمانم حرف یا اعتراضی نداشتم. برای برگشت هم نزدیک ۴ ساعت رانندگی کردم و لذت بردم. راه پر بود از کوه و بیشه و دشت و دمن.
+
+جای پرعظمتی بود، یقیناً در آینده دوباره خواهیم آمد....</summary>
+    <content type="html"><![CDATA[
+        <p>آمده بودیم میمند. یک روزه آمدیم و برگشتیم. خیلی سال بود که می‌خواستم بیایم، جور نمی‌شد بس که تنبلی می‌کردم. بسیار از این معماری خوشمان آمد. از خانه‌هایی که در دل کوه ساخته بودند. موزه رفتیم، پیاده روی کردیم، نهاری ساده خوردیم و البته گربه‌ها را هم سهیم کردیم و از آرامش لذت بردیم. مردمانش همان مردمان کرمان خودمان هستند؛ کمی قدیمی‌تر و سنتی‌تر. نمی‌دانم گردشگران چرا آن طور رفتار می‌کنند انگار از قاره‌ای دیگر آمده‌اند. بعد هم در راه برگشت سری به دشت ریواس زدیم. دنیایی بود برای خودش که باید ببینید. وصفش این وقت شب کاریست که از پس انجامش بر نمی‌آیم. دشت صاف خدا یک‌هو قرمز می‌شد تا جایی که چشم کار می‌کند و می‌شود مرز بین زمین و آسمان. آسمان هم که کولاک کرد و تا رسیدیم شروع کرد به غریدن و باریدن. اگر می‌گفتند یک لاقبا همینجا رسیدیم به آخر دنیا گمانم حرف یا اعتراضی نداشتم. برای برگشت هم نزدیک ۴ ساعت رانندگی کردم و لذت بردم. راه پر بود از کوه و بیشه و دشت و دمن.</p>
+
+<p>جای پرعظمتی بود، یقیناً در آینده دوباره خواهیم آمد.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/let_me_say</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/let_me_say" />
+    <title>بگذارید بگویم</title>
+    <published>2019-05-07T00:00:00+00:00</published>
+    <updated>2019-05-07T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">این چهارمین داستان از مجموعه داستانک‌هاییست که قرار است گاهاً از نیویورکر ترجمه کنم. نسخهٔ برگردان نشده را از اینجا بخوانید.
+
+… بگذارید بگوییم مسئول باشگاه کتاب‌خوانی کودکان با گروهی از کودکان دوست داشتنی، کوچک و باهوش ۷ ساله در حال بحث در مورد کتاب «تمام تابستان در یک روز» ری بردبری است. همگی در حال صحبت راجع به جرم و مجازات هستند. معلم می‌گوید: «فقط تصور کنید که درست مقابل چشمانتان، دو بچه در حال کتک زدن یک بچه‌ی دیگر هستند که نمیشناسیدش. چکار می‌کنید؟» بچه‌ها جواب می‌دهند: «جلویشان را می‌گیریم! یک بزرگتر را خبر می‌کنیم! می‌دویم که کمک بیاوریم!» معلم می‌گوید: «خوبه! حالا یکی از هم‌کلاسی‌هاتون، یکی که اصلاً ازش خوشتون نمیاد رو در نظر بگیرین. فکر کنین دارین میرین خونه و میبینین دو تا بچه دارن هم‌کلاسی بدجنستون رو میزنن. چیکار میکنین؟» لحظه‌ای سکوت. قلب معلم شروع به تند تند زدن می‌کند. یکی از بچه‌ها با ترس و لرز می‌گوید: «خب، ام، با این حال بازم نباید چیزی …». یکی دیگر از بچه‌ها با اعتماد به نفس بالا بلند می‌شود و می‌گوید دختری که راجع بهش صحبت می‌کنیم احتمالاً حقش بوده که کتک بخورد. و فقط یک دختربچه که دست به سینه نشسته، آرام و محکم می‌گوید: «البته که باید دخالت کنیم و اون دوتا بچه رو......</summary>
+    <content type="html"><![CDATA[
+        <p>این چهارمین داستان از مجموعه داستانک‌هاییست که قرار است گاهاً از نیویورکر ترجمه کنم. نسخهٔ برگردان نشده را از اینجا بخوانید.</p>
+
+<p>… بگذارید بگوییم مسئول باشگاه کتاب‌خوانی کودکان با گروهی از کودکان دوست داشتنی، کوچک و باهوش ۷ ساله در حال بحث در مورد کتاب «تمام تابستان در یک روز» ری بردبری است. همگی در حال صحبت راجع به جرم و مجازات هستند. معلم می‌گوید: «فقط تصور کنید که درست مقابل چشمانتان، دو بچه در حال کتک زدن یک بچه‌ی دیگر هستند که نمیشناسیدش. چکار می‌کنید؟» بچه‌ها جواب می‌دهند: «جلویشان را می‌گیریم! یک بزرگتر را خبر می‌کنیم! می‌دویم که کمک بیاوریم!» معلم می‌گوید: «خوبه! حالا یکی از هم‌کلاسی‌هاتون، یکی که اصلاً ازش خوشتون نمیاد رو در نظر بگیرین. فکر کنین دارین میرین خونه و میبینین دو تا بچه دارن هم‌کلاسی بدجنستون رو میزنن. چیکار میکنین؟» لحظه‌ای سکوت. قلب معلم شروع به تند تند زدن می‌کند. یکی از بچه‌ها با ترس و لرز می‌گوید: «خب، ام، با این حال بازم نباید چیزی …». یکی دیگر از بچه‌ها با اعتماد به نفس بالا بلند می‌شود و می‌گوید دختری که راجع بهش صحبت می‌کنیم احتمالاً حقش بوده که کتک بخورد. و فقط یک دختربچه که دست به سینه نشسته، آرام و محکم می‌گوید: «البته که باید دخالت کنیم و اون دوتا بچه رو فراری بدیم.» و قبل از اینکه معلم با شادی از جا بپرد و بتواند دهانش را باز کند دخترک ادامه می‌دهد: « و بعدش خودت کار دختره رو تموم کنی!» معلم تا نفسش جا می‌آید سوال می‌پرسد: «کاتیا، ولی تو از اولشم نمی‌خواستی دختره رو بزنی، درسته؟ پس چرا الان می‌خوای بزنیش؟» کاتیا می‌گوید: «خب اون دختره قویه. ولی بعد از اینهمه کتک خوردن باید خسته شده باشه!»</p>
+
+<p>… بگذارید بگوییم آقای ایکس، مهندس و پدر فوق‌العاده‌ی اسرائیلی تبار، تصمیم می‌گیرد برای بچه‌ی قندعسل دوساله‌اش به مناسبت عید حنوکا دونات خانگی درست کند. نه آن دونات‌های گنده و شلی که در فروشگاه‌ها می‌فروشند و وسطشان را با آشغال پر کرده‌اند. بلکه دونات‌های خوشگل و کوچولو که وسطشان با مربای خانگی پر شده و رویشان هم با پودر شکر تزئین شده. برای درست کردنشان دوازده ساعت طاقت‌فرسا در آشپزخانه مشغول است. قندعسلش نگاهی به دونات‌های توی بشقاب می‌اندازد و بدون اینکه حتی به آن‌ها دست بزند می‌گوید: «دوسشون ندارم»، بعد هم پی کارش می‌رود. آقای ایکس در ذهنش یک سری حرف‌های کت و کلفت بار تمام دخترها می‌کند، دوتا بشقاب از دونات‌های کوچولو و خوشگل را به تنهایی می‌خورد و پس از چند ساعت مالیخولیای جسمی و ذهنی بالاخره از پا درمی‌آید. روز بعد که به مهدکودک می‌رود تا قندعسلش را بعد از جشن حنوکا به خانه برگرداند. قندعسلش را روی زمین کنار بچه‌ای دیگر می‌بیند در حالی که آن بچه پودر شکرهای روی دونات‌های فروشگاهی را لیس می‌زند و آن‌ها را به دست قندعسل آقای ایکس می‌دهد که با کمال میل و اشتیاق آن‌ها را می‌خورد. ایکس سعی می‌کند خودش را قانع کند که مشکل از پودرشکرها بوده ولی روح زخم‌خورده‌اش طلب عدالت می‌کند. بعد از ظهر آن روز از مادرش می‌پرسد: «چرا این بلا باید سر من بیاد مامان؟» مادرش جواب می‌دهد: «به خاطر دلمه‌هاس». معلوم می‌شود آقای ایکس در دوران طفولیت از خوردن دلمه‌های خانگی که مادرش تمام شب با عشق مشغول پختنشان بوده سر باز زده. ولی در خانه‌ی مردم از خوردن دلمه‌های فروشگاهی بسیار خوشنود بوده.</p>
+
+<p>… بگذارید بگوییم یک پسربچه که زیر بغل مادرش را وسط ایستگاه متروی ریژکایا گرفته، توی گوش مادرش زمزمه می‌کند: «مامان، من دیگه نمی‌خوام اون طوری باشم که تو سعی داری بزرگم کنی. من میخوام وسط مترو جیییییییییغ بکشمممممممممم!».</p>
+
+<p>… بگذارید بگوییم در خانه‌ی آقا یا خانم اف که شاعری سرشناس است یک پرستار سالخورده زندگی می‌کند. پرستار در ایام خوش و ناخوش، قحطی، ترور، اشغال آلمان، رکود و پرسترویکا در کنار خانواده بوده. پدربزرگ شاعر، پدر، عموها و عمه‌ها، خود شاعر، خواهرانش، بچه‌ها، نوه‌های شاعر را بزرگ کرده و حتی همین الآن گاهی اوقات بر سر نتیجه‌های شاعر فریادی از سر مهربانی بر سر نتیجه‌های شاعر می‌کشد. این زن عارف همیشه به زندگی دیگران علاقه داشت و مایل به گوش دادن انواع داستان‌ها بود: درباره‌ی قحطی، ترور، اشغال آلمان، برون‌رانی، رکود و پرسترویکا و غیره. اما در پایان هر داستان فقط یک سوال داشت: «خب آخرش قسر در رفتن؟». این مسئله مهمانان آقا یا خانم اف. را به شدت تحت تاثیر قرار می‌داد. آقا یا خانم کی. هنرمند گفت: «این داستان مردم روسیه در یک خط است!» آقا یا خانم ز. رقصنده گفت: «چرا فقط مردم روسیه؟ این تمام داستان مردمان یهود در یک خط است!» آقا یا خانم کی. پاسخ داد: «اوه، بس کنید! تمام داستان مردم یهود در یک سوال نهفته است. آیا هیچکس قسر در رفت؟». پرستار، که از قحطی، ترور، اشغال آلمان، برون‌رانی، رکود و پرسترویکا جان سالم به در برده بود گوشه‌ای نشست و هیچ نگفت.</p>
+
+<p>… بگذارید بگوییم آقا یا خانم جی. ، یک نویسنده‌ی مضطرب، در فواصل معین قانع می‌شود که عزیزان خود را از طرق وحشتناکی رنجانده و در نتیجه از او متنفر شده‌اند. پس گاه و بی‌گاه با عزیزانش تمام می‌گوید تا چیزهایی از این قبیل به آن‌ها بگوید: «لطفاً به خاطر اینکه دیروز یادم رفت خودکارم را به تو پس بدهم از من متنفر نباش.» یا «لطفا به خاطر اینکه سه روز پیش آخرین سیب را خوردم از من متنفر نباش» و به همین ترتیب ادامه دارد. پس از مدت کوتاهی دوستان جی. روزی چند تماس شبیه به این دریافت می‌کنند. یکی پس از دیگری، تا وقتی که نامه‌ای از عزیزان جی. به دستش می‌رسد: «جی. عزیز، نگران نباش، ما نیاز به دلیل نداریم برای اینکه از تو متنفر باشیم.» شانزده امضا و دو امضای ناشناس.</p>
+
+<p>… بگذارید بگوییم آقای سی. مترجم یک راه حل فوق‌العاده پیدا کرده تا مشکلات بچه‌هایش را حل کند. یا حتی ترجیحاُ آن‌ها را مجبور کند که خودشان مشکلشان را حل کنند. هرزمان که شروع به ناله کردن می‌کردند تا مشکلاتشان را به او قالب کنند، آقای سی. می‌گفت: «چرا من، یک انسان بالغ، باید لگوهای شما را از کف اتاق جمع کنم؟ چرا من، یک انسان بالغ، باید تقلا کنم تا هسته‌های آلوی شما را از زیر وان حمام در بیاورم؟ چرا من، یک انسان بالغ، باید فیلم Up را برای بار چهارم تماشا کنم؟» (در واقع این یک مشکل جداگانه بود چرا که مترجم سی. به شدت از فیلم Up که درمورد مرگ و تنهایی بود میترسید. – اما چرا او، یک انسان بالغ، می‌بایست این‌ها را برای چند فسقلی توضیح می‌داد؟) پس در چندماهی که این استراتژی را پی گرفته بود، فرزندانش نه تنها دست از آزار و اذیتش کشیدند، که در واقع به افرادی مستقل تبدیل شدند (البتّه فقط به نظر خودش). لگوهای خود را بدون کمک گرفتن از کسی داخل گونی برنج می‌ریختند؛ هرچیزی که زیر وان بیفتد همانجا می‌ماند و بوی عالی‌ای هم دارد؛ حتی خودشان به تماشای Up می‌نشینند و سپس بدون رضایت پدر داستانش را برای او تعریف می‌کنند. پس سی. مترجم شروع به توصیه‌ی این سیستم به همه‌ی اطرافیانش می‌کند. سپس یک روز وارد حمام می‌شود و پسر ۷ ساله‌اش، پی. را می‌بیند که با چشمان بسته داخل وان نشسته و مِن مِن می‌کند: «چرا من، یک انسان بالغ، باید به هرکدام از این چیزها فکر کنم؟ خب، واقعاً چرا؟» سی. مترجم اندکی حال تهوع دارد – ولی الآن دیگر خیلی دیر شده، اینطور نیست؟</p>
+
+<p>برگردان از روسی توسط مایا وینوکور
+برگردان از انگلیسی توسط امّیر</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/pirating_is_not_stealing</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/pirating_is_not_stealing" />
+    <title>دانلود مساوی با دزدی نیست</title>
+    <published>2019-04-25T00:00:00+00:00</published>
+    <updated>2019-04-25T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">دزدی کردن یک عمل ناپسند است. اما دانلود کردن هم‌تراز با دزدی کردن نیست. اگر من سی‌دی یک آلبوم موسیقی را از قفسه‌ی فروشگاه بدزدم، دیگر کسی قادر به خریدش نخواهد بود. اما وقتی یک آهنگ را دانلود می‌کنم، هیچ‌کس آن را از دست نمی‌دهد بلکه یک نفر دیگر نیز آن را به دست می‌آورد. در این بین هیچ مسئله‌ی خلاف اخلاقی وجود ندارد.
+
+ناشرهای کتاب، شرکت‌های نرم‌افزاری، تهیه‌کنندگان سینما و غیره دانلود آثارشان به صورت رایگان را دلیل کاهش فروش خود در چند سال گذشته دانسته‌اند. ولی در همین چند سال قیمت محصولاتشان افزایش یافته، شاهد رکود عظیمی در سطح کشور بوده‌ایم، و محصولات باکیفیت کمتری نیز توسط طرفین شاکی تولید شده. با در نظر گرفتن تمام این جوانب شاید حتی دانلود کردن این محصولات باعث رشد فروششان نیز شده باشد. ضمن اینکه بیش از ۹۰٪ محصولات تولید شده توسط طرفین شاکی دیگر در بازار عرضه نمی‌شود و دانلود، تنها راه دسترسی پیدا کردن به آن‌هاست.
+
+اما حتی اگر دانلود کردن، مسبب آسیب رسیدن به فروش شرکت‌ها شود، نمی‌توان آن را غیراخلاقی دانست. کتاب‌خانه‌ها و کلوپ‌ها هم به فروش محصولات آسیب می‌زنند. آیا استفاده از آن‌ها نیز غیراخلاقیست؟...</summary>
+    <content type="html"><![CDATA[
+        <p>دزدی کردن یک عمل ناپسند است. اما دانلود کردن هم‌تراز با دزدی کردن نیست. اگر من سی‌دی یک آلبوم موسیقی را از قفسه‌ی فروشگاه بدزدم، دیگر کسی قادر به خریدش نخواهد بود. اما وقتی یک آهنگ را دانلود می‌کنم، هیچ‌کس آن را از دست نمی‌دهد بلکه یک نفر دیگر نیز آن را به دست می‌آورد. در این بین هیچ مسئله‌ی خلاف اخلاقی وجود ندارد.</p>
+
+<p>ناشرهای کتاب، شرکت‌های نرم‌افزاری، تهیه‌کنندگان سینما و غیره دانلود آثارشان به صورت رایگان را دلیل کاهش فروش خود در چند سال گذشته دانسته‌اند. ولی در همین چند سال قیمت محصولاتشان افزایش یافته، شاهد رکود عظیمی در سطح کشور بوده‌ایم، و محصولات باکیفیت کمتری نیز توسط طرفین شاکی تولید شده. با در نظر گرفتن تمام این جوانب شاید حتی دانلود کردن این محصولات باعث رشد فروششان نیز شده باشد. ضمن اینکه بیش از ۹۰٪ محصولات تولید شده توسط طرفین شاکی دیگر در بازار عرضه نمی‌شود و دانلود، تنها راه دسترسی پیدا کردن به آن‌هاست.</p>
+
+<p>اما حتی اگر دانلود کردن، مسبب آسیب رسیدن به فروش شرکت‌ها شود، نمی‌توان آن را غیراخلاقی دانست. کتاب‌خانه‌ها و کلوپ‌ها هم به فروش محصولات آسیب می‌زنند. آیا استفاده از آن‌ها نیز غیراخلاقیست؟</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/describing_2</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/describing_2" />
+    <title></title>
+    <published>2019-04-23T00:00:00+00:00</published>
+    <updated>2019-04-23T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">یادش رفته چه می‌خواست بگوید. نه اینکه آدم حواس‌پرتی باشد، نه. ولی انگار عادتش شده وقتی می‌بیند آسمان دارد می‌بارد شال و کلاه می‌کند و توی کوچه خیابان شروع می‌کند زیر برف و باران قدم زدن و همه‌چیز را فراموش می‌کند. گاهی که باران شدید است و آب‌چکان می‌شود، دسته‌ای از موهای خیسش روی صورتش می‌ریزد و کفری می‌کندش و اگر بهش بگویی برویم توی ماشین که سرما نخوری، می‌گوید خب بخورم، دوباره که خوب می‌شوم. بعد هم می‌گوید کاش هوا همیشه همینطور بارانی باشد. معلوم هم نمی‌کند چرا زیر باران اینقدر آرامش پیدا می‌کند. اگر برف یا باران باشد یک بار خود را حین تماشای رعد و برق می‌یابد، یکبار حین تماشای دانه‌های برفی که رقصان پایین می‌ریزند یا وقتی آسمان را دارد می‌پاید، قطره‌های باران را از آسمان تا زمین تعقیب می‌کند. به گمانم آسمان هرچه شدیدتر ببارد، نغمه‌مان حواس‌پرتیش هم بیشتر است....</summary>
+    <content type="html"><![CDATA[
+        <p>یادش رفته چه می‌خواست بگوید. نه اینکه آدم حواس‌پرتی باشد، نه. ولی انگار عادتش شده وقتی می‌بیند آسمان دارد می‌بارد شال و کلاه می‌کند و توی کوچه خیابان شروع می‌کند زیر برف و باران قدم زدن و همه‌چیز را فراموش می‌کند. گاهی که باران شدید است و آب‌چکان می‌شود، دسته‌ای از موهای خیسش روی صورتش می‌ریزد و کفری می‌کندش و اگر بهش بگویی برویم توی ماشین که سرما نخوری، می‌گوید خب بخورم، دوباره که خوب می‌شوم. بعد هم می‌گوید کاش هوا همیشه همینطور بارانی باشد. معلوم هم نمی‌کند چرا زیر باران اینقدر آرامش پیدا می‌کند. اگر برف یا باران باشد یک بار خود را حین تماشای رعد و برق می‌یابد، یکبار حین تماشای دانه‌های برفی که رقصان پایین می‌ریزند یا وقتی آسمان را دارد می‌پاید، قطره‌های باران را از آسمان تا زمین تعقیب می‌کند. به گمانم آسمان هرچه شدیدتر ببارد، نغمه‌مان حواس‌پرتیش هم بیشتر است.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/describing</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/describing" />
+    <title></title>
+    <published>2019-04-18T00:00:00+00:00</published>
+    <updated>2019-04-18T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">مانتوی قشنگ کرم رنگش را پوشیده، کیف بندی مشکیش را هم روی کولش انداخته. در خانه را می‌بندد و می‌آید که سوار ماشین شود. سوار که می‌شود یک لیوان قهوه‌ی داغ به دستم می‌دهد که با لبخند تشکر می‌کنم. طبق معمول کارهایی که باید انجام دهیم را مرور می‌کند، می‌گوید مهم‌تر از همه این است که زنگ به سبحان بزنیم. به مسجد وکیل که می‌رسیم جای پارک پیدا نمی‌شود. می‌گویم چه خوب است که پیاده روی را دوست داری؛ در این مواقع شلوغی می‌توانیم ماشین را آن سر دنیا پارک کنیم و پیاده برگردیم به آن‌جا که باید. بلند بلند می‌خندد. توی مسجد با دقت در و دیوارهای قدیمی را نگاه می‌کند. بعد فکر می‌کند اصلاً آدم همیشه باید پیاده اینطرف و آنطرف برود. از مسجد که بیرون می‌آییم مبهوت پرندگانی می‌شود که دور محوطه در گردشند. بعد باز هم خیالش با پرندگان پر می‌کشد به کوه‌ها و دشت و دمن. من هم توی خیالم یکی می‌بوسمش....</summary>
+    <content type="html"><![CDATA[
+        <p>مانتوی قشنگ کرم رنگش را پوشیده، کیف بندی مشکیش را هم روی کولش انداخته. در خانه را می‌بندد و می‌آید که سوار ماشین شود. سوار که می‌شود یک لیوان قهوه‌ی داغ به دستم می‌دهد که با لبخند تشکر می‌کنم. طبق معمول کارهایی که باید انجام دهیم را مرور می‌کند، می‌گوید مهم‌تر از همه این است که زنگ به سبحان بزنیم. به مسجد وکیل که می‌رسیم جای پارک پیدا نمی‌شود. می‌گویم چه خوب است که پیاده روی را دوست داری؛ در این مواقع شلوغی می‌توانیم ماشین را آن سر دنیا پارک کنیم و پیاده برگردیم به آن‌جا که باید. بلند بلند می‌خندد. توی مسجد با دقت در و دیوارهای قدیمی را نگاه می‌کند. بعد فکر می‌کند اصلاً آدم همیشه باید پیاده اینطرف و آنطرف برود. از مسجد که بیرون می‌آییم مبهوت پرندگانی می‌شود که دور محوطه در گردشند. بعد باز هم خیالش با پرندگان پر می‌کشد به کوه‌ها و دشت و دمن. من هم توی خیالم یکی می‌بوسمش.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/how_is_it_going</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/how_is_it_going" />
+    <title></title>
+    <published>2019-04-14T00:00:00+00:00</published>
+    <updated>2019-04-14T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">دیگر چه خبر؟ داد و بیداد است آقا. شما که خودتان در جریانید. در این سال جدید یک روز هم از ترس سیل در امان نبوده‌ایم. امروز اما کمتر از جیره‌ام اخم کرده‌ام و بیشتر از جیره خندیده‌ام. تازه توی ترافیک و پشت چراغ قرمز هم اصلاً عصبانی نشدم. تاثیر بودن دلبر است به گمانم. امشب باید پنجره را باز بگذارم که بهار راهش را گم نکند....</summary>
+    <content type="html"><![CDATA[
+        <p>دیگر چه خبر؟ داد و بیداد است آقا. شما که خودتان در جریانید. در این سال جدید یک روز هم از ترس سیل در امان نبوده‌ایم. امروز اما کمتر از جیره‌ام اخم کرده‌ام و بیشتر از جیره خندیده‌ام. تازه توی ترافیک و پشت چراغ قرمز هم اصلاً عصبانی نشدم. تاثیر بودن دلبر است به گمانم. امشب باید پنجره را باز بگذارم که بهار راهش را گم نکند.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/describing_naghme</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/describing_naghme" />
+    <title></title>
+    <published>2019-03-30T00:00:00+00:00</published>
+    <updated>2019-03-30T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">خواندن را دوست دارد ولی رمان زیاد نمی‌خواند. وقتی می‌خواهد از خانه بزند بیرون برایش فرقی نمی‌کند که ماشین دارد یا نه. مسافت هرچقدر هم که طولانی باشد اگر ماشین نداشته باشد تا مقصد قدم می‌زند. ساده می‌پوشد و دیده نشده که بیش از حد آرایش کند؛ درست همان‌گونه که باید. عادت دارد وقت فکر کردن سرش را پایین بیندازد. فیلم کلاسیک زیاد نگاه می‌کند و خب اکثرشان بدبختانه به خوبی تمام نمی‌شوند. به کودکان کار سر چهارراه‌ها همیشه پول می‌دهد و خیلی دوست دارد وقت داشته باشد هفته‌ای چند بار ورزش کند. حتماً تا الآن فهمیده‌اید که زیادی مهربان است. آخر یک لاقبا از آدم‌های نامهربان خوشش نمی‌آید. با آدم‌ها هم سریع دوست می‌شود. حرف آدم را هم خیلی خوب می‌فهمد. دوست داری دنیا در همان حالت متوقف شود وقتی سرش را روی شانه‌ات می‌گذارد. دوست داری دنیا برای همیشه در همان حالت متوقف شود....</summary>
+    <content type="html"><![CDATA[
+        <p>خواندن را دوست دارد ولی رمان زیاد نمی‌خواند. وقتی می‌خواهد از خانه بزند بیرون برایش فرقی نمی‌کند که ماشین دارد یا نه. مسافت هرچقدر هم که طولانی باشد اگر ماشین نداشته باشد تا مقصد قدم می‌زند. ساده می‌پوشد و دیده نشده که بیش از حد آرایش کند؛ درست همان‌گونه که باید. عادت دارد وقت فکر کردن سرش را پایین بیندازد. فیلم کلاسیک زیاد نگاه می‌کند و خب اکثرشان بدبختانه به خوبی تمام نمی‌شوند. به کودکان کار سر چهارراه‌ها همیشه پول می‌دهد و خیلی دوست دارد وقت داشته باشد هفته‌ای چند بار ورزش کند. حتماً تا الآن فهمیده‌اید که زیادی مهربان است. آخر یک لاقبا از آدم‌های نامهربان خوشش نمی‌آید. با آدم‌ها هم سریع دوست می‌شود. حرف آدم را هم خیلی خوب می‌فهمد. دوست داری دنیا در همان حالت متوقف شود وقتی سرش را روی شانه‌ات می‌گذارد. دوست داری دنیا برای همیشه در همان حالت متوقف شود.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/my_state_of_being</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/my_state_of_being" />
+    <title></title>
+    <published>2019-03-28T00:00:00+00:00</published>
+    <updated>2019-03-28T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">روی تخت دراز شده، به صدای شر شر باران گوش می‌دهم. به چتری موهایش فکر می‌کنم. به خنده‌های دائمش، به آن گه گداری که هنگام گذر از خیابان دست در دستم حلقه می‌کند، به درخت‌های تنومند باغ دلگشا که سال‌ها فقط عاشقی به چشم دیده‌اند. به حجره‌های باصفای مدرسه‌ی خان که چه رازها در دل خود پنهان دارند. به این فکرم که باید جهانی سازم که جهان شود نامیدش؛ با دلبر....</summary>
+    <content type="html"><![CDATA[
+        <p>روی تخت دراز شده، به صدای شر شر باران گوش می‌دهم. به چتری موهایش فکر می‌کنم. به خنده‌های دائمش، به آن گه گداری که هنگام گذر از خیابان دست در دستم حلقه می‌کند، به درخت‌های تنومند باغ دلگشا که سال‌ها فقط عاشقی به چشم دیده‌اند. به حجره‌های باصفای مدرسه‌ی خان که چه رازها در دل خود پنهان دارند. به این فکرم که باید جهانی سازم که جهان شود نامیدش؛ با دلبر.</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/guerilla-open-access-manifesto</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/guerilla-open-access-manifesto" />
     <title>اعلامیه‌ی دسترسی آزاد چریکی</title>
@@ -88,7 +552,11 @@
     </author>
     <summary type="html">اطلاعات قدرت است. اما مانند تمام قدرت‌ها، کسانی هستند که می‌خواهند آن را فقط برای خودشان حفظ کنند. میراث علمی و فرهنگی جهان که در گذر قرن‌ها در کتاب‌ها و نشریات منتشر شده‌اند، امروز به طور فزاینده دیجیتالی شده و توسط تعدادی از شرکت‌های خصوصی قفل گذاری می‌شوند. آیا می‌خواهید معتبرترین مقالات در مورد آخرین دستاوردهای علم را بخوانید؟ پس باید مقدار زیادی پول به ناشران بپردازید.
 
-کسانی هستند که در تلاش برای تغییر این موضوع هستند. جنبش دسترسی آزاد شجاعانه مبارزه کرده تا اطمینان حاصل شود که دانشمندان حق کپی‌رایت خود را به شرکت‌های خصوصی واگذار......</summary>
+کسانی هستند که در تلاش برای تغییر این موضوع هستند. جنبش دسترسی آزاد شجاعانه مبارزه کرده تا اطمینان حاصل شود که دانشمندان حق کپی‌رایت خود را به شرکت‌های خصوصی واگذار نمی‌کنند و در عوض نتایج کارشان را بر روی اینترنت تحت شرایطی که همه به آن دسترسی داشته باشند منتشر می‌کنند. اما حتی در بهترین حالت، نتایج زحماتشان تنها بر موارد منتشر شده در آینده اعمال خواهد شد. همه چیز تا به امروز از دست رفته خواهد ماند.
+
+این هزینه‌ی زیادی برای پرداختن است. مجبور کردن دانشگاهیان به پرداخت پول برای مطالعه‌ی حاصل کار همکاران خود؟ اسکن کردن تمام کتابخانه‌ها، ولی فقط اجازه دادن به کارمندان گوگل برای خواندنشان؟ ارائه مقاله‌های علمی برای دانشگاه‌های نخبه در جهان اول و نه برای کودکان جهان سوم؟ این ظالمانه و غیرقابل قبول است.
+
+خیلی‌ها......</summary>
     <content type="html"><![CDATA[
         <p>اطلاعات قدرت است. اما مانند تمام قدرت‌ها، کسانی هستند که می‌خواهند آن را فقط برای خودشان حفظ کنند. میراث علمی و فرهنگی جهان که در گذر قرن‌ها در کتاب‌ها و نشریات منتشر شده‌اند، امروز به طور فزاینده دیجیتالی شده و توسط تعدادی از شرکت‌های خصوصی قفل گذاری می‌شوند. آیا می‌خواهید معتبرترین مقالات در مورد آخرین دستاوردهای علم را بخوانید؟ پس باید مقدار زیادی پول به ناشران بپردازید.</p>
 
@@ -118,6 +586,72 @@
     ]]></content>
 </entry>
             <entry>
+    <id>https://ammir.ir/blog/saying_goodbye_to_embarrassment</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/saying_goodbye_to_embarrassment" />
+    <title>خداحافظی با خجالت کشیدن</title>
+    <published>2019-01-05T00:00:00+00:00</published>
+    <updated>2019-01-05T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">تصمیم گرفتم از خجالت کشیدن دست بردارم. میخواهم با اول تا آخر قضیه خداحافظی کنم: سوءظنی که کم کم هویدا می‌شود، خونی که در رگ‌ها فواره می‌کند، احساسی که شکل گرفته و در نهایت آن تلاش مذبوحانه با لبخندی تقلبی که توسطش سعی داریم روی کل قضیه سرپوش بگذاریم. قبول دارم که برای مدتی سرگرم کننده بود، ولی به نظرم دوران مفید زندگیش به پایان رسیده. برای خجالت کشیدن، وقت رفتن رسیده است.
+
+خاموش کردن یک احساس همیشه تصمیم سختی‌ست. به یاد دارم که چند سال پیش چگونه تصمیم گرفتم با «خشم» خداحافظی کنم. البته که خشمگین بودن هم لحظات خوش خودش را دارد – به نظرم تا وقتی با مشت و لگد به جان قلدر حرامزاده‌ی کلاس نیفتاده‌اید معنی زندگی را نمیفهمید – اما این نیز هزینه و وقت بسیاری طلب می‌کند. اگر احیاناً از شخصی کتک بخوریم احتمالاً دنبالش می‌افتیم تا انتقاممان را بگیریم. و زمانی که خشم به انسان غلبه می‌کند، آرام گرفتن بسیار سخت خواهد شد – یک آدم خشمگین نمی‌خواهد آرام بگیرد چرا که از خشمگین بودن لذت می‌برد. به همین دلیل تصمیم گرفتم با تمام قضیه خداحافظی کنم. و راستش را بخواهید یک ذره هم پشیمان نیستم.
+
+«پشیمانی» – این هم یک احساس جالب دیگر است. واقعاً چه سودی می‌تواند داشته باشد؟ «گریه کردن بر مزار آدم مرده چه سود؟» این را......</summary>
+    <content type="html"><![CDATA[
+        <p>تصمیم گرفتم از خجالت کشیدن دست بردارم. میخواهم با اول تا آخر قضیه خداحافظی کنم: سوءظنی که کم کم هویدا می‌شود، خونی که در رگ‌ها فواره می‌کند، احساسی که شکل گرفته و در نهایت آن تلاش مذبوحانه با لبخندی تقلبی که توسطش سعی داریم روی کل قضیه سرپوش بگذاریم. قبول دارم که برای مدتی سرگرم کننده بود، ولی به نظرم دوران مفید زندگیش به پایان رسیده. برای خجالت کشیدن، وقت رفتن رسیده است.</p>
+
+<p>خاموش کردن یک احساس همیشه تصمیم سختی‌ست. به یاد دارم که چند سال پیش چگونه تصمیم گرفتم با «خشم» خداحافظی کنم. البته که خشمگین بودن هم لحظات خوش خودش را دارد – به نظرم تا وقتی با مشت و لگد به جان قلدر حرامزاده‌ی کلاس نیفتاده‌اید معنی زندگی را نمیفهمید – اما این نیز هزینه و وقت بسیاری طلب می‌کند. اگر احیاناً از شخصی کتک بخوریم احتمالاً دنبالش می‌افتیم تا انتقاممان را بگیریم. و زمانی که خشم به انسان غلبه می‌کند، آرام گرفتن بسیار سخت خواهد شد – یک آدم خشمگین نمی‌خواهد آرام بگیرد چرا که از خشمگین بودن لذت می‌برد. به همین دلیل تصمیم گرفتم با تمام قضیه خداحافظی کنم. و راستش را بخواهید یک ذره هم پشیمان نیستم.</p>
+
+<p>«پشیمانی» – این هم یک احساس جالب دیگر است. واقعاً چه سودی می‌تواند داشته باشد؟ «گریه کردن بر مزار آدم مرده چه سود؟» این را از معلم پرورشی شنیدم وقتی که یک روز که مدرسه را پیچانده بودم توی خیابان دیدمش. جواب دادم «حق با شماست، ولی شاید با اظهار پشیمانی دلشان برایم بسوزد و کتک نخورم». که البته اینطور نشد و معاون مدرسه با چک هایش حسابی مورد عنایت قرارم داد. شاید پشیمانی، احساس بعدی در صف احساساتی باشد که قرار است بروند.</p>
+
+<p>ولی در واقع فکر میکنم احساس بعدی صف، «سرخوردگی» باشد. زیاد راجع بهش صحبت نمی‌کنیم ولی سرخوردگی بسیار منحرف‌کننده است. سعی در حل یک مشکل بزرگ داریم ولی از پسش بر نمی‌آییم. به جای اینکه دقایقی از کار دست بکشیم و سعی کنیم یک راه حل منطقی پیدا کنیم، آنقدر به دست و پا زدن ادامه می‌دهیم که سرخورده‌تر و سرخورده‌تر می‌شویم تا جایی که به خرد کردن وسایل دور و برمان رو می‌آوریم. نه فقط بابت بالا و پایین پریدن زمان از دست می‌دهیم، که باید وسایلی که درب و داغان کردیم را هم جایگزین کنیم. واقعاً ضرر محض است.</p>
+
+<p>اما این تصمیم برای یک وقت دیگر است. امروز نوبت خجالت کشیدن است که به خشم در زباله‌دان احساسات خاموش شده بپیوندد. ممکن است کمی زمان لازم باشد تا به این تصمیم عادت کنم – مثلا زمانی که دوستانم سعی در دست انداختنم دارند احتمالا شروع به واکنش نشان دادن کنم قبل از اینکه متوجه شوم واقعا نیازی به این کار وجود ندارد – ولی مطمئنم پس از گذشت زمانی نه چندان طولانی برایم عادی خواهد شد. حتی اگر به خاطرش کمتر از قبل نرمال شناخته شوم.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/whataboutism</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/whataboutism" />
+    <title>پس‌چه‌ایسم</title>
+    <published>2018-12-31T00:00:00+00:00</published>
+    <updated>2018-12-31T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">اصلاح طلب‌ها به مرض «Whataboutism» یا «پس‌چه‌ایسم» مبتلا شده‌اند. کافیست انتقادی به موضوعی مربوط به اصلاح طلبان وارد کنید تا با این پاسخ مواجه شوید: «پس در مورد [اینجا را با موردی از زمان احمدی نژاد، اتفاقی در دنیای غرب٬ یا موردی دیگر که به موضوع مربوط نیست پر کنید] چه؟»
+
+اعتراضات دی‌ماه؟ پس تظاهرات پاریس چه؟ سه برابر شدن قیمت ارز در عرض چند ماه؟ پس افزایش قیمت دلار در دوران احمدی نژاد چه؟ حقوق زنان؟ پس مردانی که بابت مهریه در زندانند چه؟ ساماندهی سگ‌های بلاصاحب؟ در حال حاضر مشکل شهر این است؟ پس تکلیف کودکان گرسنه چه می‌شود؟
+
+در این نوع مغالطه، مغلطه‌گر سعی می‌کند به طور عامدانه و هدفمند با توسل به رویدادهایی که در زمان و مکانی دیگر رخ داده‌اند احساسات مخاطب را درگیر کند و موضوع اصلی بحث را منحرف سازد. گوینده، انتقاد به رفتارهای خود را نادیده می‌گیرد و به بر اقدامات دیگران تمرکز می‌کند.
+
+این تکنیک تبدیل به یک مرض فراگیر شده که اصلاح طلبان نیز دچارش شده‌اند. استفاده از آن، مزیت و ارزش افزوده‌ای در بحث به همراه نخواهد داشت. پس‌چه‌ایسم تبدیل شده به راهکاری برای گریز از پاسخگویی درباره مواضع و عملکرد اصلاح طلبان در قبال امور مختلف. این تکنیک چه توسط چپگرا استفاده شود و چه راستگرا، در نهایت فقط به......</summary>
+    <content type="html"><![CDATA[
+        <p>اصلاح طلب‌ها به مرض «Whataboutism» یا «پس‌چه‌ایسم» مبتلا شده‌اند. کافیست انتقادی به موضوعی مربوط به اصلاح طلبان وارد کنید تا با این پاسخ مواجه شوید: «پس در مورد [اینجا را با موردی از زمان احمدی نژاد، اتفاقی در دنیای غرب٬ یا موردی دیگر که به موضوع مربوط نیست پر کنید] چه؟»</p>
+
+<p>اعتراضات دی‌ماه؟ پس تظاهرات پاریس چه؟ سه برابر شدن قیمت ارز در عرض چند ماه؟ پس افزایش قیمت دلار در دوران احمدی نژاد چه؟ حقوق زنان؟ پس مردانی که بابت مهریه در زندانند چه؟ ساماندهی سگ‌های بلاصاحب؟ در حال حاضر مشکل شهر این است؟ پس تکلیف کودکان گرسنه چه می‌شود؟</p>
+
+<p>در این نوع مغالطه، مغلطه‌گر سعی می‌کند به طور عامدانه و هدفمند با توسل به رویدادهایی که در زمان و مکانی دیگر رخ داده‌اند احساسات مخاطب را درگیر کند و موضوع اصلی بحث را منحرف سازد. گوینده، انتقاد به رفتارهای خود را نادیده می‌گیرد و به بر اقدامات دیگران تمرکز می‌کند.</p>
+
+<p>این تکنیک تبدیل به یک مرض فراگیر شده که اصلاح طلبان نیز دچارش شده‌اند. استفاده از آن، مزیت و ارزش افزوده‌ای در بحث به همراه نخواهد داشت. پس‌چه‌ایسم تبدیل شده به راهکاری برای گریز از پاسخگویی درباره مواضع و عملکرد اصلاح طلبان در قبال امور مختلف. این تکنیک چه توسط چپگرا استفاده شود و چه راستگرا، در نهایت فقط به سیاه‌چاله‌ای از خشم ختم خواهد شد که گریز از آن برای هیچکس ممکن نخواهد بود.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/describing_her</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/describing_her" />
+    <title></title>
+    <published>2018-12-30T00:00:00+00:00</published>
+    <updated>2018-12-30T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">از شعرهای فروغ خوشش می‌آید ولی غزل زیاد نمی‌خواند. وقتی دانشگاه می‌رود بیشتر فکرش مشغول اتفاق‌هاییست که بیرون از کلاس می‌گذرند. اگر استرس داشته باشد مشغول جویدن ناخن‌هایش می‌شود. از اینکه دور و برش شلوغ باشد خوشش نمی‌آید، با این حال اتاقش همتای بازار شام است. همیشه‌ی خدا غر می‌زند که چرا ماشین را دور پارک کردی با اینکه برای رسیدن عجله‌ای ندارد. کسی ندیده غمناک باشد، حتی اوقاتی که دلش گرفته. پرتلاش است و پشتکار دارد، قشنگ همانطور که باید. کاش بیشتر بود، از بس که انگار ده سال رفیق صمیمیست....</summary>
+    <content type="html"><![CDATA[
+        <p>از شعرهای فروغ خوشش می‌آید ولی غزل زیاد نمی‌خواند. وقتی دانشگاه می‌رود بیشتر فکرش مشغول اتفاق‌هاییست که بیرون از کلاس می‌گذرند. اگر استرس داشته باشد مشغول جویدن ناخن‌هایش می‌شود. از اینکه دور و برش شلوغ باشد خوشش نمی‌آید، با این حال اتاقش همتای بازار شام است. همیشه‌ی خدا غر می‌زند که چرا ماشین را دور پارک کردی با اینکه برای رسیدن عجله‌ای ندارد. کسی ندیده غمناک باشد، حتی اوقاتی که دلش گرفته. پرتلاش است و پشتکار دارد، قشنگ همانطور که باید. کاش بیشتر بود، از بس که انگار ده سال رفیق صمیمیست.</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/the-boss</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/the-boss" />
     <title>رئیس</title>
@@ -128,7 +662,7 @@
     </author>
     <summary type="html">مرد مسلح سیگاری روشن می‌کند. ناامیدانه نگاهش به غروب آفتاب است که به کوچه‌ی خلوت می‌تابد. او تک و تنهاست در مکانی شبح‌وار، احضار شده تا دستورالعملش را از تبهکاری حرفه‌ای که فقط با نام «رئیس» شناخته می‌شود دریافت کند، اما رئیس اینجا نیست. هیچکس نیست. شبح‌وار است. احساس انگشت‌نما بودن می‌کند. رئیس به خاطر بی‌رحمیش شناخته شده و معروف است. وقتی که دستور یک قتل را می‌دهد، شخصی می‌میرد. مرد مسلح می‌خواهد کسی شاهد اتفاقاتی باشد که در شرف رخ دادن هستند اما پرنده هم در کوچه سر نمی‌زند.
 
-نگاهی سرسری به ساعتش می‌اندازد، ساعتی که هدیه از طرف رئیس است. با......</summary>
+نگاهی سرسری به ساعتش می‌اندازد، ساعتی که هدیه از طرف رئیس است. با صفحه‌ای از طلا رو به رو می‌شود، بدون شماره. احتمالا یک جک: زمان همان پول است. یا شاید، پول همان زمان است؛ بستگی به این دارد که بیشتر به کدام نیاز داری. رئیس مضمون‌گوی بسیار خوبیست. عقربه‌های ساعت مثل تار مو نازک هستند، مثل لبه‌های تیغ ریش تراش دیدنشان سخت است، مخصوصا در این نور تقریبا محو. هست و نیست، درست مثل خود زمان. که شاید اصلا قابل اندازه گیری نیست -- شاید این همان چیزیست که ساعت بدون عقربه دارد می‌گوید. چگونه می‌توان منجلابی که در آن فرو رفته‌ای را اندازه بگیری؟ نمی‌داند چه چیزی باعث این است که ساعت به کارکردن ادامه دهد. باطری داخلش شاید.......</summary>
     <content type="html"><![CDATA[
         <p>مرد مسلح سیگاری روشن می‌کند. ناامیدانه نگاهش به غروب آفتاب است که به کوچه‌ی خلوت می‌تابد. او تک و تنهاست در مکانی شبح‌وار، احضار شده تا دستورالعملش را از تبهکاری حرفه‌ای که فقط با نام «رئیس» شناخته می‌شود دریافت کند، اما رئیس اینجا نیست. هیچکس نیست. شبح‌وار است. احساس انگشت‌نما بودن می‌کند. رئیس به خاطر بی‌رحمیش شناخته شده و معروف است. وقتی که دستور یک قتل را می‌دهد، شخصی می‌میرد. مرد مسلح می‌خواهد کسی شاهد اتفاقاتی باشد که در شرف رخ دادن هستند اما پرنده هم در کوچه سر نمی‌زند.</p>
 
@@ -159,6 +693,909 @@
 <p>«چرا اینطوری ... چرا ...» زمزمه می‌کند و به آرامی در بغل مرد جان می‌دهد.</p>
 
 <p>قلب مرد دوباره سفت و سخت می‌شود. خشم گوشه‌های چشمانش را فرا گرفته. او دیگر هیچ چیز لعنتی‌یی را درک نمی‌کند.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/honesty_with_friends</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/honesty_with_friends" />
+    <title></title>
+    <published>2018-11-17T00:00:00+00:00</published>
+    <updated>2018-11-17T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I believe once in a while you should let your friends know their presence is appreciated. I know that sometimes you just can’t find the right words to show that appreciation. But I guess at the end of the day the best thing to do for them is to be honest with them. You just hope that your honesty doesn’t make them realize something they did not want to know....</summary>
+    <content type="html"><![CDATA[
+        <p>I believe once in a while you should let your friends know their presence is appreciated. I know that sometimes you just can’t find the right words to show that appreciation. But I guess at the end of the day the best thing to do for them is to be honest with them. You just hope that your honesty doesn’t make them realize something they did not want to know.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/to_my_younger_self</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/to_my_younger_self" />
+    <title>به خود جوانم</title>
+    <published>2018-11-02T00:00:00+00:00</published>
+    <updated>2018-11-02T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">اینقدر گریه نکن. موقع شیر خوردن نوک پستان‌های مادر را گاز نگیر. توی دستشویی جیش کن. دندان در بیاور. با برس مو توی سر برادر کوچک‌ترت نزن. خواندن را یاد بگیر. الف، ب، پ، ت و بقیه حروف الفبا. تمرین کن. با ماژیک مشکی روی بدنت نقاشی نکش و هنگامی که مامان و بابا مهمان دارند لخت جلویشان نگرد. با دخترعمویت راجع به ومپایرها صحبت نکن. کارت اشتراک مجله را نخور. لباس‌هایت را توی وام حمام ننداز. به خودت اعتماد داشته باش.
+
+وقتی که هوا سرد و یخ‌بندان است به برادر کوچکت نگو میلهٔ وسط حیاط را لیس بزند، چرا که انجامش می‌دهد – اگر این ایده را با او در میان نمی‌گذاشتی هرگز به ذهن خودش خطور نمی‌کرد. به پدر و مادرت دروغ نگو که یک کلاس اولی یک شیرکوهی در زمین بازی مدرسه دیده، باعث می‌شوی مدرسه را به حالت تعلیق در بیاورند و معاون مدرسه از ترس زیر میز ضدگلوله‌اش قایم شود طوری که باسنش بیرون بماند. وقتی که پسرها مداد فیلی‌ات را توی یک صندوق پست انداختند گریه نکن. یکی را پیدا کن و به او بگو در مدرسه چه خبر است. بگو «پسرها من را اذیت می‌کنند.» بگو «دماغم خونی شد چون پارکر مرا پرت کرد و خوردم به دیوار.»
+
+به لیلی دروغ نگو که پدر و مادرت بابت اینکه به او پول قرض دادی تا یک تاپ رکابی قرمز بخرد از تو عصبانی شدند، فقط به این خاطر که بابت......</summary>
+    <content type="html"><![CDATA[
+        <p>اینقدر گریه نکن. موقع شیر خوردن نوک پستان‌های مادر را گاز نگیر. توی دستشویی جیش کن. دندان در بیاور. با برس مو توی سر برادر کوچک‌ترت نزن. خواندن را یاد بگیر. الف، ب، پ، ت و بقیه حروف الفبا. تمرین کن. با ماژیک مشکی روی بدنت نقاشی نکش و هنگامی که مامان و بابا مهمان دارند لخت جلویشان نگرد. با دخترعمویت راجع به ومپایرها صحبت نکن. کارت اشتراک مجله را نخور. لباس‌هایت را توی وام حمام ننداز. به خودت اعتماد داشته باش.</p>
+
+<p>وقتی که هوا سرد و یخ‌بندان است به برادر کوچکت نگو میلهٔ وسط حیاط را لیس بزند، چرا که انجامش می‌دهد – اگر این ایده را با او در میان نمی‌گذاشتی هرگز به ذهن خودش خطور نمی‌کرد. به پدر و مادرت دروغ نگو که یک کلاس اولی یک شیرکوهی در زمین بازی مدرسه دیده، باعث می‌شوی مدرسه را به حالت تعلیق در بیاورند و معاون مدرسه از ترس زیر میز ضدگلوله‌اش قایم شود طوری که باسنش بیرون بماند. وقتی که پسرها مداد فیلی‌ات را توی یک صندوق پست انداختند گریه نکن. یکی را پیدا کن و به او بگو در مدرسه چه خبر است. بگو «پسرها من را اذیت می‌کنند.» بگو «دماغم خونی شد چون پارکر مرا پرت کرد و خوردم به دیوار.»</p>
+
+<p>به لیلی دروغ نگو که پدر و مادرت بابت اینکه به او پول قرض دادی تا یک تاپ رکابی قرمز بخرد از تو عصبانی شدند، فقط به این خاطر که بابت اینکه سینه‌هایش در آن تاپ خوب دیده می‌شوند به او حسودی می‌کنی. سعی کن از وقت گذراندن با جردن لذت ببری. وقتی از کالج با تو تماس می‌گیرد راجع به چیزهایی جز شکایت از هم‌کلاسی‌ها و دوستانت با او صحبت کن.</p>
+
+<p>نمیر. دلیلی برای مردن وجود ندارد. چرا می‌میری؟ به خودت اطمینان داشته باش. به مرور زمان یاد می‌گیری که نباید بمیری. زنده بودن را دوست خواهی داشت. برمیگردی و به خود جوان‌تر و زنده‌ات نگاه می‌کنی و می‌گویی: «چه دختر زیبایی. حیف که قدر خودش را نمی‌دانست.»</p>
+
+<p>دنبال جردن نرو. مگر جردن با تو چه کرده جز اینکه شب قبل از پروازت به موناکو به تو گفته که می‌خواهد «دوستی‌های دیگر را دنبال کند»، یا به قول خودمان «با زنان دیگر قرار بگذارد». حس می‌کنم اگر زمانی که در پلازا به او برخورد می‌کنی از او عذرخواهی نکنی بهتر است. مثلا، عذرخواهی منجر به پشیمانی می‌شود و میل به دنبال کردن او.</p>
+
+<p>برای پیدا کردن گردنبند آرامش بخشت زمین را سرگردان نگرد. احتمالا جایی بین کفپوش‌های استودیوی کوری افتاده است. البته شاید هم نه، چرا که کفپوش‌ها را همیشه تمیز نگه می‌دارد و تو هم فقط مدت کوتاهی قبل از مرگت او را می‌شناختی. گریه و زاری نکن، طوفان راه نینداز، سطل آشغال‌ها را اینطرف و آنطرف پرتاب نکن و ستون‌ها را نلرزان. می‌دانم که گردنبندی ساده و دوست داشتنی بود و یک طول فریبنده به ترقوه‌هایت می‌داد، ولی مگر نه اینکه قیمتش فقط ۳۰ دلار بود؟ حتی اگر پیدا شود مگر می‌توانی آن را دوباره بپوشی؟</p>
+
+<p>کنار جردن و دوست دخترش دراز نکش و خوابیدنشان را تماشا نکن و نامحسوس تخت‌خوابشان را سرد نکن که مجبور شوند متناوباً برای بستن پنجره از جایشان بلند شوند و با پنجره‌ای بسته روبرو شوند. روی ملحفه‌ها نفس نکش که آن‌ها را با یک یخ‌زدگی عجیب و غریب در تاریکی مواجه کنی. روی زمینشان به خواب نرو طوری که انگار که در خانه پدر و مادرت هستی که بعداً قرار باشد با بوی قهوه و صدای یک پادکست از خواب بیدار شوی.</p>
+
+<p>همانطور که مادرت در ایستگاه قطار منتظر ایستاده و روی تلفن همراهش مجلهٔ تایم را می‌خواند، گوشی را نزدیک صورتش گرفته، چشمانش را نازک کرده و دست دیگرش را زیر کیف سیاهش قرار داده کنار او بایست. در قطار اگر صندلی کناری او خالی بود کنارش بنشین. انگشتانت را میان رشته موهای بلندش بکش تا زمانی که چشمانش را، بدون توجه به اینکه مقاله‌ای که دارد می‌خواند چقدر وحشتناک است، با شادی می‌بندد. وقتی که دوباره مشغول کاشتن گیاه آزالئا شده و مقدار خیلی کمی عرق کرده، چرا که بر خلاف تو معمولاً عرق نمی‌کند، سعی کن اشک نریزی. هیچ فرقی نمی‌کند. و تو هرگز نخواهی دانست که مادرت چه زمانی برایت حس غم و اندوه خواهد داشت.</p>
+
+<p>وقتی که کوری با دوچرخه از روی پل بروکلین رد می‌شود کنارش پرواز خواهی کرد. البته زمانی که دوتا پای سالم داشتی هرگز نمی‌توانستی این کار را بکنی. اشکالی ندارد. روی میز محل کارش می‌نشینی و به دنده‌هایش ضربه‌ای می‌زنی تا جیغ بکشد و همکارانش بچرخند و او را نگاه کنند. روی صندلیش می‌نشینی و پاهایت را چون صدفی دورش حلقه می‌کنی. وقتی که از جایش بلند می‌شود لیز نمی‌خوری و روی زمین نمی‌افتی. در عوض شناور خواهی شد. می‌توانی تا دستشویی مردان دنبالش بروی، اما شاید احساس تنبلی کنی. وقتی که در استودیو مشغول ورزش کردن است در حالی که فقط یک شورت پوشیده و صداهای بلند از خودش در می‌آورد، روی قفسه کتاب‌هایش می‌نشینی و تماشایش می‌کنی. هر شب در بغلش خواهی بود. وقتی که غذا درست می‌کند، چیزهایی که نیاز دارد را به او می‌دهی. مطمئن خواهی شد که اجاق گاز خاموش است. وقتی با خودش فکر می‌کند: «اسم فلان چیز چه بود؟» با بلندترین صدای خیالی جوابش را در استودیو داد خواهی زد. آرزو می‌کنی که کاش می‌توانست صدایت را بشنود، حتی اگر همچنان بگوید که زیادی و الکی عذرخواهی می‌کنی. وقتی که به سمت خانه رانندگی می‌کند روی صندلی شاگرد می‌نشینی، اما، درست در زمان مناسب، به مبل وسط استودیو میپری که به یاد بیاوری دیدن او هنگامی که از درب استودیو وارد می‌شد چه حسی داشت.</p>
+
+<p>و سپس یک روز می‌رسد که متوجه خواهی شد باید بیخیال این فانتزی‌های خیالی بشوی. زمانی که متوجه بشوی، به بالا پرواز خواهی کرد تا به جاودانگی برسی – یا شاید هم پایین؟ یا به کناره‌ها؟ در حال چرخیدنی یا لرزیدن؟ حرکت می‌کنی یا بدون حرکت مانده‌ای؟ بی‌نهایت بزرگ است یا بی‌نهایت ناموجود؟ اصلاً مگر تفاوتی می‌کند؟ و آیا با این موضوع کنار خواهی آمد که به اندازه‌ای به یاد نخواهی آورد که دلت برای همه چیز تنگ شود، برای همه‌شان تنگ شود و برای خودت تنگ شود؟</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/billions_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/billions_quote" />
+    <title></title>
+    <published>2018-10-23T00:00:00+00:00</published>
+    <updated>2018-10-23T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Chuck Rhoades: Excuse me, sir.
+Man: What?
+Chuck Rhoades: You didn’t clean up after your dog.
+Man: Yeah, I forgot the bag today.
+Chuck Rhoades: Oh, I don’t think so because, you know, it’s not just the statutory law, it’s the law of civility, man. And I’ve seen you before. You come out of that building, your dog craps, and you just leave it where it falls.
+Man: Why don’t you mind your business?
+Chuck Rhoades: This is my business.
+Man: Oh, you’re that guy.
+Chuck Rhoades: I am that guy.
+Man: All right, well, do you have an extra bag?
+Chuck Rhoades: No, no. See, I used mine.
+Man: Well, I’ll get it next time.
+Chuck Rhoades: No, I think you need to get it this time.
+Man: Why don’t you let it slide?
+Chuck Rhoades: “Let it slide.” That sounds simple, easy. Sure, let it slide. That’s just some dog shit. But those are three devious little words. You know, if if I let your dog shit slide, then I have to be okay with this whole plaza filling up with it, which it would before we know it. Oh, then it would be on our pant legs and our shoes, and we would track it into our homes, and then our homes would smell like shit, too. It’d be easy to let it slide. You know, why don’t we, uh, why don’t we let petty larceny slide, too? Some kid steals five bucks from a newsstand? Who cares? Well, maybe next time he decides to steal your TV or break into your brownstone and steal your fucking wife. But what difference does it make? Because by then, we’re all living in shit anyway.
+
+-Billions (2016)...</summary>
+    <content type="html"><![CDATA[
+        <p>Chuck Rhoades: Excuse me, sir.
+Man: What?
+Chuck Rhoades: You didn’t clean up after your dog.
+Man: Yeah, I forgot the bag today.
+Chuck Rhoades: Oh, I don’t think so because, you know, it’s not just the statutory law, it’s the law of civility, man. And I’ve seen you before. You come out of that building, your dog craps, and you just leave it where it falls.
+Man: Why don’t you mind your business?
+Chuck Rhoades: This is my business.
+Man: Oh, you’re that guy.
+Chuck Rhoades: I am that guy.
+Man: All right, well, do you have an extra bag?
+Chuck Rhoades: No, no. See, I used mine.
+Man: Well, I’ll get it next time.
+Chuck Rhoades: No, I think you need to get it this time.
+Man: Why don’t you let it slide?
+Chuck Rhoades: “Let it slide.” That sounds simple, easy. Sure, let it slide. That’s just some dog shit. But those are three devious little words. You know, if if I let your dog shit slide, then I have to be okay with this whole plaza filling up with it, which it would before we know it. Oh, then it would be on our pant legs and our shoes, and we would track it into our homes, and then our homes would smell like shit, too. It’d be easy to let it slide. You know, why don’t we, uh, why don’t we let petty larceny slide, too? Some kid steals five bucks from a newsstand? Who cares? Well, maybe next time he decides to steal your TV or break into your brownstone and steal your fucking wife. But what difference does it make? Because by then, we’re all living in shit anyway.</p>
+
+<p>-Billions (2016)</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/lincoln_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/lincoln_quote" />
+    <title></title>
+    <published>2018-10-08T00:00:00+00:00</published>
+    <updated>2018-10-08T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Thaddeus Stevens: How can I hold that all men are created equal, when here before me stands, stinking, the moral carcass of the gentleman from Ohio, proof that some men are inferior. Endowed by their Maker with dim wits, impermeable to reason, with cold, pallid slime in their veins instead of hot red blood! You are more reptile than man, George! So low and flat, that the foot of man is incapable of crushing you!
+
+George Pendleton: How dare you?
+
+Thaddeus Stevens: Yet even you, Pendleton, who should have been gibbeted for treason long before today, even worthless unworthy you ought to be treated equally before the law! And so again, sir, and again and again and again I say: I do not hold with equality in all things. Only with equality before the law.
+
+-Lincoln (2012)...</summary>
+    <content type="html"><![CDATA[
+        <p>Thaddeus Stevens: How can I hold that all men are created equal, when here before me stands, stinking, the moral carcass of the gentleman from Ohio, proof that some men are inferior. Endowed by their Maker with dim wits, impermeable to reason, with cold, pallid slime in their veins instead of hot red blood! You are more reptile than man, George! So low and flat, that the foot of man is incapable of crushing you!</p>
+
+<p>George Pendleton: How dare you?</p>
+
+<p>Thaddeus Stevens: Yet even you, Pendleton, who should have been gibbeted for treason long before today, even worthless unworthy you ought to be treated equally before the law! And so again, sir, and again and again and again I say: I do not hold with equality in all things. Only with equality before the law.</p>
+
+<p>-Lincoln (2012)</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/im_in_no_hurry</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/im_in_no_hurry" />
+    <title></title>
+    <published>2018-07-29T00:00:00+00:00</published>
+    <updated>2018-07-29T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">در امتداد خلوت‌ترین ساعات شهر، از میان خیابان‌های سابقاً سرسبز، در چند قدمی تمام گدایان شب‌زنده‌دار، در هزار فرسنگی لبخندهای دلنشینش، ماشین را می‌رانم به سمت خانه و برای نخستین بار عجله‌ای برای رسیدن ندارم....</summary>
+    <content type="html"><![CDATA[
+        <p>در امتداد خلوت‌ترین ساعات شهر، از میان خیابان‌های سابقاً سرسبز، در چند قدمی تمام گدایان شب‌زنده‌دار، در هزار فرسنگی لبخندهای دلنشینش، ماشین را می‌رانم به سمت خانه و برای نخستین بار عجله‌ای برای رسیدن ندارم.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/truth_or_dare</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/truth_or_dare" />
+    <title></title>
+    <published>2018-07-26T00:00:00+00:00</published>
+    <updated>2018-07-26T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Sam: Truth or dare?
+Mike: Truth.
+Sam: You’re boring.
+Mike: No, truth is always interesting.
+
+Birdman – 2014...</summary>
+    <content type="html"><![CDATA[
+        <p>Sam: Truth or dare?
+Mike: Truth.
+Sam: You’re boring.
+Mike: No, truth is always interesting.</p>
+
+<p>Birdman – 2014</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/describing_faride</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/describing_faride" />
+    <title>فریده</title>
+    <published>2018-04-27T00:00:00+00:00</published>
+    <updated>2018-04-27T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">فریده صورتی شاداب و پرانرژی دارد. شور و اشتیاق و زندگی را اگر ۵ دقیقه کنارش باشی حس می‌کنی. راه رفتنش هم بدون قر و فر است و در نهایت آرامش. حالت پیش فرضش این است که بگوید و بخندد. اگر در حال خندیدن نباشد احتمالاً وسط یک بحث جدی بیابیدش. وارد بحث هم که می‌شود برایش فرقی نمی‌کند بندهٔ یک لا قبا جلویش نشسته‌ام یا رئیس جمهور آمریکا، با همه به جدیت بحث می‌کند. گوش شنوا دارد و نظرات مخالفش را می‌شنود. از لحاظ فکری از سالم‌ترین آدم‌هاییست که این دور و بر دیده‌ام. در این شرایط اجتماعی نابسامانی که داریم، مثل فریده اخلاق‌گرا بودن واقعا سخت است. از آن‌هاییست که در حین رانندگی بین خطوط می‌راند و لین عوض نمی‌کند و عمراً هم بوق نمی‌زند. در این یک مدت که میشناسمش همیشه تحسینش کرده‌ام.
+
+فریده عقایدی جالب دارد که با دیگر جوانان این اطراف کمی متفاوت است. بعد از تمام این سال‌ها، هنوز اصلاح را راه حل موثر برای شرایط موجود می‌داند. وضعیت هرچقدر هم که بد باشد بر خلاف خیلی‌ها ناامید نمی‌شود و می‌گوید انسان به امید زنده است و مطالبه‌گری. دشمن سرسخت سیگار و سیگارکش است و می‌گوید مالیات سیگار باید افزایش پیدا کند. فریده دوست خوبیست و ای کاش بلد بودم بهتر بنویسم تا قشنگ متوجه می‌شدید چه دوست خوبیست. اما همین......</summary>
+    <content type="html"><![CDATA[
+        <p>فریده صورتی شاداب و پرانرژی دارد. شور و اشتیاق و زندگی را اگر ۵ دقیقه کنارش باشی حس می‌کنی. راه رفتنش هم بدون قر و فر است و در نهایت آرامش. حالت پیش فرضش این است که بگوید و بخندد. اگر در حال خندیدن نباشد احتمالاً وسط یک بحث جدی بیابیدش. وارد بحث هم که می‌شود برایش فرقی نمی‌کند بندهٔ یک لا قبا جلویش نشسته‌ام یا رئیس جمهور آمریکا، با همه به جدیت بحث می‌کند. گوش شنوا دارد و نظرات مخالفش را می‌شنود. از لحاظ فکری از سالم‌ترین آدم‌هاییست که این دور و بر دیده‌ام. در این شرایط اجتماعی نابسامانی که داریم، مثل فریده اخلاق‌گرا بودن واقعا سخت است. از آن‌هاییست که در حین رانندگی بین خطوط می‌راند و لین عوض نمی‌کند و عمراً هم بوق نمی‌زند. در این یک مدت که میشناسمش همیشه تحسینش کرده‌ام.</p>
+
+<p>فریده عقایدی جالب دارد که با دیگر جوانان این اطراف کمی متفاوت است. بعد از تمام این سال‌ها، هنوز اصلاح را راه حل موثر برای شرایط موجود می‌داند. وضعیت هرچقدر هم که بد باشد بر خلاف خیلی‌ها ناامید نمی‌شود و می‌گوید انسان به امید زنده است و مطالبه‌گری. دشمن سرسخت سیگار و سیگارکش است و می‌گوید مالیات سیگار باید افزایش پیدا کند. فریده دوست خوبیست و ای کاش بلد بودم بهتر بنویسم تا قشنگ متوجه می‌شدید چه دوست خوبیست. اما همین کافیست که بگویم فریده از آن آدم‌هاییست که دوست داشتم بیشتر ازشان دور و برمان بود. دنیا جای زیباتری بود.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/freedom_of_speech_2nd_part</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/freedom_of_speech_2nd_part" />
+    <title>آزادی بیان</title>
+    <published>2018-04-25T00:00:00+00:00</published>
+    <updated>2018-04-25T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">آزادی بیان، یا همان حق ابراز عقاید شخصی به طور آزادانه. امروزه آزادی بیان را یکی از حقوق اساسی خود می‌دانیم و برای به دست آوردن و حفظ کردن آن تلاش می‌کنیم. اما آزادی بیان به چه معناست؟ زیر پوشش آزادی بیان این حق را داریم که هرچه دلمان خواست بگوییم؟ نه دقیقاً.
+
+محدودیت‌های آزادی بیان از این اصل اساسی ناشی می‌شوند که شما حق ندارید برای رسیدن به خواستهٔ خود به دیگران آسیب برسانید. به عبارت دیگر، هدف وسیله را توجیه نمی‌کند. آزادی بیان این حق را برای شما ایجاد می‌کند که آزادانه به ابراز عقاید خود بپردازید، استدلال‌های خود را مطرح کنید و در برابر آن‌چه بی‌عدالتی می‌دانید موضع‌گیری کنید. تا جایی که آگاهانه سخن خلاف واقع نگویید، نفرت‌پراکنی نکنید و مردم را به استفاده از نیروی زور تشویق نکنید باید این حق را داشته باشید که آزادانه آنچه در ذهنتان می‌گذرد را مطرح کنید.
+
+به همین سادگی....</summary>
+    <content type="html"><![CDATA[
+        <p>آزادی بیان، یا همان حق ابراز عقاید شخصی به طور آزادانه. امروزه آزادی بیان را یکی از حقوق اساسی خود می‌دانیم و برای به دست آوردن و حفظ کردن آن تلاش می‌کنیم. اما آزادی بیان به چه معناست؟ زیر پوشش آزادی بیان این حق را داریم که هرچه دلمان خواست بگوییم؟ نه دقیقاً.</p>
+
+<p>محدودیت‌های آزادی بیان از این اصل اساسی ناشی می‌شوند که شما حق ندارید برای رسیدن به خواستهٔ خود به دیگران آسیب برسانید. به عبارت دیگر، هدف وسیله را توجیه نمی‌کند. آزادی بیان این حق را برای شما ایجاد می‌کند که آزادانه به ابراز عقاید خود بپردازید، استدلال‌های خود را مطرح کنید و در برابر آن‌چه بی‌عدالتی می‌دانید موضع‌گیری کنید. تا جایی که آگاهانه سخن خلاف واقع نگویید، نفرت‌پراکنی نکنید و مردم را به استفاده از نیروی زور تشویق نکنید باید این حق را داشته باشید که آزادانه آنچه در ذهنتان می‌گذرد را مطرح کنید.</p>
+
+<p>به همین سادگی.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/at_the_end_of_eight_street</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/at_the_end_of_eight_street" />
+    <title>آزادی بیان</title>
+    <published>2018-04-23T00:00:00+00:00</published>
+    <updated>2018-04-23T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">-چرا نرفتی؟
+-میترسم ببازم
+-خب ببازی. چی میشه؟ ماام میخوایم امشب ببازیم.
+-باخت تو فرق داره موسی …
+-چه فرقی داره؟ تا حالا بردی؟
+-آره
+-حالا بازم بباز. یا ببر. یا هرچی. برو برو، برو خودتو لوس نکن. برو بازی کن.
+
+ـانتهای خیابان هشتم...</summary>
+    <content type="html"><![CDATA[
+        <p>-چرا نرفتی؟
+-میترسم ببازم
+-خب ببازی. چی میشه؟ ماام میخوایم امشب ببازیم.
+-باخت تو فرق داره موسی …
+-چه فرقی داره؟ تا حالا بردی؟
+-آره
+-حالا بازم بباز. یا ببر. یا هرچی. برو برو، برو خودتو لوس نکن. برو بازی کن.</p>
+
+<p>ـانتهای خیابان هشتم</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/freedom_of_speech</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/freedom_of_speech" />
+    <title>آزادی بیان</title>
+    <published>2018-04-10T00:00:00+00:00</published>
+    <updated>2018-04-10T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">آزادی بیان. دو کلمه‌ای که باید ضامن برابری سیاسی باشند. اولین قدم سرکوب همین است که فرصت آزادانه صحبت کردن و ابراز عقیده کردن در مورد مسائل عمومی و دغدغه‌های سیاسی از اقلیتی سلب شود. پس آزادی بیان برای داشتن آزادی سیاسی ضروریست.
+
+با این حال، در تمام کشورها هستند افرادی که عقاید مختلف مذهبی را تهدیدآمیز می‌یابند، دگراندیشی را برنمی‌تابند و برای خود این حق را قائل می‌شوند که بر اساس نژاد، رنگ پوست، عقاید اجتماعی، اقلیتی را مورد آزار و اذیت قرار دهند. آنان که آزادی را برای خود می‌خواهند باید از خود بپرسند این آزادی را برای دیگران تا چه اندازه تحمل می‌کنند؟
+
+مشخصاً در هفته‌های گذشته، به دلیل وضعیت نابسامان معیشتی، اجتماعی و سیاسی حال حاضر کشور شاهد افزایش گفتمان نفرت‌پراکن در جامعه بودیم. روحانی به دلیل فیلترینگ تلگرام مورد هجمهٔ عظیم مردم قرار گرفت، جهانگیری به دلیل سخنانش در مورد دلار سرزنش شد، ظریف هم به دلیل صحبت‌هایش در مورد حقوق بهائیان با واکنش تند مردم مواجه شد. هجمه‌ای که گاهاً به دور از انصاف بود و به تسویه‌حساب‌های سیاسی بیشتر شبیه بود تا انتقاد. حمید رسایی هم امروز روحانی را منافق و مفسد فی‌العرض خواند و سزاوار محاکمه در دادگاه. در اینجا اما به درست یا غلط بودن هجمه‌ها کاری......</summary>
+    <content type="html"><![CDATA[
+        <p>آزادی بیان. دو کلمه‌ای که باید ضامن برابری سیاسی باشند. اولین قدم سرکوب همین است که فرصت آزادانه صحبت کردن و ابراز عقیده کردن در مورد مسائل عمومی و دغدغه‌های سیاسی از اقلیتی سلب شود. پس آزادی بیان برای داشتن آزادی سیاسی ضروریست.</p>
+
+<p>با این حال، در تمام کشورها هستند افرادی که عقاید مختلف مذهبی را تهدیدآمیز می‌یابند، دگراندیشی را برنمی‌تابند و برای خود این حق را قائل می‌شوند که بر اساس نژاد، رنگ پوست، عقاید اجتماعی، اقلیتی را مورد آزار و اذیت قرار دهند. آنان که آزادی را برای خود می‌خواهند باید از خود بپرسند این آزادی را برای دیگران تا چه اندازه تحمل می‌کنند؟</p>
+
+<p>مشخصاً در هفته‌های گذشته، به دلیل وضعیت نابسامان معیشتی، اجتماعی و سیاسی حال حاضر کشور شاهد افزایش گفتمان نفرت‌پراکن در جامعه بودیم. روحانی به دلیل فیلترینگ تلگرام مورد هجمهٔ عظیم مردم قرار گرفت، جهانگیری به دلیل سخنانش در مورد دلار سرزنش شد، ظریف هم به دلیل صحبت‌هایش در مورد حقوق بهائیان با واکنش تند مردم مواجه شد. هجمه‌ای که گاهاً به دور از انصاف بود و به تسویه‌حساب‌های سیاسی بیشتر شبیه بود تا انتقاد. حمید رسایی هم امروز روحانی را منافق و مفسد فی‌العرض خواند و سزاوار محاکمه در دادگاه. در اینجا اما به درست یا غلط بودن هجمه‌ها کاری ندارم. معتقدم گفتمان نفرت انگیز و نفرت پراکن باید توسط تمام افراد مردود شناخته شود. سخنان حمید رسایی را مشخصاً توهین می‌دانم چرا که میلیون‌ها نفر از هم‌وطنانمان روحانی را به عنوان نماینده و رئیس جمهورشان انتخاب کرده‌اند.</p>
+
+<p>هستند کسانی که می‌پرسند: چرا با هتاکان برخورد نکنیم؟ پاسخشان در قانون اساسی کشور نهفته است. قانون اساسی ما حق آزادی بیان را برای مردم محفوظ می‌دارد. روحانی هم باید این را بپذیرد که به عنوان رئیس جمهور و دومین فرد قدرتمند کشور، به طور روزانه خطاب ناسزا و هتاکی قرار خواهد داشت. و مهم‌تر از آن، از این حق مردم دفاع کند که آزادانه نظرشان را آن‌گونه که دوست دارند راجع به او بگویند و منتشر کنند.</p>
+
+<p>باید این حق را به مردم بدهیم که آزادانه به بیان دیدگاه‌های خود بپردازند، حتی دیدگاه‌هایی که شدیدا مخالفشان هستیم، نه به این خاطر که حامی گفتمان نفرت‌انگیز هستیم، بلکه چون پس از سال‌ها زندگی در خفقان مطبوعاتی متوجه شده‌ایم که بدون داشتن حق آزادی بیان، ظرفیت هر فرد برای بیان دیدگاه هایش با تهدید روبرو خواهد شد. از این حق دفاع می‌کنیم چرا که در یک جامعهٔ متنوع که از قومیت‌های مختلف، باورها و عقاید مختلف و متنوع تشکیل شده، تلاش برای محدود کردن آزادی بیان سریعا به ابزاری برای ساکت کردن مخالفان تبدیل خواهد شد. از آزادی بیان دفاع می‌کنیم چرا که معتقدیم قدرتمندترین سلاح در مقابل گفتمان نفرت پراکن، نه سرکوب، که سخنرانی و گفتمان بیشتر است.</p>
+
+<p>صداهای تحمل که در مقابل صداهای توهین و خشونت صف می‌کشند، ارزش‌های درک و احترام متقابل در جامعه را پررنگ‌تر می‌کنند. مشخص است که همه با این دیدگاه در مورد حراست از آزادی بیان موافق نیستند که قابل درک است. اما در سال ۱۳۹۷ که هر شخصی با یک تلفن همراه، می‌تواند دیدگاه‌های توهین آمیزش را در سرتاسر دنیا پخش کند، این ایده که می‌توانیم جریان اطلاعات را کنترل کنیم مهجور است.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/25th_hour</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/25th_hour" />
+    <title></title>
+    <published>2018-04-10T00:00:00+00:00</published>
+    <updated>2018-04-10T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Monty Brogan: Yeah, fuck you, too. Fuck me? Fuck you, Fuck you and this whole city and everyone in it. Fuck the panhandlers, grubbing for money, and smiling at me behind my back. Fuck the squeegee men dirtying up the clean windshield of my car – get a fucking job! Fuck the Sikhs and the Pakistanis bombing down the avenues in decrepit cabs, curry steaming out their pores stinking up my day. Terrorists in fucking training. SLOW THE FUCK DOWN! Fuck the Chelsea boys with their waxed chests and pumped-up biceps. Going down on each other in my parks and on my piers, jingling their dicks on my Channel 35. Fuck the Korean grocers with their pyramids of overpriced fruit and their tulips and roses wrapped in plastic. Ten years in the country, still no speaky English? Fuck the Russians in Brighton Beach. Mobster thugs sitting in cafés, sipping tea in little glasses, sugar cubes between their teeth. Wheelin’ and dealin’ and schemin’. Go back where you fucking came from! Fuck the black-hatted Chassidim, strolling up and down 47th street in their dirty gabardine with their dandruff. Selling South African apartheid diamonds! Fuck the Wall Street brokers. Self-styled masters of the universe. Michael Douglas, Gordon Gekko wannabe mother fuckers, figuring out new ways to rob hard working people blind. Send those Enron assholes to jail for FUCKING LIFE! You think Bush and Cheney didn’t know about that shit? Give me a fucking break! Tyco! Worldcom! Fuck the Puerto Ricans. Twenty to a car, swelling up the welfare rolls, worst fuckin’ parade in the city. And don’t even get me started on the Dom-in-i-cans, ’cause they make the Puerto Ricans look good. Fuck the Bensonhurst Italians with their pomaded hair, their nylon warm-up suits, their St. Anthony medallions, swinging their Jason Giambi Louisville Slugger baseball bats, trying to audition for “The Sopranos.” Fuck the Upper East Side wives with their Hermès scarves and their fifty-dollar Balducci artichokes.......</summary>
+    <content type="html"><![CDATA[
+        <p>Monty Brogan: Yeah, fuck you, too. Fuck <em>me</em>? Fuck <em>you</em>, Fuck you and this whole city and everyone in it. Fuck the panhandlers, grubbing for money, and smiling at me behind my back. Fuck the squeegee men dirtying up the clean windshield of my car – get a fucking job! Fuck the Sikhs and the Pakistanis bombing down the avenues in decrepit cabs, curry steaming out their pores stinking up my day. Terrorists in fucking training. SLOW THE FUCK DOWN! Fuck the Chelsea boys with their waxed chests and pumped-up biceps. Going down on each other in my parks and on my piers, jingling their dicks on my Channel 35. Fuck the Korean grocers with their pyramids of overpriced fruit and their tulips and roses wrapped in plastic. Ten years in the country, still no speaky English? Fuck the Russians in Brighton Beach. Mobster thugs sitting in cafés, sipping tea in little glasses, sugar cubes between their teeth. Wheelin’ and dealin’ and schemin’. Go back where you fucking came from! Fuck the black-hatted Chassidim, strolling up and down 47th street in their dirty gabardine with their dandruff. Selling South African apartheid diamonds! Fuck the Wall Street brokers. Self-styled masters of the universe. Michael Douglas, Gordon Gekko wannabe mother fuckers, figuring out new ways to rob hard working people blind. Send those Enron assholes to jail for FUCKING LIFE! You think Bush and Cheney didn’t know about that shit? Give me a fucking break! Tyco! Worldcom! Fuck the Puerto Ricans. Twenty to a car, swelling up the welfare rolls, worst fuckin’ parade in the city. And don’t even get me started on the Dom-in-i-cans, ’cause they make the Puerto Ricans look good. Fuck the Bensonhurst Italians with their pomaded hair, their nylon warm-up suits, their St. Anthony medallions, swinging their Jason Giambi Louisville Slugger baseball bats, trying to audition for “The Sopranos.” Fuck the Upper East Side wives with their Hermès scarves and their fifty-dollar Balducci artichokes. Overfed faces getting pulled and lifted and stretched, all taut and shiny. You’re not fooling anybody, sweetheart! Fuck the uptown brothers. They never pass the ball, they don’t want to play defense, they take five steps on every lay-up to the hoop. And then they want to turn around and blame everything on the white man. Slavery ended one hundred and thirty seven years ago. Move the fuck on! Fuck the corrupt cops with their anus-violating plungers and their 41 shots, standing behind a blue wall of silence. You betray our trust! Fuck the priests who put their hands down some innocent child’s pants. Fuck the church that protects them, delivering us into evil. And while you’re at it, fuck J.C.! He got off easy! A day on the cross, a weekend in hell, and all the hallelujahs of the legioned angels for eternity! Try seven years in fuckin’ Otisville, J.! Fuck Osama Bin Laden, al-Qaeda, and backward-ass cave-dwelling fundamentalist assholes everywhere. On the names of innocent thousands murdered, I pray you spend the rest of eternity with your seventy-two whores roasting in a jet-fuel fire in hell. You towel-headed camel jockeys can kiss my royal Irish ass! Fuck Jacob Elinsky. Whining malcontent. Fuck Francis Xavier Slaughtery my best friend, judging me while he stares at my girlfriend’s ass. Fuck Naturelle Riviera, I gave her my trust and she stabbed me in the back, sold me up the river, fucking bitch. Fuck my father with his endless grief, standing behind that bar sipping on club sodas, selling whisky to firemen, and cheering the Bronx Bombers. Fuck this whole city and everyone in it. From the row-houses of Astoria to the penthouses on Park Avenue, from the projects in the Bronx to the lofts in Soho. From the tenements in Alphabet City to the brownstones in Park Slope to the split-levels in Staten Island. Let an earthquake crumble it, let the fires rage, let it burn to fucking ash and then let the waters rise and submerge this whole rat-infested place.</p>
+
+<p>[pause]</p>
+
+<p>Monty Brogan: No. No, fuck you, Montgomery Brogan. You had it all, and you threw it away, you <em>dumb</em> <em>fuck</em>!</p>
+
+<p>Monty Brogan, 25th Hour, 2002</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/wasteness</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/wasteness" />
+    <title>Wasteness</title>
+    <published>2018-03-26T00:00:00+00:00</published>
+    <updated>2018-03-26T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I despise the guy. Regardless of the fact that I just met him and don’t know much about him, think he’s just a waste of space....</summary>
+    <content type="html"><![CDATA[
+        <p>I despise the guy. Regardless of the fact that I just met him and don’t know much about him, think he’s just a waste of space.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/iranian_holiday_thats_perfect_for_americans</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/iranian_holiday_thats_perfect_for_americans" />
+    <title>بویی از جنگ ندارد</title>
+    <published>2018-03-06T00:00:00+00:00</published>
+    <updated>2018-03-06T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">ه عنوان یک دختربچه در ایران من عاشق نوروز بودم. اولین روز بهار. تنها زمانی بود که بزرگ‌سال‌ها سرزنده و پر امید به نظر می‌رسیدند. حتی کج‌خلق‌ترین اعضای فامیل به طریقی شاداب و سرزنده می‌شدند و چهره‌ای صمیمی از خود نشان می‌دادند که در بقیه‌ی طول سال قابل رویت نبود. مثل فیلم پیله بود، به جز اینکه مردم با به دنیا آمدن بهار جوانتر می‌شدند، نه بیگانگان.
+
+برای من نوروز به معنای لباس نو پوشیدن و رفتن به خانه‌ی پدربزرگ و مادربزرگ‌ها، خاله جان، باقی خاله‌ها، دوستان مامان که مثل خاله بودند، دایی ها و عمه عموها بود. سنت بود که به ترتیب سن و سال به دیدار فامیل برویم. شیرینی می‌خوردم، چای می‌نوشیدم و به حرف‌های بزرگتر‌ها که از آرزوهایشان برای سال جدید می‌گفتند گوش می‌کردم. بوی گل سنبل که سنبل نوروز است به تمام سرسراها نفوذ می‌کرد. (الآن بهتان می‌گویم، هیچ چیزی برای دوست نداشتن در مورد نوروز وجود ندارد. مثل جاستین ترودو برای تعطیلی‌هاست.)
+
+در تمام خانه‌ها یک هفت سین وجود داشت. نمایشی رنگارنگ از هفت مورد نمادین که بیانگر سلامت، ثروت و عشق است. یکی از این موارد سبزه بود که بیانگر تولدی دوباره بود. آماده سازی سبزه‌ها قبل از عید با کاشتن دانه‌های مختلف مانند عدس آغاز می‌شد و آدم فشاری حس می‌کرد که کشتش......</summary>
+    <content type="html"><![CDATA[
+        <p>ه عنوان یک دختربچه در ایران من عاشق نوروز بودم. اولین روز بهار. تنها زمانی بود که بزرگ‌سال‌ها سرزنده و پر امید به نظر می‌رسیدند. حتی کج‌خلق‌ترین اعضای فامیل به طریقی شاداب و سرزنده می‌شدند و چهره‌ای صمیمی از خود نشان می‌دادند که در بقیه‌ی طول سال قابل رویت نبود. مثل فیلم پیله بود، به جز اینکه مردم با به دنیا آمدن بهار جوانتر می‌شدند، نه بیگانگان.</p>
+
+<p>برای من نوروز به معنای لباس نو پوشیدن و رفتن به خانه‌ی پدربزرگ و مادربزرگ‌ها، خاله جان، باقی خاله‌ها، دوستان مامان که مثل خاله بودند، دایی ها و عمه عموها بود. سنت بود که به ترتیب سن و سال به دیدار فامیل برویم. شیرینی می‌خوردم، چای می‌نوشیدم و به حرف‌های بزرگتر‌ها که از آرزوهایشان برای سال جدید می‌گفتند گوش می‌کردم. بوی گل سنبل که سنبل نوروز است به تمام سرسراها نفوذ می‌کرد. (الآن بهتان می‌گویم، هیچ چیزی برای دوست نداشتن در مورد نوروز وجود ندارد. مثل جاستین ترودو برای تعطیلی‌هاست.)</p>
+
+<p>در تمام خانه‌ها یک هفت سین وجود داشت. نمایشی رنگارنگ از هفت مورد نمادین که بیانگر سلامت، ثروت و عشق است. یکی از این موارد سبزه بود که بیانگر تولدی دوباره بود. آماده سازی سبزه‌ها قبل از عید با کاشتن دانه‌های مختلف مانند عدس آغاز می‌شد و آدم فشاری حس می‌کرد که کشتش به یک ورقه‌ی ضخیم و سالم از سبزه برای نوروز تبدیل شود. این روزها آموزشش را می‌توانید در یوتیوب پیدا کنید ولی زمان ما بعضی از اعضای فامیل برای مهارتشان در کشت سبزه‌ی نوروز توسط همگان تحسین شده بودند. اگر دانه‌ها خیلی زود جوانه می‌زدند، شما چمن خشک شده داشتید. اگر هم دیر جوانه می‌زدند، شما تیغه‌هایی نازک از سبزه داشتید که قسمت‌هایی از آن نیز طاس بود. فشارها زیاد بود.</p>
+
+<p>اما قسمت مورد علاقه‌ی من از هفت سین ماهی قرمز آن بود. نماد زندگی. مثل باقی بچه‌های ایرانی محروم از حیوان خانگی، ماهی قرمز نزدیک‌ترین جاندار به یک حیوان خانگی بود که می‌توانستم داشته باشم. سریال لَسی را دیده بودم و می‌دانستم که ماهی قرمز جایگزین مناسبی برای یک حیوان خانگی وفادار که اگر در چاه افتادی بیاید و نجاتت بدهد، نبود. با این حال ساعت‌ها را صرف تماشای ماهی کوچک در تنگ می‌کردم و دعاگویان که صبح روز بعد که بهش سر می‌زنم روی شکمش شناور نباشد. ماهی قرمز ممکن است نماد زندگی باشد، ولی برای من نماد ناامیدی نیز بود.</p>
+
+<p>ما سال ۵۰ به آمریکا مهاجرت کردیم و خیلی زود متوجه شدیم که تنها ایرانیان شهر بودن برای جشن گرفتن نوروز کافی نبود. پدر و مادر من از همان اول هم زیاد اهل جشن گرفتن نبودند (خب هرکسی یک روزی به دنیا آمده دیگر، نیازی نیست بیش از حد قضیه را بزرگ کنیم). اما چالش اصلی احساس هیجان برای جشن گرفتن بین قرار دندانپزشکی و تمرین بستکبال بود.</p>
+
+<p>اولین روز بهار برای هیچکس در آمریکا اهمیتی نداشت. این لحظه‌ی قابل احترام در فرهنگ ایرانی به معنای واقعی کلمه اینجا هیچ اهمیتی نداشت. هیچ فامیلی برای بازدید نداشتیم، پس نوروز به فقط یکی از عنصرهای ضروریش برایمان تقلیل یافت: تماس با فامیل در ایران. اوایل دهه ۵۰ این کار یک سرمایه گذاری و ریسک بزرگ بود. مادرم که تا صدای خانواده‌اش را می‌شنید زیر گریه می‌زد که منجر به پیشنهاد کاربردی پدر مهندسم می‌شد: که او باید قبل از تماس تلفنی گریه‌هایش را بکد تا مجبور نباشیم برای گریه کردن هزینه‌ای پرداخت کنیم. (پیشنهادم به همسران: از اینگونه پیشنهادات اجتناب کنید.)</p>
+
+<p>در اوایل دهه شصت ایرانیان زیادی به آمریکا مهاجرت کردند. با قلبی سرشار از قدردانی به همراه ترس همانطور که سعی می‌کردند این سرزمین جدید را بپیمایند در حالی که هنوز به قطعاتی از گذشته‌شان چسبیده بودند. همراه با خودشان دستور پخت غذا، موسیقی و سنّت آوردند. نوروز برای پدر و مادرم آهسته آهسته به زندگی بازگشت. بنرهایی در سطح لوس آنجلس نصب می‌شد که برای همه آرزوی یک نوروز خوب را داشت. بعضی از سیاستمداران حتی جشن‌هایی را برای نوروز ترتیب می‌دادند. مادرم دوباره شروع به چیدن هفت سین کرد.</p>
+
+<p>سپس سال ۹۶ آمد، و یک شب که در حال غصه خوردن به حال ماهیت عمیقاً چند دسته‌ی این کشور بودم، متوجه موضوعی شدم که پیش از این به آن توجه نکرده بودم. هر گروه از مهاجران چیزی به این کشور افزوده است، و ما ایرانیان اینجا هستیم که به شما نوروز را تقدیم کنیم. تعطیلاتی که فقط و فقط یک چیز از شما می‌خواهد – که امیدوار باشید. هزاران سال است که پابرجا بوده. هیچ بحث و جدلی در مورد نوروز وجود ندارد. به خاطرش هیچ گروهی از مردم بومی آواره نشده‌اند، هیچ جنگی جنگیده نشده، و هیچکس برای این جشن ما جانش را از دست نداده. مگر اینکه زمستان با یک سری افشاگری کثیف در مورد بهار سر و کله‌اش پیدا شود، مشکلی خاصی نداریم. در حالی که نوروز ریشه در زرتشتیسم، یکی از نخستین ادیان توحیدی دارد، چه کسی با دینی که شعارش «رفتار نیک، گفتار نیک و پندار نیک» است مخالفت می‌کند؟</p>
+
+<p>پس آمریکایی‌ها، لطفا یک ایرانی را پیدا کنید و برای یک دقیقه مسائلی که باعث تفرقه بین ما می‌شود را فراموش کنید. درباره‌ی نوروز بپرسید. احتمالاً به شما باقلوای خانگی یا شیرینی نخودی تعارف می‌شود. لطفا شیرینی نخودی را امتحان کنید. ممکن است در ابتدا برایتان عجیب به نظر برسد، ولی مطمئن باشید ترافل‌های رام بال شما هم آن اوایل آن‌قدرها به نظر من جالب نمی‌آمدند. و در حالی که متعجب هستید که چرا شیرینی نخودی‌ها اینقدر سریع در دهانتان آب می‌شوند، بگذارید حرف بزنیم. ممکن است شگفت‌زده شوید از اینکه چقدر بیشتر از آن‌چه فکر می‌کردید با هم نقطه‌ی اشتراک داریم. این باید به همه‌ی ما امید بدهد.</p>
+
+<p>به قلم فیروزه جزایری دوما
+و برگردان امیرمسعود مهرابیان
+زمستان ۹۶ – مارس ۲۰۱۸</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/the_old_man</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/the_old_man" />
+    <title>The old man</title>
+    <published>2018-02-28T00:00:00+00:00</published>
+    <updated>2018-02-28T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I’m gonna miss the old man when he’s gone. I remember how he used to kiss me when I was a kid. I would get angry and scream at him because of his sharp mustache. “I don’t feel young and alive anymore”, he told me the other day. “Time passes in a snap of a finger, you wake up one day, you look at the mirror and see that you’ve aged 50 years without even noticing.”
+
+Sure as shit I’m gonna miss the old man....</summary>
+    <content type="html"><![CDATA[
+        <p>I’m gonna miss the old man when he’s gone. I remember how he used to kiss me when I was a kid. I would get angry and scream at him because of his sharp mustache. “I don’t feel young and alive anymore”, he told me the other day. “Time passes in a snap of a finger, you wake up one day, you look at the mirror and see that you’ve aged 50 years without even noticing.”</p>
+
+<p>Sure as shit I’m gonna miss the old man.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/effed_up_situation</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/effed_up_situation" />
+    <title></title>
+    <published>2018-02-28T00:00:00+00:00</published>
+    <updated>2018-02-28T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">It’s a fucked up situation. I don’t even know if I’m holding on or letting go....</summary>
+    <content type="html"><![CDATA[
+        <p>It’s a fucked up situation. I don’t even know if I’m holding on or letting go.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/blockage</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/blockage" />
+    <title>دیشب خیلی اتفاقی؛ سد معبر</title>
+    <published>2018-01-20T00:00:00+00:00</published>
+    <updated>2018-01-20T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">دیشب خیلی اتفاقی رفتیم و «سد معبر» را دیدیم، و چه خوب که رفتیم. در موردش نمی‌توانم به مانند همیشه که فیلمی مورد پسندم واقع می‌شود، به عکسی و خطی از داستان اکتفا کنم. چرا که سد معبر برایم بیشتر از یک فیلم سینمایی بود. داستان آدم‌هایی از طبقه‌ی متوسط جامعه که خودمان نیز قسمتی از آن هستیم را برایمان بازگو می‌کند و به همین دلیل است که حرفش را همه می‌فهمیم و گوشه‌ای از زندگی خود را در آن پیدا می‌کنیم. من بابا را در قاسم دیدم. سخت‌کوشی و تقلّا برای فراهم آوردن یک زندگی بهتر برای خانواده، با همه‌ی درست و غلط‌هایش.
+
+روایت فیلم از طبقه‌ی متوسط جامعه را بی‌طرفانه می‌پندارم چون فکر می‌کنم اغراقی در کار نبود. آن قدر انسانی، آن قدر واقعی و گیرا که حتما باید ببینیدش....</summary>
+    <content type="html"><![CDATA[
+        <p>دیشب خیلی اتفاقی رفتیم و «سد معبر» را دیدیم، و چه خوب که رفتیم. در موردش نمی‌توانم به مانند همیشه که فیلمی مورد پسندم واقع می‌شود، به عکسی و خطی از داستان اکتفا کنم. چرا که سد معبر برایم بیشتر از یک فیلم سینمایی بود. داستان آدم‌هایی از طبقه‌ی متوسط جامعه که خودمان نیز قسمتی از آن هستیم را برایمان بازگو می‌کند و به همین دلیل است که حرفش را همه می‌فهمیم و گوشه‌ای از زندگی خود را در آن پیدا می‌کنیم. من بابا را در قاسم دیدم. سخت‌کوشی و تقلّا برای فراهم آوردن یک زندگی بهتر برای خانواده، با همه‌ی درست و غلط‌هایش.</p>
+
+<p>روایت فیلم از طبقه‌ی متوسط جامعه را بی‌طرفانه می‌پندارم چون فکر می‌کنم اغراقی در کار نبود. آن قدر انسانی، آن قدر واقعی و گیرا که حتما باید ببینیدش.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/miss_her_again</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/miss_her_again" />
+    <title></title>
+    <published>2018-01-04T00:00:00+00:00</published>
+    <updated>2018-01-04T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Before this very moment, I wouldn’t for a second, think that I would miss her again. But now I terribly do. What If she was here, she would pick up a book, sit right in front of me, and start reading.  Wouldn’t that make life worth living?...</summary>
+    <content type="html"><![CDATA[
+        <p>Before this very moment, I wouldn’t for a second, think that I would miss her again. But now I terribly do. What If she was here, she would pick up a book, sit right in front of me, and start reading.  Wouldn’t that make life worth living?</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/gorky_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/gorky_quote" />
+    <title></title>
+    <published>2017-12-30T00:00:00+00:00</published>
+    <updated>2017-12-30T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">“A good man can be stupid and still be good. But a bad man must have brains.”
+
+
+-Maxim Gorky...</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>“A good man can be stupid and still be good. But a bad man must have brains.”</p>
+</blockquote>
+
+<p>-Maxim Gorky</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/drivers_lincence</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/drivers_lincence" />
+    <title></title>
+    <published>2017-12-23T00:00:00+00:00</published>
+    <updated>2017-12-23T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">All the bullshit, pain and practice led up to this final moment. My heart is beating so fast when the officer is grading my test, I’m about to have a heart attack. Can’t believe I want it so much.
+
+Finally I got it over with. Now you’re looking at a guy with driver’s licence....</summary>
+    <content type="html"><![CDATA[
+        <p>All the bullshit, pain and practice led up to this final moment. My heart is beating so fast when the officer is grading my test, I’m about to have a heart attack. Can’t believe I want it so much.</p>
+
+<p>Finally I got it over with. Now you’re looking at a guy with driver’s licence.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/obama_quote_2</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/obama_quote_2" />
+    <title></title>
+    <published>2017-11-29T00:00:00+00:00</published>
+    <updated>2017-11-29T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">You wanna know what somebody’s gonna do, look what they’ve been doin’ their whole lives.
+
+–Barack Obama...</summary>
+    <content type="html"><![CDATA[
+        <p>You wanna know what somebody’s gonna do, look what they’ve been doin’ their whole lives.</p>
+
+<p>–Barack Obama</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/finally_forgiven</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/finally_forgiven" />
+    <title>Finally Forgiven</title>
+    <published>2017-11-28T00:00:00+00:00</published>
+    <updated>2017-11-28T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">“Is she coming at all?  What am I going to say to her?  I don’t want her to think less of me”, I told myself while I was waiting. She stopped by our mutual friend’s bookstore not an hour ago. Before she left, she told me she might come back to see me. I hadn’t seen or talked to her for a couple of months. When she came back, I was confused and nervous about her being here with me at the same time. Didn’t know what to do, didn’t know what to say. Didn’t want to make her uncomfortable, and looking back at my record, handling these situations isn’t exactly my area of expertise. She, on the other hand, is able to communicate to people just fine.
+
+So when she finally came to me and said that I’m forgiven, I was so relieved. During this couple of months, I asked for her forgiveness on a number of occasions, and got turned down every time.  You see, I made an unforgivable mistake and I think she’s got every right to be angry. I abused her trust. But I have learned from my mistakes. I truly am ashamed of them and gonna try not to harm my friends from now on. That’s a promise....</summary>
+    <content type="html"><![CDATA[
+        <p>“Is she coming at all?  What am I going to say to her?  I don’t want her to think less of me”, I told myself while I was waiting. She stopped by our mutual friend’s bookstore not an hour ago. Before she left, she told me she might come back to see me. I hadn’t seen or talked to her for a couple of months. When she came back, I was confused and nervous about her being here with me at the same time. Didn’t know what to do, didn’t know what to say. Didn’t want to make her uncomfortable, and looking back at my record, handling these situations isn’t exactly my area of expertise. She, on the other hand, is able to communicate to people just fine.</p>
+
+<p>So when she finally came to me and said that I’m forgiven, I was so relieved. During this couple of months, I asked for her forgiveness on a number of occasions, and got turned down every time.  You see, I made an unforgivable mistake and I think she’s got every right to be angry. I abused her trust. But I have learned from my mistakes. I truly am ashamed of them and gonna try not to harm my friends from now on. That’s a promise.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/scene_of_the_woman_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/scene_of_the_woman_quote" />
+    <title></title>
+    <published>2017-11-20T00:00:00+00:00</published>
+    <updated>2017-11-20T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Col. Slade: As I came in here, I heard those words, “cradle of leadership”. Well, when the bow breaks, the cradle will fall. And it has fallen here, it has fallen! Makers of men, creators of leaders- be careful what kind of leaders you’re producing here. I don’t know if Charlie’s silence here today is right or wrong; I’m not a judge or jury. But I can tell you this: he won’t sell anybody out to buy his future! And that, my friends, is called integrity. That’s called courage. Now that’s the stuff leaders should be made of. Now I have come to the crossroads in my life. I always knew what the right path was; without exception, I knew. But I never took it. You know why? It was too…damn…hard. Now here’s Charlie, he’s come to the crossroads. He has chosen a path. It’s the right path. It’s a path made of principle, that leads to character. Let him continue on his journey. You hold this boy’s future in your hands, committee! It’s a valuable future. Believe me! Don’t destroy it, protect it! embrace it! It’s gonna make you proud one day, I promise you.
+
+
+–Scent of a Woman...</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>Col. Slade: As I came in here, I heard those words, “cradle of leadership”. Well, when the bow breaks, the cradle will fall. And it has fallen here, it has fallen! Makers of men, creators of leaders- be careful what kind of leaders you’re producing here. I don’t know if Charlie’s silence here today is right or wrong; I’m not a judge or jury. But I can tell you this: he won’t sell anybody out to buy his future! And that, my friends, is called integrity. That’s called courage. Now that’s the stuff leaders should be made of. Now I have come to the crossroads in my life. I always knew what the right path was; without exception, I knew. But I never took it. You know why? It was too…damn…hard. Now here’s Charlie, he’s come to the crossroads. He has chosen a path. It’s the right path. It’s a path made of principle, that leads to character. Let him continue on his journey. You hold this boy’s future in your hands, committee! It’s a valuable future. Believe me! Don’t destroy it, protect it! embrace it! It’s gonna make you proud one day, I promise you.</p>
+</blockquote>
+
+<p>–Scent of a Woman</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/quote_from_little_children</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/quote_from_little_children" />
+    <title></title>
+    <published>2017-11-19T00:00:00+00:00</published>
+    <updated>2017-11-19T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">In his wildest dreams, Larry would never have imagined he’d once again be in this position, where precious minutes count. Tonight he could save a life. He knew Ronnie had done some bad things in the past, but so had Larry. You couldn’t change the past. But the future could be a different story. And it had to start somewhere.
+
+
+–Little Children...</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>In his wildest dreams, Larry would never have imagined he’d once again be in this position, where precious minutes count. Tonight he could save a life. He knew Ronnie had done some bad things in the past, but so had Larry. You couldn’t change the past. But the future could be a different story. And it had to start somewhere.</p>
+</blockquote>
+
+<p>–Little Children</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/third_gear</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/third_gear" />
+    <title>دنده سه</title>
+    <published>2017-11-03T00:00:00+00:00</published>
+    <updated>2017-11-03T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">به نظر این حقیر بهترین دنده برای رانندگی دنده سه است. معتدل، مطمئن و قابل اعتماد....</summary>
+    <content type="html"><![CDATA[
+        <p>به نظر این حقیر بهترین دنده برای رانندگی دنده سه است. معتدل، مطمئن و قابل اعتماد.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/truth_is_like_poetry</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/truth_is_like_poetry" />
+    <title></title>
+    <published>2017-11-03T00:00:00+00:00</published>
+    <updated>2017-11-03T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Truth is like poetry. And most people fucking hate poetry.
+
+
+–Overheard at a Washington, D.C bar...</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>Truth is like poetry. And most people fucking hate poetry.</p>
+</blockquote>
+
+<p>–Overheard at a Washington, D.C bar</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/shes_quiet_me_too</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/shes_quiet_me_too" />
+    <title></title>
+    <published>2017-10-02T00:00:00+00:00</published>
+    <updated>2017-10-02T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">او ساکت است، و من هم
+
+او چای با لیمو می‌نوشد، هنگامی که من قهوه می‌نوشم
+
+و این تفاوت بین ماست
+
+مثل من پیراهنی گشاد و راه‌راه پوشیده
+
+و مثل او، من هم روزنامه‌های عصر را می‌خوانم
+
+متوجه نگاه مخفیانه‌ام نمی‌شود
+
+متوجه نگاه مخفیانه‌اش نمی‌شوم
+
+او ساکت است، و من هم
+
+از پیشخدمت چیزی می‌پرسد
+
+از پیشخدمت چیزی می‌پرسم …
+
+گربه‌ی سیاهی از میانمان عبور می‌کند
+
+نیمه شب را از میان سیاهی موهای گربه حس می‌کند
+
+به او نمی‌گویم: آسمان امروز
+
+صاف و آبیست
+
+به من نمی‌گوید: آسمان امروز صاف است
+
+به من نگاه کرده و می‌کند
+
+به او نگاه کرده و می‌کنم
+
+پای چپم را تکان می‌دهم
+
+پای راستش را تکان می‌دهد
+
+نغمه‌ی یک آهنگ را زمزمه می‌کنم
+
+نغمه‌ی آهنگ مشابهی را زمزمه می‌کند
+
+از خود می‌پرسم: او آینه‌ایست که در او خودم را می‌بینم؟
+
+برگشته و به چشمانش نگاه می‌کنم … اما خودم را نمی‌بینم
+
+با عجله از کافه خارج می‌شوم
+
+با خود فکر می‌کنم: شاید قاتلی باشد
+
+یا شاید رهگذری باشد که فکر می‌کند
+
+من قاتلی هستم
+
+ترسیده است … و من هم.
+
+شاعر، محمود درویش
+
+برگردان امّیر، اکتبر ۲۰۱۷...</summary>
+    <content type="html"><![CDATA[
+        <p>او ساکت است، و من هم</p>
+
+<p>او چای با لیمو می‌نوشد، هنگامی که من قهوه می‌نوشم</p>
+
+<p>و این تفاوت بین ماست</p>
+
+<p>مثل من پیراهنی گشاد و راه‌راه پوشیده</p>
+
+<p>و مثل او، من هم روزنامه‌های عصر را می‌خوانم</p>
+
+<p>متوجه نگاه مخفیانه‌ام نمی‌شود</p>
+
+<p>متوجه نگاه مخفیانه‌اش نمی‌شوم</p>
+
+<p>او ساکت است، و من هم</p>
+
+<p>از پیشخدمت چیزی می‌پرسد</p>
+
+<p>از پیشخدمت چیزی می‌پرسم …</p>
+
+<p>گربه‌ی سیاهی از میانمان عبور می‌کند</p>
+
+<p>نیمه شب را از میان سیاهی موهای گربه حس می‌کند</p>
+
+<p>به او نمی‌گویم: آسمان امروز</p>
+
+<p>صاف و آبیست</p>
+
+<p>به من نمی‌گوید: آسمان امروز صاف است</p>
+
+<p>به من نگاه کرده و می‌کند</p>
+
+<p>به او نگاه کرده و می‌کنم</p>
+
+<p>پای چپم را تکان می‌دهم</p>
+
+<p>پای راستش را تکان می‌دهد</p>
+
+<p>نغمه‌ی یک آهنگ را زمزمه می‌کنم</p>
+
+<p>نغمه‌ی آهنگ مشابهی را زمزمه می‌کند</p>
+
+<p>از خود می‌پرسم: او آینه‌ایست که در او خودم را می‌بینم؟</p>
+
+<p>برگشته و به چشمانش نگاه می‌کنم … اما خودم را نمی‌بینم</p>
+
+<p>با عجله از کافه خارج می‌شوم</p>
+
+<p>با خود فکر می‌کنم: شاید قاتلی باشد</p>
+
+<p>یا شاید رهگذری باشد که فکر می‌کند</p>
+
+<p>من قاتلی هستم</p>
+
+<p>ترسیده است … و من هم.</p>
+
+<p>شاعر، محمود درویش</p>
+
+<p>برگردان امّیر، اکتبر ۲۰۱۷</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/path_to_forgiveness</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/path_to_forgiveness" />
+    <title>Path to forgiveness</title>
+    <published>2017-09-27T00:00:00+00:00</published>
+    <updated>2017-09-27T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I’m on a journey to redeem myself. This all started when I took her hand where I wasn’t supposed to. You see, I made an unfortunate and unforgivable mistake.
+
+Not just one, I made many, many mistakes during the time we spent together.
+
+I know she tried to be forgiving. But who can just pardon a guilty act, a stab in the back? Such mistakes can have an irreversible effect on relationships. Even if You have learned from the mistakes and would never repeat them.
+
+I don’t say I deserve a second chance, because I very well know that by forgiving too readily, we can be badly hurt.
+
+But think about it, what if our universe was based on different set of rules? Suppose you could tell her: ‘I didn’t mean to hurt you,’ and she would say: ‘It’s okay, I understand,’ and she would not turn away and get out of your life, and life would just proceed as nothing, nothing happened? We truly could be wiser for the experience and lead a better life.
+
+Wouldn’t you agree?...</summary>
+    <content type="html"><![CDATA[
+        <p>I’m on a journey to redeem myself. This all started when I took her hand where I wasn’t supposed to. You see, I made an unfortunate and unforgivable mistake.</p>
+
+<p>Not just one, I made many, many mistakes during the time we spent together.</p>
+
+<p>I know she tried to be forgiving. But who can just pardon a guilty act, a stab in the back? Such mistakes can have an irreversible effect on relationships. Even if You have learned from the mistakes and would never repeat them.</p>
+
+<p>I don’t say I deserve a second chance, because I very well know that by forgiving too readily, we can be badly hurt.</p>
+
+<p>But think about it, what if our universe was based on different set of rules? Suppose you could tell her: ‘I didn’t mean to hurt you,’ and she would say: ‘It’s okay, I understand,’ and she would not turn away and get out of your life, and life would just proceed as nothing, nothing happened? We truly could be wiser for the experience and lead a better life.</p>
+
+<p>Wouldn’t you agree?</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/beggers_cant_be_choosers</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/beggers_cant_be_choosers" />
+    <title></title>
+    <published>2017-09-23T00:00:00+00:00</published>
+    <updated>2017-09-23T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">این کارمندی و نوکر دیگران بودن هم دردسریست. همیشه منتظر دو قران حقوقی که قرار است برسد و اگر هم مثل این ماه تغییری ۱۰-۱۵ روزه در برنامه‌ی ارباب رخ دهد باید نیمی از ماه را به گدایی و دست درازی سر کنی و به نان شبت محتاج باشی.
+
+خدا برای دشمن آدم هم نیاورد....</summary>
+    <content type="html"><![CDATA[
+        <p>این کارمندی و نوکر دیگران بودن هم دردسریست. همیشه منتظر دو قران حقوقی که قرار است برسد و اگر هم مثل این ماه تغییری ۱۰-۱۵ روزه در برنامه‌ی ارباب رخ دهد باید نیمی از ماه را به گدایی و دست درازی سر کنی و به نان شبت محتاج باشی.</p>
+
+<p>خدا برای دشمن آدم هم نیاورد.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/putin_interview</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/putin_interview" />
+    <title></title>
+    <published>2017-08-31T00:00:00+00:00</published>
+    <updated>2017-08-31T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">اولیور استون:  همیشه اولین تلاش ترور به این صورته که سعی میکنن به حلقه‌ی حفاظت رئیس جمهور نفوذ کنن.
+
+ولادیمیر پوتین:  بله این رو میدونم. ولی تو میدونی روس‌ها در این مورد چی میگن؟ میگن اونایی که تقدیرشون آویخته شدن به داره،  توی دریا غرق نخواهند شد.
+
+استون: (خنده)، تقدیر شما چیه، آقا؟ میدونین؟
+
+پوتین: فقط خدا تقدیر ما رو میدونه — من و تو رو.
+
+استون: مردن توی تخت، شاید.
+
+پوتین: یه روز این اتفاق برای هر یک از ما میفته. سوال اینه که تا اون موقع چه کارهایی در این دنیای گذرا انجام دادیم، و اینکه آیا از زندگیمون لذت کافی رو بردیم؟...</summary>
+    <content type="html"><![CDATA[
+        <p>اولیور استون:  همیشه اولین تلاش ترور به این صورته که سعی میکنن به حلقه‌ی حفاظت رئیس جمهور نفوذ کنن.</p>
+
+<p>ولادیمیر پوتین:  بله این رو میدونم. ولی تو میدونی روس‌ها در این مورد چی میگن؟ میگن اونایی که تقدیرشون آویخته شدن به داره،  توی دریا غرق نخواهند شد.</p>
+
+<p>استون: (خنده)، تقدیر شما چیه، آقا؟ میدونین؟</p>
+
+<p>پوتین: فقط خدا تقدیر ما رو میدونه — من و تو رو.</p>
+
+<p>استون: مردن توی تخت، شاید.</p>
+
+<p>پوتین: یه روز این اتفاق برای هر یک از ما میفته. سوال اینه که تا اون موقع چه کارهایی در این دنیای گذرا انجام دادیم، و اینکه آیا از زندگیمون لذت کافی رو بردیم؟</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/ziaadin_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/ziaadin_quote" />
+    <title></title>
+    <published>2017-08-24T00:00:00+00:00</published>
+    <updated>2017-08-24T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">آشپزی یک نوع سیاست‌بافی است. در سیاست شما کاری باید بکنید که همه چیز با هم بجوشد و خوب هم بجوشد. در آشپزی هم همین کار را می‌کنید. در سیاست هم باید عوامل با هم بجوشند که کار روبه‌راه شود.
+  منتهی در آشپزی نمک غذا معمولا به دست شماست. در سیاست گاهی اوقات نمک از دست آدم درمی‌رود. یا شور شور می‌شود، یا بی‌نمک بی‌نمک. در آشپزی شما بادمجان و غوره را می‌پزید، در سیاست گاهی اوقات مجبورید که مسمای کدوتنبل درست کنید. یعنی گاهی ایجاب می‌کند که کله های تنبل و پوک و کدومانند را کنار هم بگذارید و از آن‌ها مغز متفکر بسازید. به هر حال، آشپزی تمرین سیاست‌پیشگی است. به شما تبریک می‌گویم. چون ممکن است در آینده سیاستمدار خوبی بشوید. معمولا سیاستمدارهای خوب، آشپزهای خوبی هستند. خدا رحمتش کند مرحوم قوام‌السلطنه هیچ وقت رنگ و روی آشپزخانه را هم ندیده بود. به همین جهت آشی که برای من در سیاست پخت، رویش روغنی نایستاده بود....</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>آشپزی یک نوع سیاست‌بافی است. در سیاست شما کاری باید بکنید که همه چیز با هم بجوشد و خوب هم بجوشد. در آشپزی هم همین کار را می‌کنید. در سیاست هم باید عوامل با هم بجوشند که کار روبه‌راه شود.<br />
+  منتهی در آشپزی نمک غذا معمولا به دست شماست. در سیاست گاهی اوقات نمک از دست آدم درمی‌رود. یا شور شور می‌شود، یا بی‌نمک بی‌نمک. در آشپزی شما بادمجان و غوره را می‌پزید، در سیاست گاهی اوقات مجبورید که مسمای کدوتنبل درست کنید. یعنی گاهی ایجاب می‌کند که کله های تنبل و پوک و کدومانند را کنار هم بگذارید و از آن‌ها مغز متفکر بسازید. به هر حال، آشپزی تمرین سیاست‌پیشگی است. به شما تبریک می‌گویم. چون ممکن است در آینده سیاستمدار خوبی بشوید. معمولا سیاستمدارهای خوب، آشپزهای خوبی هستند. خدا رحمتش کند مرحوم قوام‌السلطنه هیچ وقت رنگ و روی آشپزخانه را هم ندیده بود. به همین جهت آشی که برای من در سیاست پخت، رویش روغنی نایستاده بود.</p>
+</blockquote>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/obama_quote</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/obama_quote" />
+    <title>جسارت امید</title>
+    <published>2017-08-23T00:00:00+00:00</published>
+    <updated>2017-08-23T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">“There is a moment in the life of every generation, when that spirit of hopefulness has to come true, if we are to make our mark on history.”
+
+
+―Barack Obama...</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>“There is a moment in the life of every generation, when that spirit of hopefulness has to come true, if we are to make our mark on history.”</p>
+</blockquote>
+
+<p>―Barack Obama</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/theater_of_life</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/theater_of_life" />
+    <title>تئاتر زندگی</title>
+    <published>2017-08-20T00:00:00+00:00</published>
+    <updated>2017-08-20T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">دیشب داشتیم صحبت میکردیم راجع به خودمحور بودنمون توی زندگی و اینکه چی باعث میشه به قول این فرنگی‌ها desperate for attention باشیم؟ پریسا برگشت گفت: زندگی صحنه‌ی تئاتر ما در برابر مخاطبینمونه و هدف هم تحت تاثیر قرار دادنشونه. تنها تفاوت توی مخاطب‌هاییه که داریم....</summary>
+    <content type="html"><![CDATA[
+        <p>دیشب داشتیم صحبت میکردیم راجع به خودمحور بودنمون توی زندگی و اینکه چی باعث میشه به قول این فرنگی‌ها desperate for attention باشیم؟ پریسا برگشت گفت: زندگی صحنه‌ی تئاتر ما در برابر مخاطبینمونه و هدف هم تحت تاثیر قرار دادنشونه. تنها تفاوت توی مخاطب‌هاییه که داریم.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/got_returns</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/got_returns" />
+    <title>بازگشت گیم آو ترونز</title>
+    <published>2017-07-17T00:00:00+00:00</published>
+    <updated>2017-07-17T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">یکی از سریالای مورد علاقهٔ من، Game of thronesئه که فردا قراره اولین قسمت از فصل ۷اش منتشر شه. ضمن اینکه هفتهٔ گذشته بسیار مزخرف و اعصاب خورد کنی بود و به همین مناسبت جا داره یاد کنیم که:
+
+
+
+با شکست های زنجیره‌ای ناامید نشیم و یادمون باشه که زندگی تشکیل شده از خوشی های کوچیک. و توی زندگی همیشه فرصت‌هایی برامون پیش میان که اگه خوب ازشون استفاده کنیم جبران شکست‌های گذشته رو میکنن....</summary>
+    <content type="html"><![CDATA[
+        <p>یکی از سریالای مورد علاقهٔ من، Game of thronesئه که فردا قراره اولین قسمت از فصل ۷اش منتشر شه. ضمن اینکه هفتهٔ گذشته بسیار مزخرف و اعصاب خورد کنی بود و به همین مناسبت جا داره یاد کنیم که:</p>
+
+<pre><code>“.Life is full of possibilities”
+
+Tyrion Lannister-
+</code></pre>
+
+<p>با شکست های زنجیره‌ای ناامید نشیم و یادمون باشه که زندگی تشکیل شده از خوشی های کوچیک. و توی زندگی همیشه فرصت‌هایی برامون پیش میان که اگه خوب ازشون استفاده کنیم جبران شکست‌های گذشته رو میکنن.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/ubuntu-release-party</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/ubuntu-release-party" />
+    <title>جشن انتشار اوبونتو</title>
+    <published>2016-05-18T00:00:00+00:00</published>
+    <updated>2016-05-18T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">قرعهٔ برگزاری جشن انتشار اوبونتو ایندفعه به ما افتاد و ما هم تمام تلاشمون رو کردیم که حضور در این همایش خاطرهٔ خوبی بشه برای شرکت کننده ها. همونطور که شرکت توی جشن‌های قبلی تجربهٔ شیرینی بود برای خود من.
+
+برگزاری این همایش چندتا نکته در بر داشت که یادآوریشون خالی از لطف نیست:
+
+
+متاسفانه از نظر زمانبندی نتونستیم اونطور که میبایست رویداد رو مدیریت کنیم. برنامه دیرتر از زمانی که برنامه ریزی کرده بودیم شروع شد و گاها ارائه دهنده ها بیشتر از زمانی که براشون در نظر گرفته شده بود صحبت کردن (که تماما تقصیر ما بود چون جزئیات برنامه رو به خوبی باهاشون هماهنگ نکرده بودیم). تمام تلاشمون رو میکنیم که در رویدادهای بعدی با چنین مشکلی روبرو نشیم.
+تعداد شرکت کننده ها بیشتر از حد انتظارمون بود که بسیار باعث دلگرمیه.
+برای افرادی که نتونستن حضور پیدا کنن از طریق لحظه نگار پخش زندهٔ همایش رو انجام دادیم که از پشتیبانی و پاسخگویی به موقع تیم لحظه نگار نهایت رضایت رو داشتیم.
+از روزی که قرار شد این همایش برگزار باشه تا روز برگزاری همایش فقط سه هفته زمان داشتیم که برای برگزاری یک رویداد اینچنینی زمان کمی محسوب میشه و همین موضوع باعث شد نتونیم خیلی از کارا رو به بهترین نحو انجام بدیم.
+
+
+بچه های لاگ کرمان و اعضای انجمن......</summary>
+    <content type="html"><![CDATA[
+        <p>قرعهٔ برگزاری <a href="http://events.ubuntu.ir/">جشن انتشار اوبونتو</a> ایندفعه به ما افتاد و ما هم تمام تلاشمون رو کردیم که حضور در این همایش خاطرهٔ خوبی بشه برای شرکت کننده ها. همونطور که شرکت توی جشن‌های قبلی تجربهٔ شیرینی بود برای خود من.</p>
+
+<p>برگزاری این همایش چندتا نکته در بر داشت که یادآوریشون خالی از لطف نیست:</p>
+
+<ul>
+<li>متاسفانه از نظر زمانبندی نتونستیم اونطور که میبایست رویداد رو مدیریت کنیم. برنامه دیرتر از زمانی که برنامه ریزی کرده بودیم شروع شد و گاها ارائه دهنده ها بیشتر از زمانی که براشون در نظر گرفته شده بود صحبت کردن (که تماما تقصیر ما بود چون جزئیات برنامه رو به خوبی باهاشون هماهنگ نکرده بودیم). تمام تلاشمون رو میکنیم که در رویدادهای بعدی با چنین مشکلی روبرو نشیم.</li>
+<li>تعداد شرکت کننده ها بیشتر از حد انتظارمون بود که بسیار باعث دلگرمیه.</li>
+<li>برای افرادی که نتونستن حضور پیدا کنن از طریق <a href="https://lahzenegar.com/">لحظه نگار</a> پخش زندهٔ همایش رو انجام دادیم که از پشتیبانی و پاسخگویی به موقع تیم لحظه نگار نهایت رضایت رو داشتیم.</li>
+<li>از روزی که قرار شد این همایش برگزار باشه تا روز برگزاری همایش فقط سه هفته زمان داشتیم که برای برگزاری یک رویداد اینچنینی زمان کمی محسوب میشه و همین موضوع باعث شد نتونیم خیلی از کارا رو به بهترین نحو انجام بدیم.</li>
+</ul>
+
+<p>بچه های لاگ کرمان و اعضای انجمن لینوکس دانشگاه باهنر برای برگزاری این همایش خیلی زحمت کشیدن که ازشون تشکر میکنم. ضمن اینکه یکی از مهم‌ترین دلایل من برای مشارکت توی اینجور اجتماعات، دیدار دوستانه. توی این همایش هم دوستای خوبمون مثل مهدی بیگی، دانیال بهزادی، موهی، فرود و جادی رو دوباره دیدیم، دوستای جدید و باحال پیدا کردیم و دو روز به یاد موندنی رو باهاشون سپری کردیم. و خیلیا هم بودن که میخواستیم ببینیمشون ولی نتونستن کنارمون باشن و تنها کاری که تونستیم بکنیم این بود که جاشون رو خالی کنیم.</p>
+
+<p>در آخر هم اینکه فعالیت توی کامیونیتی خوبه. باعث میشه از طریق برگزاری رویدادهایی مثل همین جشن انتشار اوبونتو چیزای جدید یاد بگیرین، شبکه سازی کنین و مهم‌تر از همه دوستانتون رو ببینین.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/privacy_and_governments</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/privacy_and_governments" />
+    <title>حریم خصوصی و دولت‌ها</title>
+    <published>2016-05-18T00:00:00+00:00</published>
+    <updated>2016-05-18T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">[معاون فرهنگی قوه قضاییه]: در حال حاضر در اکثر تلفن‌های همراه تصاویر مجرمانه وجود دارد و افراد ناخواسته این تصاویر را ذخیره کردند بنابراین آیا جا دارد که همه افراد به نوعی محاکمه شوند؟ لذا افراد ناخواسته مجرم هستند. حال کدام حقوقدان می‌تواند این موضوع را درمان کند. بنابراین من نام این موضوع را ایدز حقوقی می‌گذارم.
+
+
+یکی از مهم‌ترین مسائلی که توسط دولت توی کشورای مختلف که خب طبیعتا ایرانم شاملشونه به شدّت زیر پا گذاشته میشه، حریم خصوصی افراده. دلیل اینکه دولت‌ها به خودشون اجازه میدن حریم شخصی افراد رو نقض کنن، بر خلاف گفته هاشون این نیست که از وقوع جرم های بیشتر جلوگیری کنن. این کار رو خیلی بهتر میتونن انجام بدن اگر وقت، بودجه و انرژیشونو در زمینه‌های مرتبط تری خرج کنن. دلیلش اینه که به اهداف جانبیشون برسن. کشوری مثل آمریکا دنبال اینه که با اعمال طرح هایی مثل Stop Online Piracy Act وPROTECT IP Act نظام سرمایه‌داری قوی تری بسازه، کشوری مثل ایران هدفش اینه که عناوین مجرمانه رو زیاد کنه که هرزمانی که دلش خواست بتونه هر فردی رو که دلش خواست تحت تعقیب قرار بده و بهانه‌ای هم برای محاکمه‌ش هم داشته باشه.
+
+اما نتیجه‌ی جفتشون میشه این که آدمای بیشتری توی جامعه به عنوان مجرم شناخته میشن و کم کم اکثریت جامعه رو کسانی......</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>[معاون فرهنگی قوه قضاییه]: در حال حاضر در اکثر تلفن‌های همراه تصاویر مجرمانه وجود دارد و افراد ناخواسته این تصاویر را ذخیره کردند بنابراین آیا جا دارد که همه افراد به نوعی محاکمه شوند؟ لذا افراد ناخواسته مجرم هستند. حال کدام حقوقدان می‌تواند این موضوع را درمان کند. بنابراین من نام این موضوع را ایدز حقوقی می‌گذارم.</p>
+</blockquote>
+
+<p>یکی از مهم‌ترین مسائلی که توسط دولت توی کشورای مختلف که خب طبیعتا ایرانم شاملشونه به شدّت زیر پا گذاشته میشه، حریم خصوصی افراده. دلیل اینکه دولت‌ها به خودشون اجازه میدن حریم شخصی افراد رو نقض کنن، بر خلاف گفته هاشون این نیست که از وقوع جرم های بیشتر جلوگیری کنن. این کار رو خیلی بهتر میتونن انجام بدن اگر وقت، بودجه و انرژیشونو در زمینه‌های مرتبط تری خرج کنن. دلیلش اینه که به اهداف جانبیشون برسن. کشوری مثل آمریکا دنبال اینه که با اعمال طرح هایی مثل <a href="https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act">Stop Online Piracy Act</a> و<a href="https://en.wikipedia.org/wiki/PROTECT_IP_Act">PROTECT IP Act</a> نظام سرمایه‌داری قوی تری بسازه، کشوری مثل ایران هدفش اینه که عناوین مجرمانه رو زیاد کنه که هرزمانی که دلش خواست بتونه هر فردی رو که دلش خواست تحت تعقیب قرار بده و بهانه‌ای هم برای محاکمه‌ش هم داشته باشه.</p>
+
+<p>اما نتیجه‌ی جفتشون میشه این که آدمای بیشتری توی جامعه به عنوان مجرم شناخته میشن و کم کم اکثریت جامعه رو کسانی تشکیل میدن که از دید دولت مجرم هستن. جدا از نتایج منفی و دوست نداشتنی که این رویه هم برای دولت‌ها و هم برای افراد جامعه در پی داره، نباید این رو فراموش کنیم که قوانین باید برای محافظت از افراد جامعه وضع بشن و نه سرکوب.</p>
     ]]></content>
 </entry>
     </feed>
