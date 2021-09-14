@@ -8,15 +8,15 @@ pagination:
 @extends('_layouts.master')
 
 @section('body')
-    <h1>Blog</h1>
+    <h1>بلاگ</h1>
 
-    <hr class="border-b my-6">
+    <hr class="border-b border-gray-800 my-6">
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
 
         @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
+            <hr class="border-b border-gray-800 my-6">
         @endif
     @endforeach
 
@@ -25,7 +25,7 @@ pagination:
             @if ($previous = $pagination->previous)
                 <a
                     href="{{ $previous }}"
-                    title="Previous Page"
+                    title="صفحه قبلی"
                     class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
                 >&LeftArrow;</a>
             @endif
@@ -33,7 +33,7 @@ pagination:
             @foreach ($pagination->pages as $pageNumber => $path)
                 <a
                     href="{{ $path }}"
-                    title="Go to Page {{ $pageNumber }}"
+                    title="برو به صفحهٔ {{ $pageNumber }}"
                     class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-blue-600' : 'text-blue-700' }}"
                 >{{ $pageNumber }}</a>
             @endforeach
@@ -41,7 +41,7 @@ pagination:
             @if ($next = $pagination->next)
                 <a
                     href="{{ $next }}"
-                    title="Next Page"
+                    title="صفحهٔ بعدی"
                     class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
                 >&RightArrow;</a>
             @endif

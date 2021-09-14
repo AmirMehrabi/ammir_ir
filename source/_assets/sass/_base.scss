@@ -2,15 +2,15 @@ body {
     font-size: 17px;
 }
 
-a {
-    @apply .font-semibold;
-    @apply .no-underline;
-    @apply .text-blue-600;
+// a {
+//     @apply .font-semibold;
+//     @apply .no-underline;
+//     @apply .text-blue-600;
 
-    &:hover {
-        @apply .text-blue-800;
-    }
-}
+//     &:hover {
+//         @apply .text-blue-800;
+//     }
+// }
 
 blockquote {
     @apply .border-blue-400;

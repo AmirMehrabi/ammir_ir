@@ -12,7 +12,7 @@
             <a href="{{ $page->baseUrl }}" class="p-2 bg-blue-800 rounded-full text-white text-lg font-bold">{{ $page->siteName }}</a>
         </div> --}}
 
-        <div class="text-blue-800 text-xl sm:text-2xl md:text-3xl font-bold text-center sm:text-left">{{ $page->title }}</div>
+        <div class="text-gray-800 text-xl sm:text-2xl md:text-3xl text-center sm:text-left font-thin">{{ $page->title }}</div>
 
         <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">{{ $page->author }}</div>
         <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">{{ jdate($page->date)->format('%A، %d %B %Y') }}</div>
@@ -40,7 +40,7 @@
                 <a
                     href="{{ '/blog/categories/' . $category }}"
                     title="View posts in {{ $category }}"
-                    class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+                    class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 text-xs font-semibold rounded ml-4 px-3 pt-px"
                 >{{ $category }}</a>
             @endforeach
         @endif
