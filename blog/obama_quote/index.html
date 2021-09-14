@@ -4,14 +4,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="description" content="All posts that are about new features.">
+        <meta name="description" content="وبلاگ آموری">
 
-        <meta property="og:title" content="Feature | آموری"/>
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://ammir.ir/blog/categories/feature"/>
-        <meta property="og:description" content="All posts that are about new features." />
+        <meta property="og:title" content="جسارت امید | آموری"/>
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://ammir.ir/blog/obama_quote"/>
+        <meta property="og:description" content="وبلاگ آموری" />
 
-        <title>Feature | آموری</title>
+        <title>جسارت امید | آموری</title>
 
         <link rel="home" href="https://ammir.ir">
         <link rel="icon" href="/favicon.ico">
@@ -20,7 +20,7 @@
                     <!-- Insert analytics code here -->
         
         
-        <link rel="stylesheet" href="/assets/build/css/main.css?id=7e9df00f956e6c6c8060">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=988bef5cf9c503c91bdc">
     </head>
 
     <body class="rtl flex flex-col justify-between min-h-screen bg-orange-100 text-gray-800 leading-normal font-sans">
@@ -94,38 +94,74 @@
 </nav>
 
         <main role="main" class="flex-auto w-full container max-w-5xl mx-auto py-16 px-6">
-                <h1>Feature</h1>
-
-    <div class="text-2xl border-b border-gray-200 mb-6 pb-10">
-        <p>These posts are about new features provided to you in the Jigsaw blog starter template.</p>
-    </div>
-
-            <div class="flex flex-col mb-4">
-
-
-    <h2 class="text-3xl m-0">
-        <a
-            href="https://ammir.ir/blog/net-neutrality"
-            title="بیشتر بخوانید - بی‌طرفی شبکه"
-            class="text-gray-900 font-thin hover:underline"
-        >بی‌طرفی شبکه</a>
-    </h2>
-    <p class="text-gray-700 font-medium my-2">
-        خرداد 14, 1398
-    </p>
-    <p class="mb-4 mt-0">قدمت سانسورشیپ و فیلترینگ ساختاریافته در ایران به دورهٔ دوم اصلاحات برمی‌گردد. زمانی که دولت اجازه داد شورای عالی انقلاب فرهنگی به جای مجلس به تصویب قوانین مرتبط با اینترنت مانند فیلترینگ بپردازد. سیاست‌های غیرشفاف در بحث فیلترینگ باعث شده که ایران یکی از بدترین کشورهای جهان در بحث نقض حقوق کاربران باشد. همهٔ این‌ها دست به دست هم داده که چیزی به عنوان «بی‌طرفی شبکه» در فضای مجازی ایران مفهومی نداشته باشد.
-
-حالا که بحث فیلترینگ تلگرام داغ شده، تصمیم به نوشتن این یادداشت گرفتم. چرا که بی‌طرفی شبکه مبحث بسیار مهمی است و حالا که قرار است با... <a
-        href="https://ammir.ir/blog/net-neutrality"
-        title="بیشتر بخوانید - بی‌طرفی شبکه"
-        class=" hover:underline"
-    >ادامه</a></p>
-
-    
-</div>
-
             
+<div class="flex flex-col sm:flex-row " style="direction: ltr;">
+    <div class="w-full sm:w-1/3 md:w-1/4 text-gray-700 text-center px-4 py-2 m-2">
+        
+
+        <div class="text-gray-800 text-xl sm:text-2xl md:text-3xl text-center sm:text-left font-thin">جسارت امید</div>
+
+        <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">آموری مهرابیان</div>
+        <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">چهارشنبه، 01 شهریور 1396</div>
+
+
+        <div class="text-gray-700 text-center sm:text-left hover:underline">
+                        
+            <a href="https://ammir.ir/blog/ziaadin_quote" title="Older Post: " >Next:  No title</a>
+
+                    
+        </div>
+    </div>
+    <div class=" font-sans w-full sm:w-2/3 md:w-3/4 text-black font-light text-lg text-left px-4 py-2 m-2 leading-relaxed">
+        
+                                            <a
+                    href="/blog/categories/quote"
+                    title="View posts in quote"
+                    class="inline-block bg-gray-300 hover:bg-gray-200 leading-loose tracking-wide text-gray-800 text-xs font-semibold rounded mr-4 px-3 pt-px"
+                >quote</a>
+                    
+        <blockquote>
+  <p>“There is a moment in the life of every generation, when that spirit of hopefulness has to come true, if we are to make our mark on history.”</p>
+</blockquote>
+
+<p>―Barack Obama</p>
+
+    </div>
+</div>
     
+
+
+    <script>
+        /* Progress bar */
+        //Source: https://alligator.io/js/progress-bar-javascript-css-variables/
+        var h = document.documentElement,
+            b = document.body,
+            st = 'scrollTop',
+            sh = 'scrollHeight',
+            progress = document.querySelector('#progress'),
+            scroll;
+        var scrollpos = window.scrollY;
+        var header = document.getElementById("header");
+        var navcontent = document.getElementById("nav-content");
+
+        document.addEventListener('scroll', function() {
+
+            /*Refresh scroll % width*/
+            scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
+            progress.style.setProperty('--scroll', scroll + '%');
+
+            /*Apply classes for slide in bar*/
+            scrollpos = window.scrollY;
+
+
+        });
+
+
+        //Javascript to toggle the menu
+        // document.getElementById('nav-toggle').onclick = function() {
+        //     document.getElementById("nav-content").classList.toggle("hidden");
+        // }
+    </script>
         </main>
 
         
