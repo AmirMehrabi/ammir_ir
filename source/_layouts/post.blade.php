@@ -9,7 +9,7 @@
 <div class="flex flex-col sm:flex-row ">
     <div class="w-full sm:w-1/3 md:w-1/4 text-gray-700 text-center px-4 py-2 m-2">
         {{-- <div class="mb-5 text-center sm:text-left">
-            <a href="{{ $page->baseUrl }}" class="p-2 bg-blue-800 rounded-full text-white text-lg font-bold">{{ $page->siteName }}</a>
+            <a href="{{ $page->baseUrl }}" class="p-2 bg-gray-800 rounded-full text-white text-lg font-bold">{{ $page->siteName }}</a>
         </div> --}}
 
         <div class="text-gray-800 text-xl sm:text-2xl md:text-3xl text-center sm:text-left font-thin">{{ $page->title }}</div>
@@ -18,7 +18,7 @@
         <div class="text-gray-800 text-sm md:text-normal font-light text-center sm:text-left">{{ jdate($page->date)->format('%A، %d %B %Y') }}</div>
 
 
-        <div class="text-blue-700 text-center sm:text-left hover:underline">
+        <div class="text-gray-700 text-center sm:text-left hover:underline">
             @if ($page->next_title)
             @endif
             @if ($previous = $page->getPrevious())
@@ -40,7 +40,7 @@
                 <a
                     href="{{ '/blog/categories/' . $category }}"
                     title="View posts in {{ $category }}"
-                    class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 text-xs font-semibold rounded ml-4 px-3 pt-px"
+                    class="inline-block bg-gray-300 hover:bg-gray-200 leading-loose tracking-wide text-gray-800 text-xs font-semibold rounded ml-4 px-3 pt-px"
                 >{{ $category }}</a>
             @endforeach
         @endif
@@ -62,12 +62,12 @@
             <a
                 href="{{ '/blog/categories/' . $category }}"
                 title="View posts in {{ $category }}"
-                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+                class="inline-block bg-gray-300 hover:bg-gray-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
             >{{ $category }}</a>
         @endforeach
     @endif
 
-    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+    <div class="border-b border-gray-200 mb-10 pb-4" v-pre>
         @yield('content')
     </div>
 

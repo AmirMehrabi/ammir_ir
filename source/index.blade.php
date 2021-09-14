@@ -26,7 +26,7 @@
 
 
             @if (! $loop->last)
-                <hr class="border-b my-6 border-blue-800">
+                <hr class="border-b my-6 border-gray-300">
             @endif
         </div>
 

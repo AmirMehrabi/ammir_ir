@@ -55,7 +55,7 @@
             @yield('body')
         </main>
 
-        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+        {{-- <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none font-sans">
 
                 <li class="font-sans">
@@ -63,8 +63,27 @@
                     و <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
                 </li>
             </ul>
+        </footer> --}}
+        <footer class="bg-white border-t border-gray-400 shadow">
+            <div class="container max-w-4xl mx-auto flex py-8">
+    
+                <div class="w-full mx-auto flex flex-wrap">
+                    <div class="flex w-full md:w-2/3 ">
+                        <div class="px-6">
+                            {{-- <h3 class="font-bold text-gray-900">درباره</h3> --}}
+                            <p class="py-3 text-gray-600 text-sm">
+                                ساخته شده به صورت آزاد روی سکوهای <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
+                                و <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                            </p>
+                            نسخه ۰.۵.۰ - <a href="/changelog" class="text-gray-700 hover:text-gray-900 hover:underline">تاریخچه تغییرات</a>
+                        </div>
+                    </div>
+                </div>
+    
+    
+    
+            </div>
         </footer>
-
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')

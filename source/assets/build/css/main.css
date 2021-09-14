@@ -817,8 +817,8 @@ body {
 
 blockquote {
   --border-opacity: 1;
-  border-color: #63b3ed;
-  border-color: rgba(99, 179, 237, var(--border-opacity));
+  border-color: #cbd5e0;
+  border-color: rgba(203, 213, 224, var(--border-opacity));
   border-left-width: 4px;
   font-weight: 400;
   font-style: italic;
@@ -911,8 +911,8 @@ h6 {
 hr {
   border-bottom-width: 1px;
   --border-opacity: 1;
-  border-color: #bee3f8;
-  border-color: rgba(190, 227, 248, var(--border-opacity));
+  border-color: #edf2f7;
+  border-color: rgba(237, 242, 247, var(--border-opacity));
   margin-top: 3rem;
   margin-bottom: 3rem;
   border-radius: 9999px;
@@ -973,8 +973,8 @@ pre code {
 
 ::-moz-selection {
   --bg-opacity: 1;
-  background-color: #4299e1;
-  background-color: rgba(66, 153, 225, var(--bg-opacity));
+  background-color: #a0aec0;
+  background-color: rgba(160, 174, 192, var(--bg-opacity));
   --text-opacity: 1;
   color: #fff;
   color: rgba(255, 255, 255, var(--text-opacity));
@@ -982,8 +982,8 @@ pre code {
 
 ::selection {
   --bg-opacity: 1;
-  background-color: #4299e1;
-  background-color: rgba(66, 153, 225, var(--bg-opacity));
+  background-color: #a0aec0;
+  background-color: rgba(160, 174, 192, var(--bg-opacity));
   --text-opacity: 1;
   color: #fff;
   color: rgba(255, 255, 255, var(--text-opacity));
@@ -1081,8 +1081,8 @@ pre code {
 
 #mc-embedded-subscribe {
   --bg-opacity: 1;
-  background-color: #4299e1;
-  background-color: rgba(66, 153, 225, var(--bg-opacity));
+  background-color: #a0aec0;
+  background-color: rgba(160, 174, 192, var(--bg-opacity));
   cursor: pointer;
   line-height: 1.6;
   padding-left: 1.5rem;
@@ -1099,8 +1099,8 @@ pre code {
 
 #mc-embedded-subscribe:hover {
   --bg-opacity: 1;
-  background-color: #3182ce;
-  background-color: rgba(49, 130, 206, var(--bg-opacity));
+  background-color: #718096;
+  background-color: rgba(113, 128, 150, var(--bg-opacity));
 }
 
 @media (min-width: 768px) {
