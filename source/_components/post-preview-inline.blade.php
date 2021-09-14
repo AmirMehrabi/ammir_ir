@@ -1,4 +1,4 @@
-<div class="flex flex-col mb-4">
+<div class="flex flex-col mb-4 {{ $post->ltr == true  ? 'ltr' : ' '}}">
 
 
     <h2 class="text-3xl m-0">

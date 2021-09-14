@@ -2,7 +2,7 @@
 
 @section('body')
     @foreach ($posts as $featuredPost)
-        <div class="w-full md:w-4/5 mx-auto mb-6">
+        <div class="w-full md:w-4/5 mx-auto mb-6 {{ $featuredPost->ltr == true  ? 'ltr' : ' '}}" >
             {{-- @if ($featuredPost->cover_image)
                 <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6">
             @endif --}}

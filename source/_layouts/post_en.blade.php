@@ -6,7 +6,7 @@
 
 @section('body')
 
-<div class="flex flex-col sm:flex-row ">
+<div class="flex flex-col sm:flex-row " style="direction: ltr;">
     <div class="w-full sm:w-1/3 md:w-1/4 text-gray-700 text-center px-4 py-2 m-2">
         {{-- <div class="mb-5 text-center sm:text-left">
             <a href="{{ $page->baseUrl }}" class="p-2 bg-gray-800 rounded-full text-white text-lg font-bold">{{ $page->siteName }}</a>
@@ -23,14 +23,13 @@
             @endif
             @if ($previous = $page->getPrevious())
 
-            <a href="{{ $previous->getUrl() }}" title="Older Post: {{ $previous->title }}" >{{ $page->ltr == true ? 'Next' : 'بعدی' }}:  {{ $previous->title ?? 'بدون عنوان' }}</a>
+            <a href="{{ $previous->getUrl() }}" title="Older Post: {{ $previous->title }}" >{{ $page->ltr == true ? 'Next' : 'بعدی' }}:  {{ $previous->title ?? 'No title'}}</a>
 
         @endif
             
         </div>
-
     </div>
-    <div class=" font-sans w-full sm:w-2/3 md:w-3/4 text-black font-light text-lg text-right px-4 py-2 m-2 leading-relaxed">
+    <div class=" font-sans w-full sm:w-2/3 md:w-3/4 text-black font-light text-lg text-left px-4 py-2 m-2 leading-relaxed">
         {{-- <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold mb-3">{{ $page->title }}</h1> --}}
         @if ($page->cover_image)
             <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-2">
@@ -40,7 +39,7 @@
                 <a
                     href="{{ '/blog/categories/' . $category }}"
                     title="View posts in {{ $category }}"
-                    class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 text-xs font-semibold rounded ml-4 px-3 pt-px"
+                    class="inline-block bg-gray-300 hover:bg-gray-200 leading-loose tracking-wide text-gray-800 text-xs font-semibold rounded mr-4 px-3 pt-px"
                 >{{ $category }}</a>
             @endforeach
         @endif
@@ -62,12 +61,12 @@
             <a
                 href="{{ '/blog/categories/' . $category }}"
                 title="View posts in {{ $category }}"
-                class="inline-block bg-gray-300 hover:bg-blue-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+                class="inline-block bg-gray-300 hover:bg-gray-200 leading-loose tracking-wide text-gray-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
             >{{ $category }}</a>
         @endforeach
     @endif
 
-    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+    <div class="border-b border-gray-200 mb-10 pb-4" v-pre>
         @yield('content')
     </div>
 
