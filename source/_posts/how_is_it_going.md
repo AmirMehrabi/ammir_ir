@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: دانلود مساوی با دزدی نیست
+title: دیگر چه خبر؟ داد و بیداد است آقا
 date: 2019-04-14
 # categories: [flash-fiction]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

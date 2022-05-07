@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: دیشب خیلی اتفاقی؛ سد معبر
+title: It’s a fucked up situation.
 date: 2018-02-28
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: آزادی بیان
+title: چرا نرفتی؟
 date: 2018-04-23
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

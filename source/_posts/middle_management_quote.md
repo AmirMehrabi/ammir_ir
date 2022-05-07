@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: دانلود مساوی با دزدی نیست
+title: Middle-management meaning
 date: 2019-08-12
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

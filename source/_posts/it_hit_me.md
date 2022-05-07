@@ -1,8 +1,9 @@
 ---
-extends: _layouts.post
+extends: _layouts.post_en
 section: content
 title: Then it hit me
 date: 2022-04-18
+ltr: true
 # categories: []
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز
 # cover_image: /assets/img/post-cover-image-1.png

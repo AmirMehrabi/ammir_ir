@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: دانلود مساوی با دزدی نیست
+title: Who wants to be in heaven, eh?
 date: 2019-09-09
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

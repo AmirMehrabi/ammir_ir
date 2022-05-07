@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: 
+title: So I met a dude who’d been diagnosed with Parkinson’s
 date: 2020-10-24
 categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

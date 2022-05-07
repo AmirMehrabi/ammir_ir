@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: دانلود مساوی با دزدی نیست
+title: آمده بودیم میمند. یک روزه آمدیم و برگشتیم
 date: 2019-05-25
 # categories: [flash-fiction]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

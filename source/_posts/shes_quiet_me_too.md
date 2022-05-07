@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: بازگشت گیم آو ترونز
+title: او ساکت است، و من هم
 date: 2017-10-02
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

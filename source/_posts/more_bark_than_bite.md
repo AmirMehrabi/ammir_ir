@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: 
+title: In the coming couple of days, we’re gonna witness more bark than bite.
 date: 2020-11-27
 categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

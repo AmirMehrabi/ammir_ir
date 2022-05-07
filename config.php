@@ -13,7 +13,7 @@ return [
     'collections' => [
         'posts' => [
             'author' => 'آموری مهرابیان', // Default author, if not provided in a post
-            'sort' => '-date',
+            'sort' => ['-ltr', '-date'],
             'path' => 'blog/{filename}',
         ],
         'categories' => [

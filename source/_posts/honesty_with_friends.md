@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: آزادی بیان
+title: I believe once in a while you should let your friends know their presence is appreciated
 date: 2018-11-17
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

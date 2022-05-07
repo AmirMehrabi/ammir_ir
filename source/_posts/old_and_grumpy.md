@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: 
+title: When I grow old, I’m gonna be grumpy and bitter.
 date: 2020-10-26
 # categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

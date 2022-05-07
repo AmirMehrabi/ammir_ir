@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: Finally Forgiven
+title: Cradle of leadership
 date: 2017-11-20
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

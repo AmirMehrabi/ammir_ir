@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: دنده سه
+title: All the bullshit led up to this final moment
 date: 2017-12-23
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

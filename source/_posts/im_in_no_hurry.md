@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: آزادی بیان
+title: در امتداد خلوت‌ترین ساعات شهر
 date: 2018-07-29
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

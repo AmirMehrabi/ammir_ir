@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: جسارت امید
+title: You wanna know what somebody’s gonna do?
 date: 2017-11-29
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

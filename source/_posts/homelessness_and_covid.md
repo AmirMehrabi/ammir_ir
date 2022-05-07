@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: 
+title: The number of kids who are left out of school is increasing. Why?
 date: 2020-11-30
 categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

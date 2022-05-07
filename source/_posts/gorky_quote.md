@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: دنده سه
+title: A good man can be stupid and still be good
 date: 2017-12-30
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

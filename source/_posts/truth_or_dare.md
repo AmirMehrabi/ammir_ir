@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: آزادی بیان
+title: Truth or dare?
 date: 2018-07-26
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: 
+title: I would say
 date: 2020-10-09
 # categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

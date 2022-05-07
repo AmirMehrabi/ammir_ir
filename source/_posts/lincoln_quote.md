@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: آزادی بیان
+title: How can I hold that all men are created equal?
 date: 2018-10-08
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

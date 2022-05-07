@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: بازگشت گیم آو ترونز
+title: تقدیر پوتین
 date: 2017-08-31
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

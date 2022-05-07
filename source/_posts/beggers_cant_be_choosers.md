@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: Path to forgiveness
+title: این کارمندی و نوکر دیگران بودن هم دردسریست
 date: 2017-09-23
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

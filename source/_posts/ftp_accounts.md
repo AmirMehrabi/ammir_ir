@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: ساعت مرگ من
+title: FTP Accounts make me nervous
 date: 2020-07-27
 categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

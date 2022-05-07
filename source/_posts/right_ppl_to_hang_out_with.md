@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: 
+title: Spending time with the “right” bunch of people
 date: 2020-10-13
 # categories: [opinion]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

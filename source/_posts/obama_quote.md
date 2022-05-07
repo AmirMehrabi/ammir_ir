@@ -1,12 +1,12 @@
 ---
 extends: _layouts.post_en
 section: content
-title: جسارت امید
+title: A moment in the life of every generation
 date: 2017-08-23
 categories: [quote]
+ltr: true
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز
 # cover_image: /assets/img/post-cover-image-1.png
-ltr: true
 ---
 
 

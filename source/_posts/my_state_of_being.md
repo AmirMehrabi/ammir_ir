@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: خداحافظی با خجالت کشیدن
+title: روی تخت دراز شده
 date: 2019-03-28
 # categories: [flash-fiction]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

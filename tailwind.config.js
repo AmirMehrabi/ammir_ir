@@ -19,6 +19,9 @@ module.exports = {
     extend: {
       extend: {
         colors: {
+          orange: {
+            100: '#f9fbff'
+          }, 
           yellow: {
             150: '#FFD'
           },
@@ -27,6 +30,9 @@ module.exports = {
       fontFamily: {
         sans: [
           'estedad'
+        ],
+        serif: [
+          'Bitter', 'estedad'
         ],
         mono: [
           'monospace',

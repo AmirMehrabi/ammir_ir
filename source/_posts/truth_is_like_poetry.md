@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: Finally Forgiven
+title: Truth is like poetry.
 date: 2017-11-03
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

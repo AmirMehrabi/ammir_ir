@@ -1,12 +1,11 @@
 ---
 extends: _layouts.post
 section: content
-# title: بگذارید بگویم
+title: بیست و پنجم خرداد نود و هشت
 date: 2019-06-15
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز
 # cover_image: /assets/img/post-cover-image-1.png
-ltr: true
 ---
 
 

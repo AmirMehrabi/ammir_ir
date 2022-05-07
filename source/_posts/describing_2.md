@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-# title: دانلود مساوی با دزدی نیست
+title: یادش رفته چه می‌خواست بگوید
 date: 2019-04-23
 # categories: [flash-fiction]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

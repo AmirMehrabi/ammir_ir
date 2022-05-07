@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: آزادی بیان
+title: You didn’t clean up after your dog
 date: 2018-10-23
 categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز

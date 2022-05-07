@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post_en
 section: content
-# title: دیشب خیلی اتفاقی؛ سد معبر
+title: I miss her again
 date: 2018-01-04
 # categories: [quote]
 # description: نوشته‌ای در مورد بازگشت گیم آو ترونز
