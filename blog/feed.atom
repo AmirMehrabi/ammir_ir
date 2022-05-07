@@ -3,12 +3,38 @@
     <title>آموری</title>
     <link href="https://ammir.ir/blog" />
     <link type="application/atom+xml" rel="self" href="https://ammir.ir/blog/feed.atom" />
-    <updated>2021-09-15T19:19:23+00:00</updated>
+    <updated>2022-04-17T21:50:36+00:00</updated>
     <id>https://ammir.ir/blog/feed.atom</id>
     <author>
         <name>آموری مهرابیان</name>
     </author>
                 <entry>
+    <id>https://ammir.ir/blog/it_hit_me</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/it_hit_me" />
+    <title>Then it hit me</title>
+    <published>2022-04-18T00:00:00+00:00</published>
+    <updated>2022-04-18T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">So I was checking one of my Github repositories that was supposed to be a weekend project that I came across something strange. First let me give you a little bit of back story:
+
+The project was simple. An easy managable wishlist app for all the things I&#039;d like to purchase or I want my friends/family to get me on different occasions. Nothing fancy, no special features. Just a simple CRUD. That&#039;s easy to do over a weekend, right? And it didn&#039;t actually take much longer than that. But when I was checking the commits I saw that the first commit date goes back to three months ago. 3 months, that means 12 weeks and about 90 days to knock off a simple CRUD application with at most three pages.
+
+Now I wasn&#039;t working on this app for the better part of this 3 months, I can say I knocked it off in 1 or 2 weekends and spent the rest of the time basically not giving a damn about this project. But It shook me to the core that from the moment I laid hands on this project, It took 3 months to finish it.That shook my to the core. Nevertheless the time I spent on deciding to start working on the idea.
+
+Anyway, I&#039;m here with a better understanding on how I should manage and spend my time in the future, but still uncertain if I can change course to the right direction....</summary>
+    <content type="html"><![CDATA[
+        <p>So I was checking one of my Github repositories that was supposed to be a weekend project that I came across something strange. First let me give you a little bit of back story:</p>
+
+<p>The project was simple. An easy managable wishlist app for all the things I'd like to purchase or I want my friends/family to get me on different occasions. Nothing fancy, no special features. Just a simple CRUD. That's easy to do over a weekend, right? And it didn't actually take much longer than that. But when I was checking the commits I saw that the first commit date goes back to three months ago. 3 months, that means 12 weeks and about 90 days to knock off a simple CRUD application with at most three pages.</p>
+
+<p>Now I wasn't working on this app for the better part of this 3 months, I can say I knocked it off in 1 or 2 weekends and spent the rest of the time basically not giving a damn about this project. But It shook me to the core that from the moment I laid hands on this project, It took 3 months to finish it.That shook my to the core. Nevertheless the time I spent on deciding to start working on the idea.</p>
+
+<p>Anyway, I'm here with a better understanding on how I should manage and spend my time in the future, but still uncertain if I can change course to the right direction.</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/homelessness_and_covid</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/homelessness_and_covid" />
     <title></title>
@@ -926,6 +952,26 @@ Mike: No, truth is always interesting.</p>
     ]]></content>
 </entry>
             <entry>
+    <id>https://ammir.ir/blog/25th_hour</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/25th_hour" />
+    <title></title>
+    <published>2018-04-10T00:00:00+00:00</published>
+    <updated>2018-04-10T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">Monty Brogan: Yeah, fuck you, too. Fuck me? Fuck you, Fuck you and this whole city and everyone in it. Fuck the panhandlers, grubbing for money, and smiling at me behind my back. Fuck the squeegee men dirtying up the clean windshield of my car – get a fucking job! Fuck the Sikhs and the Pakistanis bombing down the avenues in decrepit cabs, curry steaming out their pores stinking up my day. Terrorists in fucking training. SLOW THE FUCK DOWN! Fuck the Chelsea boys with their waxed chests and pumped-up biceps. Going down on each other in my parks and on my piers, jingling their dicks on my Channel 35. Fuck the Korean grocers with their pyramids of overpriced fruit and their tulips and roses wrapped in plastic. Ten years in the country, still no speaky English? Fuck the Russians in Brighton Beach. Mobster thugs sitting in cafés, sipping tea in little glasses, sugar cubes between their teeth. Wheelin’ and dealin’ and schemin’. Go back where you fucking came from! Fuck the black-hatted Chassidim, strolling up and down 47th street in their dirty gabardine with their dandruff. Selling South African apartheid diamonds! Fuck the Wall Street brokers. Self-styled masters of the universe. Michael Douglas, Gordon Gekko wannabe mother fuckers, figuring out new ways to rob hard working people blind. Send those Enron assholes to jail for FUCKING LIFE! You think Bush and Cheney didn’t know about that shit? Give me a fucking break! Tyco! Worldcom! Fuck the Puerto Ricans. Twenty to a car, swelling up the welfare rolls, worst fuckin’ parade in the city. And don’t even get me started on the Dom-in-i-cans, ’cause they make the Puerto Ricans look good. Fuck the Bensonhurst Italians with their pomaded hair, their nylon warm-up suits, their St. Anthony medallions, swinging their Jason Giambi Louisville Slugger baseball bats, trying to audition for “The Sopranos.” Fuck the Upper East Side wives with their Hermès scarves and their fifty-dollar Balducci artichokes.......</summary>
+    <content type="html"><![CDATA[
+        <p>Monty Brogan: Yeah, fuck you, too. Fuck <em>me</em>? Fuck <em>you</em>, Fuck you and this whole city and everyone in it. Fuck the panhandlers, grubbing for money, and smiling at me behind my back. Fuck the squeegee men dirtying up the clean windshield of my car – get a fucking job! Fuck the Sikhs and the Pakistanis bombing down the avenues in decrepit cabs, curry steaming out their pores stinking up my day. Terrorists in fucking training. SLOW THE FUCK DOWN! Fuck the Chelsea boys with their waxed chests and pumped-up biceps. Going down on each other in my parks and on my piers, jingling their dicks on my Channel 35. Fuck the Korean grocers with their pyramids of overpriced fruit and their tulips and roses wrapped in plastic. Ten years in the country, still no speaky English? Fuck the Russians in Brighton Beach. Mobster thugs sitting in cafés, sipping tea in little glasses, sugar cubes between their teeth. Wheelin’ and dealin’ and schemin’. Go back where you fucking came from! Fuck the black-hatted Chassidim, strolling up and down 47th street in their dirty gabardine with their dandruff. Selling South African apartheid diamonds! Fuck the Wall Street brokers. Self-styled masters of the universe. Michael Douglas, Gordon Gekko wannabe mother fuckers, figuring out new ways to rob hard working people blind. Send those Enron assholes to jail for FUCKING LIFE! You think Bush and Cheney didn’t know about that shit? Give me a fucking break! Tyco! Worldcom! Fuck the Puerto Ricans. Twenty to a car, swelling up the welfare rolls, worst fuckin’ parade in the city. And don’t even get me started on the Dom-in-i-cans, ’cause they make the Puerto Ricans look good. Fuck the Bensonhurst Italians with their pomaded hair, their nylon warm-up suits, their St. Anthony medallions, swinging their Jason Giambi Louisville Slugger baseball bats, trying to audition for “The Sopranos.” Fuck the Upper East Side wives with their Hermès scarves and their fifty-dollar Balducci artichokes. Overfed faces getting pulled and lifted and stretched, all taut and shiny. You’re not fooling anybody, sweetheart! Fuck the uptown brothers. They never pass the ball, they don’t want to play defense, they take five steps on every lay-up to the hoop. And then they want to turn around and blame everything on the white man. Slavery ended one hundred and thirty seven years ago. Move the fuck on! Fuck the corrupt cops with their anus-violating plungers and their 41 shots, standing behind a blue wall of silence. You betray our trust! Fuck the priests who put their hands down some innocent child’s pants. Fuck the church that protects them, delivering us into evil. And while you’re at it, fuck J.C.! He got off easy! A day on the cross, a weekend in hell, and all the hallelujahs of the legioned angels for eternity! Try seven years in fuckin’ Otisville, J.! Fuck Osama Bin Laden, al-Qaeda, and backward-ass cave-dwelling fundamentalist assholes everywhere. On the names of innocent thousands murdered, I pray you spend the rest of eternity with your seventy-two whores roasting in a jet-fuel fire in hell. You towel-headed camel jockeys can kiss my royal Irish ass! Fuck Jacob Elinsky. Whining malcontent. Fuck Francis Xavier Slaughtery my best friend, judging me while he stares at my girlfriend’s ass. Fuck Naturelle Riviera, I gave her my trust and she stabbed me in the back, sold me up the river, fucking bitch. Fuck my father with his endless grief, standing behind that bar sipping on club sodas, selling whisky to firemen, and cheering the Bronx Bombers. Fuck this whole city and everyone in it. From the row-houses of Astoria to the penthouses on Park Avenue, from the projects in the Bronx to the lofts in Soho. From the tenements in Alphabet City to the brownstones in Park Slope to the split-levels in Staten Island. Let an earthquake crumble it, let the fires rage, let it burn to fucking ash and then let the waters rise and submerge this whole rat-infested place.</p>
+
+<p>[pause]</p>
+
+<p>Monty Brogan: No. No, fuck you, Montgomery Brogan. You had it all, and you threw it away, you <em>dumb</em> <em>fuck</em>!</p>
+
+<p>Monty Brogan, 25th Hour, 2002</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/freedom_of_speech</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/freedom_of_speech" />
     <title>آزادی بیان</title>
@@ -951,26 +997,6 @@ Mike: No, truth is always interesting.</p>
 <p>باید این حق را به مردم بدهیم که آزادانه به بیان دیدگاه‌های خود بپردازند، حتی دیدگاه‌هایی که شدیدا مخالفشان هستیم، نه به این خاطر که حامی گفتمان نفرت‌انگیز هستیم، بلکه چون پس از سال‌ها زندگی در خفقان مطبوعاتی متوجه شده‌ایم که بدون داشتن حق آزادی بیان، ظرفیت هر فرد برای بیان دیدگاه هایش با تهدید روبرو خواهد شد. از این حق دفاع می‌کنیم چرا که در یک جامعهٔ متنوع که از قومیت‌های مختلف، باورها و عقاید مختلف و متنوع تشکیل شده، تلاش برای محدود کردن آزادی بیان سریعا به ابزاری برای ساکت کردن مخالفان تبدیل خواهد شد. از آزادی بیان دفاع می‌کنیم چرا که معتقدیم قدرتمندترین سلاح در مقابل گفتمان نفرت پراکن، نه سرکوب، که سخنرانی و گفتمان بیشتر است.</p>
 
 <p>صداهای تحمل که در مقابل صداهای توهین و خشونت صف می‌کشند، ارزش‌های درک و احترام متقابل در جامعه را پررنگ‌تر می‌کنند. مشخص است که همه با این دیدگاه در مورد حراست از آزادی بیان موافق نیستند که قابل درک است. اما در سال ۱۳۹۷ که هر شخصی با یک تلفن همراه، می‌تواند دیدگاه‌های توهین آمیزش را در سرتاسر دنیا پخش کند، این ایده که می‌توانیم جریان اطلاعات را کنترل کنیم مهجور است.</p>
-    ]]></content>
-</entry>
-            <entry>
-    <id>https://ammir.ir/blog/25th_hour</id>
-    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/25th_hour" />
-    <title></title>
-    <published>2018-04-10T00:00:00+00:00</published>
-    <updated>2018-04-10T00:00:00+00:00</updated>
-    <author>
-        <name>آموری مهرابیان</name>
-    </author>
-    <summary type="html">Monty Brogan: Yeah, fuck you, too. Fuck me? Fuck you, Fuck you and this whole city and everyone in it. Fuck the panhandlers, grubbing for money, and smiling at me behind my back. Fuck the squeegee men dirtying up the clean windshield of my car – get a fucking job! Fuck the Sikhs and the Pakistanis bombing down the avenues in decrepit cabs, curry steaming out their pores stinking up my day. Terrorists in fucking training. SLOW THE FUCK DOWN! Fuck the Chelsea boys with their waxed chests and pumped-up biceps. Going down on each other in my parks and on my piers, jingling their dicks on my Channel 35. Fuck the Korean grocers with their pyramids of overpriced fruit and their tulips and roses wrapped in plastic. Ten years in the country, still no speaky English? Fuck the Russians in Brighton Beach. Mobster thugs sitting in cafés, sipping tea in little glasses, sugar cubes between their teeth. Wheelin’ and dealin’ and schemin’. Go back where you fucking came from! Fuck the black-hatted Chassidim, strolling up and down 47th street in their dirty gabardine with their dandruff. Selling South African apartheid diamonds! Fuck the Wall Street brokers. Self-styled masters of the universe. Michael Douglas, Gordon Gekko wannabe mother fuckers, figuring out new ways to rob hard working people blind. Send those Enron assholes to jail for FUCKING LIFE! You think Bush and Cheney didn’t know about that shit? Give me a fucking break! Tyco! Worldcom! Fuck the Puerto Ricans. Twenty to a car, swelling up the welfare rolls, worst fuckin’ parade in the city. And don’t even get me started on the Dom-in-i-cans, ’cause they make the Puerto Ricans look good. Fuck the Bensonhurst Italians with their pomaded hair, their nylon warm-up suits, their St. Anthony medallions, swinging their Jason Giambi Louisville Slugger baseball bats, trying to audition for “The Sopranos.” Fuck the Upper East Side wives with their Hermès scarves and their fifty-dollar Balducci artichokes.......</summary>
-    <content type="html"><![CDATA[
-        <p>Monty Brogan: Yeah, fuck you, too. Fuck <em>me</em>? Fuck <em>you</em>, Fuck you and this whole city and everyone in it. Fuck the panhandlers, grubbing for money, and smiling at me behind my back. Fuck the squeegee men dirtying up the clean windshield of my car – get a fucking job! Fuck the Sikhs and the Pakistanis bombing down the avenues in decrepit cabs, curry steaming out their pores stinking up my day. Terrorists in fucking training. SLOW THE FUCK DOWN! Fuck the Chelsea boys with their waxed chests and pumped-up biceps. Going down on each other in my parks and on my piers, jingling their dicks on my Channel 35. Fuck the Korean grocers with their pyramids of overpriced fruit and their tulips and roses wrapped in plastic. Ten years in the country, still no speaky English? Fuck the Russians in Brighton Beach. Mobster thugs sitting in cafés, sipping tea in little glasses, sugar cubes between their teeth. Wheelin’ and dealin’ and schemin’. Go back where you fucking came from! Fuck the black-hatted Chassidim, strolling up and down 47th street in their dirty gabardine with their dandruff. Selling South African apartheid diamonds! Fuck the Wall Street brokers. Self-styled masters of the universe. Michael Douglas, Gordon Gekko wannabe mother fuckers, figuring out new ways to rob hard working people blind. Send those Enron assholes to jail for FUCKING LIFE! You think Bush and Cheney didn’t know about that shit? Give me a fucking break! Tyco! Worldcom! Fuck the Puerto Ricans. Twenty to a car, swelling up the welfare rolls, worst fuckin’ parade in the city. And don’t even get me started on the Dom-in-i-cans, ’cause they make the Puerto Ricans look good. Fuck the Bensonhurst Italians with their pomaded hair, their nylon warm-up suits, their St. Anthony medallions, swinging their Jason Giambi Louisville Slugger baseball bats, trying to audition for “The Sopranos.” Fuck the Upper East Side wives with their Hermès scarves and their fifty-dollar Balducci artichokes. Overfed faces getting pulled and lifted and stretched, all taut and shiny. You’re not fooling anybody, sweetheart! Fuck the uptown brothers. They never pass the ball, they don’t want to play defense, they take five steps on every lay-up to the hoop. And then they want to turn around and blame everything on the white man. Slavery ended one hundred and thirty seven years ago. Move the fuck on! Fuck the corrupt cops with their anus-violating plungers and their 41 shots, standing behind a blue wall of silence. You betray our trust! Fuck the priests who put their hands down some innocent child’s pants. Fuck the church that protects them, delivering us into evil. And while you’re at it, fuck J.C.! He got off easy! A day on the cross, a weekend in hell, and all the hallelujahs of the legioned angels for eternity! Try seven years in fuckin’ Otisville, J.! Fuck Osama Bin Laden, al-Qaeda, and backward-ass cave-dwelling fundamentalist assholes everywhere. On the names of innocent thousands murdered, I pray you spend the rest of eternity with your seventy-two whores roasting in a jet-fuel fire in hell. You towel-headed camel jockeys can kiss my royal Irish ass! Fuck Jacob Elinsky. Whining malcontent. Fuck Francis Xavier Slaughtery my best friend, judging me while he stares at my girlfriend’s ass. Fuck Naturelle Riviera, I gave her my trust and she stabbed me in the back, sold me up the river, fucking bitch. Fuck my father with his endless grief, standing behind that bar sipping on club sodas, selling whisky to firemen, and cheering the Bronx Bombers. Fuck this whole city and everyone in it. From the row-houses of Astoria to the penthouses on Park Avenue, from the projects in the Bronx to the lofts in Soho. From the tenements in Alphabet City to the brownstones in Park Slope to the split-levels in Staten Island. Let an earthquake crumble it, let the fires rage, let it burn to fucking ash and then let the waters rise and submerge this whole rat-infested place.</p>
-
-<p>[pause]</p>
-
-<p>Monty Brogan: No. No, fuck you, Montgomery Brogan. You had it all, and you threw it away, you <em>dumb</em> <em>fuck</em>!</p>
-
-<p>Monty Brogan, 25th Hour, 2002</p>
     ]]></content>
 </entry>
             <entry>
