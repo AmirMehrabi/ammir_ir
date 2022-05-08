@@ -1,5 +1,5 @@
 ---
-extends: _layouts.post
+extends: _layouts.post_en
 section: content
 title: A good man can be stupid and still be good
 date: 2017-12-30
