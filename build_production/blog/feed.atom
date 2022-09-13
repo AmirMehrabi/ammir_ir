@@ -3,12 +3,30 @@
     <title>آموری</title>
     <link href="https://ammir.ir/blog" />
     <link type="application/atom+xml" rel="self" href="https://ammir.ir/blog/feed.atom" />
-    <updated>2022-05-08T00:12:27+00:00</updated>
+    <updated>2022-09-13T12:15:36+00:00</updated>
     <id>https://ammir.ir/blog/feed.atom</id>
     <author>
         <name>آموری مهرابیان</name>
     </author>
                 <entry>
+    <id>https://ammir.ir/blog/00_27th_birthday</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/00_27th_birthday" />
+    <title>27th birthday</title>
+    <published>2022-09-13T00:00:00+00:00</published>
+    <updated>2022-09-13T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">I recently turned 27 and thanks to my WishList(http://wish-list.ir) this year I got the best gifts. My girlfriend got me a coffee grinder I wanted for a long time, my parents got me a shaving machine that I also wanted for a long time but couldn&#039;t get myself to spend that much money on a shaving machine. Faride got me a barfix bar that she knew I wanted. Like that&#039;s gonna help me to start working out :D
+
+And the best of all, emzi got our idea accepted in an accelerator. We&#039;re a team of 3 and we&#039;re working on a fraud detection system that if it&#039;s finished, it&#039;s supposed to be implemented for one of the largest holdings in the region with more than 50 milion users....</summary>
+    <content type="html"><![CDATA[
+        <p>I recently turned 27 and thanks to my WishList(http://wish-list.ir) this year I got the best gifts. My girlfriend got me a coffee grinder I wanted for a long time, my parents got me a shaving machine that I also wanted for a long time but couldn't get myself to spend that much money on a shaving machine. Faride got me a barfix bar that she knew I wanted. Like that's gonna help me to start working out :D</p>
+
+<p>And the best of all, emzi got our idea accepted in an accelerator. We're a team of 3 and we're working on a fraud detection system that if it's finished, it's supposed to be implemented for one of the largest holdings in the region with more than 50 milion users.</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>https://ammir.ir/blog/it_hit_me</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/it_hit_me" />
     <title>Then it hit me</title>
@@ -17,7 +35,7 @@
     <author>
         <name>آموری مهرابیان</name>
     </author>
-    <summary type="html">So I was checking one of my Github repositories that was supposed to be a weekend project that I came across something strange. First let me give you a little bit of back story:
+    <summary type="html">Recently I was checking one of my Github repositories that was supposed to be a weekend project that I came across something strange. First let me give you a little bit of back story:
 
 The project was simple. An easy managable wishlist app for all the things I&#039;d like to purchase or I want my friends/family to get me on different occasions. Nothing fancy, no special features. Just a simple CRUD. That&#039;s easy to do over a weekend, right? And it didn&#039;t actually take much longer than that. But when I was checking the commits I saw that the first commit date goes back to three months ago. 3 months, that means 12 weeks and about 90 days to knock off a simple CRUD application with at most three pages.
 
@@ -25,7 +43,7 @@ Now I wasn&#039;t working on this app for the better part of this 3 months, I ca
 
 Anyway, I&#039;m here with a better understanding on how I should manage and spend my time in the future, but still uncertain if I can change course to the right direction....</summary>
     <content type="html"><![CDATA[
-        <p>So I was checking one of my Github repositories that was supposed to be a weekend project that I came across something strange. First let me give you a little bit of back story:</p>
+        <p>Recently I was checking one of my Github repositories that was supposed to be a weekend project that I came across something strange. First let me give you a little bit of back story:</p>
 
 <p>The project was simple. An easy managable wishlist app for all the things I'd like to purchase or I want my friends/family to get me on different occasions. Nothing fancy, no special features. Just a simple CRUD. That's easy to do over a weekend, right? And it didn't actually take much longer than that. But when I was checking the commits I saw that the first commit date goes back to three months ago. 3 months, that means 12 weeks and about 90 days to knock off a simple CRUD application with at most three pages.</p>
 
@@ -1562,31 +1580,6 @@ Tyrion Lannister-
     ]]></content>
 </entry>
             <entry>
-    <id>https://ammir.ir/blog/privacy_and_governments</id>
-    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/privacy_and_governments" />
-    <title>حریم خصوصی و دولت‌ها</title>
-    <published>2016-05-18T00:00:00+00:00</published>
-    <updated>2016-05-18T00:00:00+00:00</updated>
-    <author>
-        <name>آموری مهرابیان</name>
-    </author>
-    <summary type="html">[معاون فرهنگی قوه قضاییه]: در حال حاضر در اکثر تلفن‌های همراه تصاویر مجرمانه وجود دارد و افراد ناخواسته این تصاویر را ذخیره کردند بنابراین آیا جا دارد که همه افراد به نوعی محاکمه شوند؟ لذا افراد ناخواسته مجرم هستند. حال کدام حقوقدان می‌تواند این موضوع را درمان کند. بنابراین من نام این موضوع را ایدز حقوقی می‌گذارم.
-
-
-یکی از مهم‌ترین مسائلی که توسط دولت توی کشورای مختلف که خب طبیعتا ایرانم شاملشونه به شدّت زیر پا گذاشته میشه، حریم خصوصی افراده. دلیل اینکه دولت‌ها به خودشون اجازه میدن حریم شخصی افراد رو نقض کنن، بر خلاف گفته هاشون این نیست که از وقوع جرم های بیشتر جلوگیری کنن. این کار رو خیلی بهتر میتونن انجام بدن اگر وقت، بودجه و انرژیشونو در زمینه‌های مرتبط تری خرج کنن. دلیلش اینه که به اهداف جانبیشون برسن. کشوری مثل آمریکا دنبال اینه که با اعمال طرح هایی مثل Stop Online Piracy Act وPROTECT IP Act نظام سرمایه‌داری قوی تری بسازه، کشوری مثل ایران هدفش اینه که عناوین مجرمانه رو زیاد کنه که هرزمانی که دلش خواست بتونه هر فردی رو که دلش خواست تحت تعقیب قرار بده و بهانه‌ای هم برای محاکمه‌ش هم داشته باشه.
-
-اما نتیجه‌ی جفتشون میشه این که آدمای بیشتری توی جامعه به عنوان مجرم شناخته میشن و کم کم اکثریت جامعه رو کسانی......</summary>
-    <content type="html"><![CDATA[
-        <blockquote>
-  <p>[معاون فرهنگی قوه قضاییه]: در حال حاضر در اکثر تلفن‌های همراه تصاویر مجرمانه وجود دارد و افراد ناخواسته این تصاویر را ذخیره کردند بنابراین آیا جا دارد که همه افراد به نوعی محاکمه شوند؟ لذا افراد ناخواسته مجرم هستند. حال کدام حقوقدان می‌تواند این موضوع را درمان کند. بنابراین من نام این موضوع را ایدز حقوقی می‌گذارم.</p>
-</blockquote>
-
-<p>یکی از مهم‌ترین مسائلی که توسط دولت توی کشورای مختلف که خب طبیعتا ایرانم شاملشونه به شدّت زیر پا گذاشته میشه، حریم خصوصی افراده. دلیل اینکه دولت‌ها به خودشون اجازه میدن حریم شخصی افراد رو نقض کنن، بر خلاف گفته هاشون این نیست که از وقوع جرم های بیشتر جلوگیری کنن. این کار رو خیلی بهتر میتونن انجام بدن اگر وقت، بودجه و انرژیشونو در زمینه‌های مرتبط تری خرج کنن. دلیلش اینه که به اهداف جانبیشون برسن. کشوری مثل آمریکا دنبال اینه که با اعمال طرح هایی مثل <a href="https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act">Stop Online Piracy Act</a> و<a href="https://en.wikipedia.org/wiki/PROTECT_IP_Act">PROTECT IP Act</a> نظام سرمایه‌داری قوی تری بسازه، کشوری مثل ایران هدفش اینه که عناوین مجرمانه رو زیاد کنه که هرزمانی که دلش خواست بتونه هر فردی رو که دلش خواست تحت تعقیب قرار بده و بهانه‌ای هم برای محاکمه‌ش هم داشته باشه.</p>
-
-<p>اما نتیجه‌ی جفتشون میشه این که آدمای بیشتری توی جامعه به عنوان مجرم شناخته میشن و کم کم اکثریت جامعه رو کسانی تشکیل میدن که از دید دولت مجرم هستن. جدا از نتایج منفی و دوست نداشتنی که این رویه هم برای دولت‌ها و هم برای افراد جامعه در پی داره، نباید این رو فراموش کنیم که قوانین باید برای محافظت از افراد جامعه وضع بشن و نه سرکوب.</p>
-    ]]></content>
-</entry>
-            <entry>
     <id>https://ammir.ir/blog/ubuntu-release-party</id>
     <link type="text/html" rel="alternate" href="https://ammir.ir/blog/ubuntu-release-party" />
     <title>جشن انتشار اوبونتو</title>
@@ -1622,6 +1615,31 @@ Tyrion Lannister-
 <p>بچه های لاگ کرمان و اعضای انجمن لینوکس دانشگاه باهنر برای برگزاری این همایش خیلی زحمت کشیدن که ازشون تشکر میکنم. ضمن اینکه یکی از مهم‌ترین دلایل من برای مشارکت توی اینجور اجتماعات، دیدار دوستانه. توی این همایش هم دوستای خوبمون مثل مهدی بیگی، دانیال بهزادی، موهی، فرود و جادی رو دوباره دیدیم، دوستای جدید و باحال پیدا کردیم و دو روز به یاد موندنی رو باهاشون سپری کردیم. و خیلیا هم بودن که میخواستیم ببینیمشون ولی نتونستن کنارمون باشن و تنها کاری که تونستیم بکنیم این بود که جاشون رو خالی کنیم.</p>
 
 <p>در آخر هم اینکه فعالیت توی کامیونیتی خوبه. باعث میشه از طریق برگزاری رویدادهایی مثل همین جشن انتشار اوبونتو چیزای جدید یاد بگیرین، شبکه سازی کنین و مهم‌تر از همه دوستانتون رو ببینین.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://ammir.ir/blog/privacy_and_governments</id>
+    <link type="text/html" rel="alternate" href="https://ammir.ir/blog/privacy_and_governments" />
+    <title>حریم خصوصی و دولت‌ها</title>
+    <published>2016-05-18T00:00:00+00:00</published>
+    <updated>2016-05-18T00:00:00+00:00</updated>
+    <author>
+        <name>آموری مهرابیان</name>
+    </author>
+    <summary type="html">[معاون فرهنگی قوه قضاییه]: در حال حاضر در اکثر تلفن‌های همراه تصاویر مجرمانه وجود دارد و افراد ناخواسته این تصاویر را ذخیره کردند بنابراین آیا جا دارد که همه افراد به نوعی محاکمه شوند؟ لذا افراد ناخواسته مجرم هستند. حال کدام حقوقدان می‌تواند این موضوع را درمان کند. بنابراین من نام این موضوع را ایدز حقوقی می‌گذارم.
+
+
+یکی از مهم‌ترین مسائلی که توسط دولت توی کشورای مختلف که خب طبیعتا ایرانم شاملشونه به شدّت زیر پا گذاشته میشه، حریم خصوصی افراده. دلیل اینکه دولت‌ها به خودشون اجازه میدن حریم شخصی افراد رو نقض کنن، بر خلاف گفته هاشون این نیست که از وقوع جرم های بیشتر جلوگیری کنن. این کار رو خیلی بهتر میتونن انجام بدن اگر وقت، بودجه و انرژیشونو در زمینه‌های مرتبط تری خرج کنن. دلیلش اینه که به اهداف جانبیشون برسن. کشوری مثل آمریکا دنبال اینه که با اعمال طرح هایی مثل Stop Online Piracy Act وPROTECT IP Act نظام سرمایه‌داری قوی تری بسازه، کشوری مثل ایران هدفش اینه که عناوین مجرمانه رو زیاد کنه که هرزمانی که دلش خواست بتونه هر فردی رو که دلش خواست تحت تعقیب قرار بده و بهانه‌ای هم برای محاکمه‌ش هم داشته باشه.
+
+اما نتیجه‌ی جفتشون میشه این که آدمای بیشتری توی جامعه به عنوان مجرم شناخته میشن و کم کم اکثریت جامعه رو کسانی......</summary>
+    <content type="html"><![CDATA[
+        <blockquote>
+  <p>[معاون فرهنگی قوه قضاییه]: در حال حاضر در اکثر تلفن‌های همراه تصاویر مجرمانه وجود دارد و افراد ناخواسته این تصاویر را ذخیره کردند بنابراین آیا جا دارد که همه افراد به نوعی محاکمه شوند؟ لذا افراد ناخواسته مجرم هستند. حال کدام حقوقدان می‌تواند این موضوع را درمان کند. بنابراین من نام این موضوع را ایدز حقوقی می‌گذارم.</p>
+</blockquote>
+
+<p>یکی از مهم‌ترین مسائلی که توسط دولت توی کشورای مختلف که خب طبیعتا ایرانم شاملشونه به شدّت زیر پا گذاشته میشه، حریم خصوصی افراده. دلیل اینکه دولت‌ها به خودشون اجازه میدن حریم شخصی افراد رو نقض کنن، بر خلاف گفته هاشون این نیست که از وقوع جرم های بیشتر جلوگیری کنن. این کار رو خیلی بهتر میتونن انجام بدن اگر وقت، بودجه و انرژیشونو در زمینه‌های مرتبط تری خرج کنن. دلیلش اینه که به اهداف جانبیشون برسن. کشوری مثل آمریکا دنبال اینه که با اعمال طرح هایی مثل <a href="https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act">Stop Online Piracy Act</a> و<a href="https://en.wikipedia.org/wiki/PROTECT_IP_Act">PROTECT IP Act</a> نظام سرمایه‌داری قوی تری بسازه، کشوری مثل ایران هدفش اینه که عناوین مجرمانه رو زیاد کنه که هرزمانی که دلش خواست بتونه هر فردی رو که دلش خواست تحت تعقیب قرار بده و بهانه‌ای هم برای محاکمه‌ش هم داشته باشه.</p>
+
+<p>اما نتیجه‌ی جفتشون میشه این که آدمای بیشتری توی جامعه به عنوان مجرم شناخته میشن و کم کم اکثریت جامعه رو کسانی تشکیل میدن که از دید دولت مجرم هستن. جدا از نتایج منفی و دوست نداشتنی که این رویه هم برای دولت‌ها و هم برای افراد جامعه در پی داره، نباید این رو فراموش کنیم که قوانین باید برای محافظت از افراد جامعه وضع بشن و نه سرکوب.</p>
     ]]></content>
 </entry>
     </feed>
